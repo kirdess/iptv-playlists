@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/76991b4b648f1c65.png" tvg-country="DE" group-title="Films",Cine 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
 #EXTINF:-1 tvg-id="CineActionbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/800ce7ad3410d19b.png" tvg-country="DE" group-title="Films",Cine Action by Pluto TV

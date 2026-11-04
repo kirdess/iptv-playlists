@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8967e15ae62ef3ad.png" tvg-country="CI" group-title="Infos",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b44318591b9ba98e.png" tvg-country="FR" group-title="Infos",Africa 24 [1080p]
@@ -84,7 +84,7 @@ http://149.62.177.107:9999/franceinfo:/index.m3u8
 https://cdn.haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1 tvg-id="HC2TV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b40361e118b088f0.png" tvg-country="BJ" group-title="Infos",HC2 TV
 https://stream.hc2tv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/66e79bb88c250eb1.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
+#EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/25b2f3980e72e260.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/826227e381dfca95.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8

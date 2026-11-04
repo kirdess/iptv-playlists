@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc1523b075b82687.png" tvg-country="BE" group-title="Autres",Bouke [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="Bruzz.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9cb35a84e0b6d6ea.png" tvg-country="BE" group-title="Autres",Bruzz [720p]
@@ -17,7 +17,7 @@ https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0c761a79defff1.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBFT-DT) [1080p] {Geo-blocked}
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBKFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/302daf7bf5b0f3e3.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBKFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/387ffc55133d4ac5.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBLFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
@@ -25,17 +25,17 @@ https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBUFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBVT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBVT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBWFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/91d10331e1aa9c46.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CJBR-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKSH-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKSH-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTM-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTM-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTV-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTV-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
 #EXTINF:-1 tvg-id="ILTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/52cdce231f878aba.png" tvg-country="FR" group-title="Autres",ILTV [720p]
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8

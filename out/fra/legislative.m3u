@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34ebb61426e880b6.png" tvg-country="BE" group-title="Parlementaire",EbS [1080p]
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbb854169986a588.png" tvg-country="BE" group-title="Parlementaire",EbS+ [1080p]

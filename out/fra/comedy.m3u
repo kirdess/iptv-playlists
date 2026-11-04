@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="PlutoTVComedie.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/20ce86f6841459ac.png" tvg-country="DE" group-title="Comédie",Pluto TV Comedie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4da581e1d2f1068f.png" tvg-country="DE" group-title="Comédie",Pluto TV Comedies Cultes

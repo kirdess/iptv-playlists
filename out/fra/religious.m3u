@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc6d71dd6a91c23c.png" tvg-country="US" group-title="Religion",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ef4b078366043439.png" tvg-country="SN" group-title="Religion",A2i Religion [720p] {Not 24/7}

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f25f0062cd14fac9.png" tvg-country="DZ" group-title="Jeunesse",Amou Yazid TV [576p]
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e1d891654100321a.png" tvg-country="US" group-title="Jeunesse",BabyFirst [720p]
@@ -21,7 +21,7 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d3d933231c4b25f4.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon [504p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d7898d4f3a749f1d.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [1080p]
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c554a9a357210d3.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [1080p]
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/42afe92c42385638.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Kids Classics (FR) [720p]
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
