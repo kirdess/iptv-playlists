@@ -66,7 +66,7 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/369d0493337f077a.png" tvg-country="GN" group-title="Généraliste",ATV [400p] {Not 24/7}
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b9ed4f218348151d.png" tvg-country="US" group-title="Jeunesse",BabyFirst [720p]
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e1d891654100321a.png" tvg-country="US" group-title="Jeunesse",BabyFirst [720p]
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BalafonTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/51df943d2e87e5fe.png" tvg-country="CM" group-title="Infos",Balafon TV {Geo-blocked}
 https://broadcasting-channels.com:9044/hls/test.m3u8
@@ -287,13 +287,13 @@ http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 https://fta.ektv.in/live/144/144_0.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1024916bcae8bab5.png" tvg-country="FR" group-title="Lifestyle",FashionTV Paris L'Original [1080p]
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6b8ee97cb98d10bd.png" tvg-country="UK" group-title="Sports",FIFA+ (French) [720p]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="Sports",FIFA+ (French) [720p]
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FilinfoTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/039643c109cc4a9d.png" tvg-country="BF" group-title="Infos",Filinfo TV [1080p]
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4dcd9bfcc79e5043.png" tvg-country="CM" group-title="Infos",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3d932d81c3a031e8.png" tvg-country="FR" group-title="Généraliste",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1a637119105176d.png" tvg-country="FR" group-title="Généraliste",France 2
 http://149.62.177.107:9999/France_2/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/188446253a70db14.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
@@ -304,7 +304,7 @@ http://85.14.32.26:8800/udp/239.100.10.144:5000
 http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4764987ee1cf6c83.png" tvg-country="FR" group-title="Jeunesse",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse",France 4
 http://149.62.177.107:9999/France_4/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e0275ba8512b91a3.png" tvg-country="FR" group-title="Généraliste",France 5
 http://149.62.177.107:9999/France_5/index.m3u8
@@ -356,7 +356,7 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/32ca56f1250e2955.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBOFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBUFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBUFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBVT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
@@ -492,7 +492,7 @@ https://webtv.monacoinfo.com/live/prod/index.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9e766239e7d8d91e.png" tvg-country="FR" group-title="Généraliste",Moselle TV [720p] {Not 24/7}
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2c13dfd0fe3bef48.png" tvg-country="UK" group-title="Animation",Mr Bean Animated (FR) [1080p]
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0a983a63c819789f.png" tvg-country="UK" group-title="Animation",Mr Bean Animated (FR) [1080p]
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aee45f35b3cee9d4.png" tvg-country="UK" group-title="Religion",MTA1 World [720p]
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
