@@ -254,4 +254,12 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:
+        import os
+        import traceback
+        tb = traceback.format_exc()
+        if os.environ.get("GITHUB_ACTIONS"):  # surface the error as a public run annotation
+            print("::error title=build.py failed::" + tb.replace("%", "%25").replace("\n", "%0A"))
+        raise
