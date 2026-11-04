@@ -180,7 +180,7 @@ def make_posters(entries):
 
 
 def m3u(entries, group_of):
-    lines = ['#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"']
+    lines = ['#EXTM3U']  # iptv-org no longer publishes ready-made EPG guides
     for e in entries:
         lines.append(
             f'#EXTINF:-1 tvg-id="{e["id"]}" tvg-logo="{e["logo"]}" tvg-country="{e["country"]}" '
