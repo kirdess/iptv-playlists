@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" group-title="ma-selection",arte [1080p]
+#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0303b2f4e533648d.png" tvg-country="FR" group-title="ma-selection",arte [1080p]
 http://5.180.164.197:8080/ARTEFR/index.m3u8
-#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" tvg-country="US" group-title="ma-selection",Bellator MMA
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/092c1af842da9df5.png" tvg-country="US" group-title="ma-selection",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-country="CA" group-title="ma-selection",Fight Network [1080p]
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2de3102dd03f97a9.png" tvg-country="CA" group-title="ma-selection",Fight Network [1080p]
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-country="FR" group-title="ma-selection",France 24 [1080p]
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/188446253a70db14.png" tvg-country="FR" group-title="ma-selection",France 24 [1080p]
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png" tvg-country="FR" group-title="ma-selection",L'Equipe [1080p]
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b35ba4d019c8495e.png" tvg-country="FR" group-title="ma-selection",L'Equipe [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="PFLMMA.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" tvg-country="US" group-title="ma-selection",PFL MMA [720p]
+#EXTINF:-1 tvg-id="PFLMMA.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/58db69c03ab33c89.png" tvg-country="US" group-title="ma-selection",PFL MMA [720p]
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8

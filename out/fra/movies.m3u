@@ -1,51 +1,51 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" tvg-country="DE" group-title="Films",Cine 666 by Pluto TV
+#EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/76991b4b648f1c65.png" tvg-country="DE" group-title="Films",Cine 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
-#EXTINF:-1 tvg-id="CineActionbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" tvg-country="DE" group-title="Films",Cine Action by Pluto TV
+#EXTINF:-1 tvg-id="CineActionbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/800ce7ad3410d19b.png" tvg-country="DE" group-title="Films",Cine Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
-#EXTINF:-1 tvg-id="CinebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" tvg-country="DE" group-title="Films",Cine by Pluto TV
+#EXTINF:-1 tvg-id="CinebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5eaa3f485bc8bca4.png" tvg-country="DE" group-title="Films",Cine by Pluto TV
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
-#EXTINF:-1 tvg-id="CineCatastrophebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" tvg-country="DE" group-title="Films",Cine Catastrophe by Pluto TV
+#EXTINF:-1 tvg-id="CineCatastrophebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6c80b1faea33e592.png" tvg-country="DE" group-title="Films",Cine Catastrophe by Pluto TV
 https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-#EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" tvg-country="DE" group-title="Films",Cine d'Asie by Pluto TV
+#EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/043290436682fbf9.png" tvg-country="DE" group-title="Films",Cine d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-#EXTINF:-1 tvg-id="CineHorreurbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" tvg-country="DE" group-title="Films",Cine Horreur by Pluto TV
+#EXTINF:-1 tvg-id="CineHorreurbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fa9c237d3330a090.png" tvg-country="DE" group-title="Films",Cine Horreur by Pluto TV
 https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
-#EXTINF:-1 tvg-id="CineNanar.fr" tvg-logo="https://i.imgur.com/YnUZd3W.png" tvg-country="FR" group-title="Films",Cine Nanar [1080p]
+#EXTINF:-1 tvg-id="CineNanar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e68a8a476d44f46a.png" tvg-country="FR" group-title="Films",Cine Nanar [1080p]
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" tvg-country="DE" group-title="Films",Cine Retro by Pluto TV
+#EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb7d84b463320690.png" tvg-country="DE" group-title="Films",Cine Retro by Pluto TV
 https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
-#EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" tvg-country="DE" group-title="Films",Cine Romance by Pluto TV
+#EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b49a50da939b036c.png" tvg-country="DE" group-title="Films",Cine Romance by Pluto TV
 https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-country="DE" group-title="Films",Cine Sci-Fi by Pluto TV
+#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f60368677897f4.png" tvg-country="DE" group-title="Films",Cine Sci-Fi by Pluto TV
 https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
-#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" tvg-country="DE" group-title="Films",Cine Thrillers by Pluto TV
+#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e352b473f47993ac.png" tvg-country="DE" group-title="Films",Cine Thrillers by Pluto TV
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
-#EXTINF:-1 tvg-id="CineWestern.fr" tvg-logo="https://i.imgur.com/tteOFkL.png" tvg-country="FR" group-title="Films",Cine Western [1080p]
+#EXTINF:-1 tvg-id="CineWestern.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9972f504a087068f.png" tvg-country="FR" group-title="Films",Cine Western [1080p]
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" tvg-country="DE" group-title="Films",Cine Western by Pluto TV
+#EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65024ad2530eeb96.png" tvg-country="DE" group-title="Films",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-country="FR" group-title="Films",Cine+ Classic
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3624e5914a350461.png" tvg-country="FR" group-title="Films",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-country="FR" group-title="Films",Cine+ Frisson [1080p]
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/716e8fb0274079a9.png" tvg-country="FR" group-title="Films",Cine+ Frisson [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/CineFrisson/index.m3u8
-#EXTINF:-1 tvg-id="EmotionL.fr" tvg-logo="https://i.imgur.com/MP34aaj.png" tvg-country="FR" group-title="Films",Emotion L [1080p]
+#EXTINF:-1 tvg-id="EmotionL.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/697c5116890dc4c0.png" tvg-country="FR" group-title="Films",Emotion L [1080p]
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-logo="https://i.imgur.com/fQhrsdr.png" tvg-country="CD" group-title="Films",Lollywood HD TV
+#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e7a7ce746f5850f9.png" tvg-country="CD" group-title="Films",Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
-#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" tvg-country="DE" group-title="Films",Pluto TV 90's Classics
+#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fea1fb499421716f.png" tvg-country="DE" group-title="Films",Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" tvg-country="DE" group-title="Films",Pluto TV Comedies Cultes
+#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4da581e1d2f1068f.png" tvg-country="DE" group-title="Films",Pluto TV Comedies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
-#EXTINF:-1 tvg-id="ScreamIN.fr" tvg-logo="https://i.imgur.com/tGmKbil.png" tvg-country="FR" group-title="Films",ScreamIN [1080p]
+#EXTINF:-1 tvg-id="ScreamIN.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e6a296097d2e1899.png" tvg-country="FR" group-title="Films",ScreamIN [1080p]
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-country="FR" group-title="Films",Sony One Favoris [1080p]
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9d8b00af2d2476e4.png" tvg-country="FR" group-title="Films",Sony One Favoris [1080p]
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://i.imgur.com/pXsZEsR.png" tvg-country="FR" group-title="Films",Sony One Hits Action [1080p]
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce205826a6cbbea9.png" tvg-country="FR" group-title="Films",Sony One Hits Action [1080p]
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-logo="https://i.imgur.com/8sHuxxS.png" tvg-country="FR" group-title="Films",Sony One Hits Comedie [1080p]
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f0c2aa31265734c.png" tvg-country="FR" group-title="Films",Sony One Hits Comedie [1080p]
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-country="FR" group-title="Films",TF1 Series Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72340419db5d0b30.png" tvg-country="FR" group-title="Films",TF1 Series Films
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8

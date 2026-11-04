@@ -93,6 +93,92 @@ def build_entries():
     return sorted(best.values(), key=lambda e: e["name"].lower())
 
 
+POSTERS = OUT / "posters"
+POSTER_BASE = "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters"
+POSTER_SIZE = (300, 450)          # Stremio poster ratio 2:3
+POSTER_BG = (236, 239, 243)       # light card for dark or colourful logos
+POSTER_BG_DARK = (34, 36, 40)    # dark card for white or very light logos
+FONT_PATHS = ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
+
+
+def _font(size):
+    from PIL import ImageFont
+    for p in FONT_PATHS:
+        if Path(p).exists():
+            return ImageFont.truetype(p, size)
+    return ImageFont.load_default()
+
+
+def _poster_from_logo(data):
+    import io
+    from PIL import Image
+    logo = Image.open(io.BytesIO(data))
+    logo.load()
+    logo = logo.convert("RGBA")
+    bbox = logo.getchannel("A").getbbox()  # trim transparent margins
+    if bbox:
+        logo = logo.crop(bbox)
+    W, H = POSTER_SIZE
+    logo.thumbnail((int(W * 0.84), int(H * 0.5)), Image.LANCZOS)
+    # pick the card colour that contrasts with the logo's visible pixels
+    px = [p for p in logo.resize((48, 48)).getdata() if p[3] > 128]
+    lum = sum(0.299 * r + 0.587 * g + 0.114 * b for r, g, b, _ in px) / len(px) if px else 0
+    card = Image.new("RGB", POSTER_SIZE, POSTER_BG_DARK if lum > 170 else POSTER_BG)
+    card.paste(logo, ((W - logo.width) // 2, (H - logo.height) // 2), logo)
+    return card
+
+
+def _poster_from_name(name):
+    from PIL import Image, ImageDraw
+    import textwrap
+    W, H = POSTER_SIZE
+    card = Image.new("RGB", POSTER_SIZE, (43, 43, 43))
+    draw = ImageDraw.Draw(card)
+    font = _font(30)
+    text = "\n".join(textwrap.wrap(name, 14)[:4])
+    box = draw.multiline_textbbox((0, 0), text, font=font, align="center")
+    draw.multiline_text(((W - box[2]) // 2, (H - box[3]) // 2), text, font=font,
+                        fill=(240, 240, 240), align="center")
+    return card
+
+
+def make_posters(entries):
+    """Replace each entry's logo by a self-hosted 2:3 poster (cached across runs by URL hash)."""
+    import hashlib
+    from concurrent.futures import ThreadPoolExecutor
+    POSTERS.mkdir(parents=True, exist_ok=True)
+
+    def name_for(e):
+        src = e["logo"] or f"name:{e['plain']}"
+        return hashlib.sha1(src.encode()).hexdigest()[:16] + ".png"
+
+    def render(e):
+        path = POSTERS / name_for(e)
+        if path.exists():
+            return path.name
+        img = None
+        if e["logo"]:
+            try:
+                req = urllib.request.Request(e["logo"], headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    img = _poster_from_logo(r.read())
+            except Exception:
+                img = None
+        if img is None:  # dead link, SVG, or no logo: readable name card instead
+            path = POSTERS / (hashlib.sha1(f"name:{e['plain']}".encode()).hexdigest()[:16] + ".png")
+            if path.exists():
+                return path.name
+            img = _poster_from_name(e["plain"])
+        img.save(path, optimize=True)
+        return path.name
+
+    with ThreadPoolExecutor(16) as pool:
+        names = list(pool.map(render, entries))
+    for e, n in zip(entries, names):
+        e["logo"] = f"{POSTER_BASE}/{n}"
+    return set(names)
+
+
 def m3u(entries, group_of):
     lines = ['#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"']
     for e in entries:
@@ -109,12 +195,9 @@ def m3u(entries, group_of):
 
 
 def write(rel, entries, group_of, index):
-    if not entries:
-        return
-    path = OUT / rel
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(m3u(entries, group_of), encoding="utf-8")
-    index.append((rel, len(entries)))
+    """Queue a playlist; files are written in main() once posters exist."""
+    if entries:
+        index.append((rel, entries, group_of))
 
 
 def main():
@@ -152,11 +235,22 @@ def main():
                 for n, l in wanted)]
             write(f"custom/{txt.stem}.m3u", picked, lambda e, n=txt.stem: n, index)
 
+    published = {e["key"]: e for _, items, _ in index for e in items}
+    print(f"Rendering posters for {len(published)} channels…", file=sys.stderr)
+    used = make_posters(list(published.values()))
+    for old in POSTERS.glob("*.png"):  # drop posters of channels that left every playlist
+        if old.name not in used:
+            old.unlink()
+
+    for rel, items, group_of in index:
+        path = OUT / rel
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(m3u(items, group_of), encoding="utf-8")
     (OUT / "index.md").write_text(
         "# Playlists\n\n| Playlist | Chaînes |\n|---|---|\n"
-        + "".join(f"| `{p}` | {n} |\n" for p, n in index), encoding="utf-8")
-    for p, n in index:
-        print(f"{n:5d}  {p}")
+        + "".join(f"| `{p}` | {len(i)} |\n" for p, i, _ in index), encoding="utf-8")
+    for p, i, _ in index:
+        print(f"{len(i):5d}  {p}")
 
 
 if __name__ == "__main__":

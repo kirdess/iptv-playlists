@@ -1,91 +1,91 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" tvg-country="SN" group-title="Musique",A2i Music [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/98ca35a1a479b88e.png" tvg-country="SN" group-title="Musique",A2i Music [720p] {Not 24/7}
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/0DUprIW.png" tvg-country="BE" group-title="Musique",Bel RTL [1080p]
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72f588950504e437.png" tvg-country="BE" group-title="Musique",Bel RTL [1080p]
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-logo="https://i.imgur.com/86VXni8.jpeg" tvg-country="US" group-title="Musique",BPX TV Radio
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65853f58566ed929.png" tvg-country="US" group-title="Musique",BPX TV Radio
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-logo="https://i.imgur.com/MyiA92q.png" tvg-country="US" group-title="Musique",Clubbing TV (France)
+#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3202cf204cd0de6b.png" tvg-country="US" group-title="Musique",Clubbing TV (France)
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" tvg-country="CH" group-title="Musique",Couleur 3 [720p]
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f55655eac3b3253f.png" tvg-country="CH" group-title="Musique",Couleur 3 [720p]
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
-#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png" tvg-country="FR" group-title="Musique",DBM TV [1080p]
+#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa3edbe1dfced872.png" tvg-country="FR" group-title="Musique",DBM TV [1080p]
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DegaTV.us" tvg-logo="https://i.ibb.co/ZTYvHyR/DEGA-TV-TELEPACK.jpg" tvg-country="US" group-title="Musique",Dega TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="DegaTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c853e3982ad19eac.png" tvg-country="US" group-title="Musique",Dega TV [720p] {Not 24/7}
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
-#EXTINF:-1 tvg-id="FunVision.be" tvg-logo="https://i.imgur.com/AhkKr7Y.png" tvg-country="BE" group-title="Musique",Fun Vision
+#EXTINF:-1 tvg-id="FunVision.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3a3af452c41e8a4b.png" tvg-country="BE" group-title="Musique",Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-logo="https://i.imgur.com/WMrYEgH.png" tvg-country="MQ" group-title="Musique",FUSION TV [1080p]
+#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/733b84b9bfdf8ae8.png" tvg-country="MQ" group-title="Musique",FUSION TV [1080p]
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
-#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" tvg-country="US" group-title="Musique",HMI PROMZ NEWS [720p]
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e6e5590218e07884.png" tvg-country="US" group-title="Musique",HMI PROMZ NEWS [720p]
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
-#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-logo="https://i.imgur.com/Atsf6Cd.png" tvg-country="MQ" group-title="Musique",Identite Tele Caraibes [548p]
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a62626b20ec3c01.png" tvg-country="MQ" group-title="Musique",Identite Tele Caraibes [548p]
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
-#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" tvg-country="CI" group-title="Musique",Ivoire Channel [720p]
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cb54a6e199ea5dbb.png" tvg-country="CI" group-title="Musique",Ivoire Channel [720p]
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://i.imgur.com/DCZKAQ1.png" tvg-country="FR" group-title="Musique",Littoral FM TV [720p]
+#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f2205571907c7206.png" tvg-country="FR" group-title="Musique",Littoral FM TV [720p]
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="" tvg-country="FR" group-title="Musique",M6 Music
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/de521c8338efc5ec.png" tvg-country="FR" group-title="Musique",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
-#EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-logo="https://i.imgur.com/spGg1CZ.png" tvg-country="GP" group-title="Musique",Madras FM TV [1080p]
+#EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7f290c43e88c38a.png" tvg-country="GP" group-title="Musique",Madras FM TV [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-country="FR" group-title="Musique",MCM Top
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ad88bc8015cf908.png" tvg-country="FR" group-title="Musique",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.ru" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-country="RU" group-title="Musique",MCM Top [576p]
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ad88bc8015cf908.png" tvg-country="RU" group-title="Musique",MCM Top [576p]
 http://46.32.176.50/mcmtop/index.m3u8
-#EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://i.imgur.com/2xDVwOh.png" tvg-country="FR" group-title="Musique",NRJ Hits
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/baba763cded9157f.png" tvg-country="FR" group-title="Musique",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
-#EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" tvg-country="FR" group-title="Musique",P2M TV [720p]
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/45bf8d90c27bb271.png" tvg-country="FR" group-title="Musique",P2M TV [720p]
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://i.imgur.com/1dmBqpf.png" tvg-country="CM" group-title="Musique",Play TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bcb2f2c5adb21d7d.png" tvg-country="CM" group-title="Musique",Play TV [720p] {Not 24/7}
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://i.imgur.com/32mmGvB.png" tvg-country="BE" group-title="Musique",Radio Contact [1080p]
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cdaee981358ffbb6.png" tvg-country="BE" group-title="Musique",Radio Contact [1080p]
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" tvg-country="HT" group-title="Musique",Radio Tele Hit [480p]
+#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2faa1c39cca6ee53.png" tvg-country="HT" group-title="Musique",Radio Tele Hit [480p]
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-logo="https://i.ibb.co/1MhvJ3B/logork.png" tvg-country="US" group-title="Musique",Radio Tele Kajou [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/098d84d7a76e2864.png" tvg-country="US" group-title="Musique",Radio Tele Kajou [480p] {Not 24/7}
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
-#EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-logo="https://i.imgur.com/hQ0Q6nE.png" tvg-country="GP" group-title="Musique",RHT Guadeloupe [720p]
+#EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/762d1eb550b5f735.png" tvg-country="GP" group-title="Musique",RHT Guadeloupe [720p]
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" tvg-country="CA" group-title="Musique",Stingray Classica [1080p]
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6b4f1f81b0ff68f0.png" tvg-country="CA" group-title="Musique",Stingray Classica [1080p]
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-logo="https://i.imgur.com/lWYKgPC.png" tvg-country="MQ" group-title="Musique",Tele Zoukla
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca2fddfbcc6bae2b.png" tvg-country="MQ" group-title="Musique",Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1 tvg-id="TeleMusikSenegal.sn" tvg-logo="https://i.imgur.com/dPAPLsd.png" tvg-country="SN" group-title="Musique",TeleMusik Senegal [720p]
+#EXTINF:-1 tvg-id="TeleMusikSenegal.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dbcb266ac2a92313.png" tvg-country="SN" group-title="Musique",TeleMusik Senegal [720p]
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-country="GP" group-title="Musique",TMA [1080p]
+#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca7e1324a6bac860.png" tvg-country="GP" group-title="Musique",TMA [1080p]
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-logo="https://i.imgur.com/kPUkoS7.png" tvg-country="FR" group-title="Musique",Trace Africa [1080p]
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4081f8b4c7e24ff0.png" tvg-country="FR" group-title="Musique",Trace Africa [1080p]
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-logo="https://i.imgur.com/CQDdnhp.png" tvg-country="FR" group-title="Musique",Trace Afrikora [1080p]
+#EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df01822bea753fd1.png" tvg-country="FR" group-title="Musique",Trace Afrikora [1080p]
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-logo="https://i.imgur.com/KkJ6fet.png" tvg-country="FR" group-title="Musique",Trace Ayiti [1080p]
+#EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd03b47b38be48af.png" tvg-country="FR" group-title="Musique",Trace Ayiti [1080p]
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" tvg-country="FR" group-title="Musique",Trace Caribbean [1080p]
+#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a7e9626ccc264cb3.png" tvg-country="FR" group-title="Musique",Trace Caribbean [1080p]
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" group-title="Musique",Trace Gospel (Southern Africa) [1080p]
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Musique",Trace Gospel (Southern Africa) [1080p]
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" group-title="Musique",Trace Gospel [1080p]
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Musique",Trace Gospel [1080p]
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-country="FR" group-title="Musique",Trace Ivoire [1080p]
+#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/189ee74d3b920687.png" tvg-country="FR" group-title="Musique",Trace Ivoire [1080p]
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-country="FR" group-title="Musique",Trace Kitoko [1080p]
+#EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/36805754f3eee5f9.png" tvg-country="FR" group-title="Musique",Trace Kitoko [1080p]
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" group-title="Musique",Trace Latina [1080p]
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3b22a76e25481675.png" tvg-country="FR" group-title="Musique",Trace Latina [1080p]
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMboa.fr" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-country="FR" group-title="Musique",Trace Mboa [1080p]
+#EXTINF:-1 tvg-id="TraceMboa.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbded56ef3ed38a3.png" tvg-country="FR" group-title="Musique",Trace Mboa [1080p]
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-country="FR" group-title="Musique",Trace Muzika [1080p]
+#EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d8153951aced7553.png" tvg-country="FR" group-title="Musique",Trace Muzika [1080p]
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (Africa Franco) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (Africa Franco) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (Caribbean And Indian Ocean) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (Caribbean And Indian Ocean) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (HD) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (HD) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (Southern Africa) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (Southern Africa) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban [1080p]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://i.imgur.com/ngF58fe.png" tvg-country="FR" group-title="Musique",Trace Vanilla Islands [1080p]
+#EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/638baed01a4a9d62.png" tvg-country="FR" group-title="Musique",Trace Vanilla Islands [1080p]
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8

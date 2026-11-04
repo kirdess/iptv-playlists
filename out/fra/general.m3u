@@ -1,220 +1,220 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" tvg-country="FR" group-title="Généraliste",20 Minutes TV [1080p]
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c72f931f8b264a95.png" tvg-country="FR" group-title="Généraliste",20 Minutes TV [1080p]
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-country="MA" group-title="Généraliste",2M Monde (+1) [1080p]
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste",2M Monde (+1) [1080p]
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-country="MA" group-title="Généraliste",2M Monde [360p]
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste",2M Monde [360p]
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="A12TV.ci" tvg-logo="https://i.imgur.com/JgnjgvF.png" tvg-country="CI" group-title="Généraliste",A12 TV
+#EXTINF:-1 tvg-id="A12TV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/06d6438cc059882c.png" tvg-country="CI" group-title="Généraliste",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
-#EXTINF:-1 tvg-id="A2iTV.it" tvg-logo="https://i.imgur.com/YlDFir7.jpg" tvg-country="IT" group-title="Généraliste",A2i TV [1080p]
+#EXTINF:-1 tvg-id="A2iTV.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f6e45f659b02a8a.png" tvg-country="IT" group-title="Généraliste",A2i TV [1080p]
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ACTV.be" tvg-logo="https://files.catbox.moe/8v2y8m.png" tvg-country="BE" group-title="Généraliste",ACTV [504p]
+#EXTINF:-1 tvg-id="ACTV.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/448cd196e9781e68.png" tvg-country="BE" group-title="Généraliste",ACTV [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
-#EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-logo="https://i.imgur.com/fWlLvRA.png" tvg-country="TR" group-title="Généraliste",Afroturk TV [1080p]
+#EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5d29505f100c2132.png" tvg-country="TR" group-title="Généraliste",Afroturk TV [1080p]
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-logo="https://i.imgur.com/090tCQ5.png" tvg-country="FR" group-title="Généraliste",Alpe d'Huez TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4ccda95bed0cfe87.png" tvg-country="FR" group-title="Généraliste",Alpe d'Huez TV [720p] {Not 24/7}
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 tvg-id="AntenneA.cd" tvg-logo="https://i.imgur.com/tgxrcv7.png" tvg-country="CD" group-title="Généraliste",Antenne A
+#EXTINF:-1 tvg-id="AntenneA.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/86d27a0e0a2057c3.png" tvg-country="CD" group-title="Généraliste",Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-country="FR" group-title="Généraliste",Antenne Reunion [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4590355d52cfdb11.png" tvg-country="FR" group-title="Généraliste",Antenne Reunion [720p] {Not 24/7}
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://i.imgur.com/YkJPCfR.jpeg" tvg-country="GN" group-title="Généraliste",ATV [400p] {Not 24/7}
+#EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/369d0493337f077a.png" tvg-country="GN" group-title="Généraliste",ATV [400p] {Not 24/7}
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
-#EXTINF:-1 tvg-id="BebTV.cg" tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" tvg-country="CG" group-title="Généraliste",Beb TV [720p]
+#EXTINF:-1 tvg-id="BebTV.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cb654e3d57c36b11.png" tvg-country="CG" group-title="Généraliste",Beb TV [720p]
 https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
-#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://i.imgur.com/iRsbEpg.png" tvg-country="FR" group-title="Généraliste",BFM Alsace [1080p]
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2587b881207835c9.png" tvg-country="FR" group-title="Généraliste",BFM Alsace [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://i.imgur.com/rc9MXm5.png" tvg-country="CD" group-title="Généraliste",Boss Brothers TV [1080p]
+#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0aeda26d20547dc2.png" tvg-country="CD" group-title="Généraliste",Boss Brothers TV [1080p]
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-logo="https://i.imgur.com/y94bhqX.jpg" tvg-country="FR" group-title="Généraliste",Brionnais TV [720p]
+#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2c4990f5b33fd092.png" tvg-country="FR" group-title="Généraliste",Brionnais TV [720p]
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://i.imgur.com/xspb9uY.png" tvg-country="CM" group-title="Généraliste",CAM 10 TV [720p]
+#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7611016af11ac2fa.png" tvg-country="CM" group-title="Généraliste",CAM 10 TV [720p]
 https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://i.imgur.com/viB0FS2.png" tvg-country="UK" group-title="Généraliste",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/000c7a935dd291f2.png" tvg-country="UK" group-title="Généraliste",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3.bf" tvg-logo="https://i.imgur.com/WIrVAa2.png" tvg-country="BF" group-title="Généraliste",Canal 3
+#EXTINF:-1 tvg-id="Canal3.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/722532c63d8b56a3.png" tvg-country="BF" group-title="Généraliste",Canal 3
 https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://i.imgur.com/JUNP8Rx.png" tvg-country="BE" group-title="Généraliste",Canal Zoom {Geo-blocked}
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/90b98a5581eb4b94.png" tvg-country="BE" group-title="Généraliste",Canal Zoom {Geo-blocked}
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
-#EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-logo="https://i.imgur.com/atlgnum.png" tvg-country="FR" group-title="Généraliste",Cannes Lerins TV [1080p]
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a974a207ee8b746b.png" tvg-country="FR" group-title="Généraliste",Cannes Lerins TV [1080p]
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-id="CNMTV.sn" tvg-logo="https://i.ibb.co/0cfdGKv/1630802325205.jpg" tvg-country="SN" group-title="Généraliste",CNM TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="CNMTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/83387e5e0bc4adab.png" tvg-country="SN" group-title="Généraliste",CNM TV [720p] {Not 24/7}
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://i.imgur.com/9IIIvPf.png" tvg-country="CD" group-title="Généraliste",Congo Planet Television [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a02e3906b5a9fb5.png" tvg-country="CD" group-title="Généraliste",Congo Planet Television [1080p] {Not 24/7}
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://i.imgur.com/cQWNh3L.png" tvg-country="CM" group-title="Généraliste",CRTV
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/489ef5a54d992389.png" tvg-country="CM" group-title="Généraliste",CRTV
 https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://i.imgur.com/uz2Rsu7.png" tvg-country="CD" group-title="Généraliste",Digital Congo TV
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1b6945796e72d374.png" tvg-country="CD" group-title="Généraliste",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
-#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-logo="https://i.imgur.com/ENBCDaQ.png" tvg-country="NE" group-title="Généraliste",Dounia TV
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/576942e033fcd61d.png" tvg-country="NE" group-title="Généraliste",Dounia TV
 https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
-#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-logo="https://i.imgur.com/rGbTvtZ.png" tvg-country="CG" group-title="Généraliste",DRTV International
+#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/521114b394937b51.png" tvg-country="CG" group-title="Généraliste",DRTV International
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
-#EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://i.imgur.com/4ClnG0x.png" tvg-country="BJ" group-title="Généraliste",Eden TV [540p] {Not 24/7}
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/71c0c0fba3dc9b5b.png" tvg-country="BJ" group-title="Généraliste",Eden TV [540p] {Not 24/7}
 https://rtmp.edentv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://i.imgur.com/m5E2VP0.png" tvg-country="GP" group-title="Généraliste",ETV [1080p]
+#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/744a1bd9c6a37f44.png" tvg-country="GP" group-title="Généraliste",ETV [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
-#EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://i.imgur.com/TTWl2Iy.png" tvg-country="GN" group-title="Généraliste",Evasion TV
+#EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbedeeb0c279e4e5.png" tvg-country="GN" group-title="Généraliste",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" tvg-country="FR" group-title="Généraliste",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3d932d81c3a031e8.png" tvg-country="FR" group-title="Généraliste",France 2
 http://149.62.177.107:9999/France_2/index.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" tvg-country="FR" group-title="Généraliste",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur)
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur)
 http://89.187.185.76:8080/France3/index.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" tvg-country="FR" group-title="Généraliste",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e0275ba8512b91a3.png" tvg-country="FR" group-title="Généraliste",France 5
 http://149.62.177.107:9999/France_5/index.m3u8
-#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://i.imgur.com/Ue02CIH.png" tvg-country="SN" group-title="Généraliste",GMS TV
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/58bae67cc4069f5b.png" tvg-country="SN" group-title="Généraliste",GMS TV
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://i.imgur.com/5cFLWKO.png" tvg-country="GH" group-title="Généraliste",GTV [540p]
+#EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d454564f58522531.png" tvg-country="GH" group-title="Généraliste",GTV [540p]
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KalacTV.gn" tvg-logo="https://i.imgur.com/FgKJiHZ.png" tvg-country="GN" group-title="Généraliste",Kalac TV [1080p]
+#EXTINF:-1 tvg-id="KalacTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eea36c7cdc71587f.png" tvg-country="GN" group-title="Généraliste",Kalac TV [1080p]
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
-#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-logo="https://i.imgur.com/EfX3HNG.png" tvg-country="BJ" group-title="Généraliste",KassouaTV [720p]
+#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b71f04a80e46f63.png" tvg-country="BJ" group-title="Généraliste",KassouaTV [720p]
 https://playtv4k.live/live/kassouatv/index.m3u8
-#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-logo="https://i.imgur.com/zzG1S2n.png" tvg-country="CM" group-title="Généraliste",Laura Dave Media TV [720p]
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f4845263a7e65c9f.png" tvg-country="CM" group-title="Généraliste",Laura Dave Media TV [720p]
 https://streaming.lauradavemedia.com/ldm/index.m3u8
-#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-country="FR" group-title="Généraliste",Le Figaro TV Ile-de-France [1080p]
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e8f01ef7f090c6fc.png" tvg-country="FR" group-title="Généraliste",Le Figaro TV Ile-de-France [1080p]
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" tvg-country="SN" group-title="Généraliste",Louga TV [480p]
+#EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a2d92c857ab582e.png" tvg-country="SN" group-title="Généraliste",Louga TV [480p]
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://i.imgur.com/rw72POr.png" tvg-country="BE" group-title="Généraliste",Matele [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2af25d432713a062.png" tvg-country="BE" group-title="Généraliste",Matele [1080p] {Not 24/7}
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-country="CH" group-title="Généraliste",Max TV [1080p]
+#EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7b51c5f903187a99.png" tvg-country="CH" group-title="Généraliste",Max TV [1080p]
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-logo="https://i.imgur.com/yJehCQM.png" tvg-country="CD" group-title="Généraliste",Mikuba TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7fea4af64bbf62e0.png" tvg-country="CD" group-title="Généraliste",Mikuba TV [480p] {Not 24/7}
 http://51.254.199.122:8080/MIKUBATV/index.m3u8
-#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://i.imgur.com/hrm5QnU.png" tvg-country="FR" group-title="Généraliste",Moselle TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9e766239e7d8d91e.png" tvg-country="FR" group-title="Généraliste",Moselle TV [720p] {Not 24/7}
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-logo="https://i.imgur.com/SdVrpzY.png" tvg-country="HT" group-title="Généraliste",Netalkole TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/697570b86a664269.png" tvg-country="HT" group-title="Généraliste",Netalkole TV [720p] {Not 24/7}
 https://watch.haitilive.net/naktvhd/index.m3u8
-#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://i.imgur.com/BJgNq21.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f898ef414ec972.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" tvg-country="FR" group-title="Généraliste",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/359630c1001a56fd.png" tvg-country="FR" group-title="Généraliste",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/qqLXdHz.png" tvg-country="CI" group-title="Généraliste",NTV [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3f2c5984f114e4be.png" tvg-country="CI" group-title="Généraliste",NTV [1080p] {Not 24/7}
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" tvg-country="ML" group-title="Généraliste",ORTM 1
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3954a1d0d8cf4224.png" tvg-country="ML" group-title="Généraliste",ORTM 1
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
-#EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://i.imgur.com/toxFMeY.png" tvg-country="LB" group-title="Généraliste",OTV [1080p]
+#EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1af4b996acba43b1.png" tvg-country="LB" group-title="Généraliste",OTV [1080p]
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://i.imgur.com/xQlkuAa.png" tvg-country="CD" group-title="Généraliste",PSTV HD [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/84ddf732e4e6f367.png" tvg-country="CD" group-title="Généraliste",PSTV HD [480p] {Not 24/7}
 http://51.254.199.122:8080/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" tvg-country="FR" group-title="Généraliste",Puissance TV
+#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bb30b04a8dfeafe5.png" tvg-country="FR" group-title="Généraliste",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://i.imgur.com/GHFuvmZ.png" tvg-country="BE" group-title="Généraliste",QU4TRE Liege Media [1080p]
+#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3d5f22e3530e127a.png" tvg-country="BE" group-title="Généraliste",QU4TRE Liege Media [1080p]
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
-#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-logo="https://i.imgur.com/ESlt16G.png" tvg-country="HT" group-title="Généraliste",Radio Tele Ginen
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce56e3b220b19b87.png" tvg-country="HT" group-title="Généraliste",Radio Tele Ginen
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://i.imgur.com/ddb4lsa.png" tvg-country="HT" group-title="Généraliste",Radio Tele Planet Compas [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/891c1669a0197983.png" tvg-country="HT" group-title="Généraliste",Radio Tele Planet Compas [720p] {Not 24/7}
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/98960.v3.png" tvg-country="HT" group-title="Généraliste",Radio Television Shilo [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/274466ee14434180.png" tvg-country="HT" group-title="Généraliste",Radio Television Shilo [720p] {Not 24/7}
 https://watch.haitilive.net/freehb/rtvs/index.m3u8
-#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-logo="https://i.imgur.com/OvnRplq.png" tvg-country="GP" group-title="Généraliste",Radio TV Basse-Terre [720p]
+#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0ee07713205fd1.png" tvg-country="GP" group-title="Généraliste",Radio TV Basse-Terre [720p]
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
-#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" tvg-country="CI" group-title="Généraliste",Reflet TV [1080p]
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2226e47a6f85d9cd.png" tvg-country="CI" group-title="Généraliste",Reflet TV [1080p]
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="RhoneTV.ch" tvg-logo="https://i.imgur.com/YyXJaBN.png" tvg-country="CH" group-title="Généraliste",Rhone TV [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="RhoneTV.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f25dc0f7f8aeecc1.png" tvg-country="CH" group-title="Généraliste",Rhone TV [1080p] {Geo-blocked}
 https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
-#EXTINF:-1 tvg-id="RTHTV1.us" tvg-logo="https://i.imgur.com/4z0FiEA.png" tvg-country="US" group-title="Généraliste",RTH-TV1 [1080p]
+#EXTINF:-1 tvg-id="RTHTV1.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad3e2af84ad3f3aa.png" tvg-country="US" group-title="Généraliste",RTH-TV1 [1080p]
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/TybQZQS.png" tvg-country="CI" group-title="Généraliste",RTI 1 [1080p]
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/215076bcec6a5822.png" tvg-country="CI" group-title="Généraliste",RTI 1 [1080p]
 https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-logo="https://i.imgur.com/7SmCtyy.png" tvg-country="LU" group-title="Généraliste",RTL Zwee [1080p]
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5910c9a25a542575.png" tvg-country="LU" group-title="Généraliste",RTL Zwee [1080p]
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-logo="https://i.imgur.com/xfR5P9F.png" tvg-country="BI" group-title="Généraliste",RTNB TV
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0a27eb7b23d434.png" tvg-country="BI" group-title="Généraliste",RTNB TV
 https://tv1-stream.rtnb.bi/hls/master.m3u8
-#EXTINF:-1 tvg-id="RTNC3.cd" tvg-logo="https://i.imgur.com/rr9Zsno.jpeg" tvg-country="CD" group-title="Généraliste",RTNC 3
+#EXTINF:-1 tvg-id="RTNC3.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a72650539c56379a.png" tvg-country="CD" group-title="Généraliste",RTNC 3
 http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
-#EXTINF:-1 tvg-id="RTNC.cd" tvg-logo="https://i.imgur.com/oVXO950.jpeg" tvg-country="CD" group-title="Généraliste",RTNC [1080p]
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b086dd19a15f48a2.png" tvg-country="CD" group-title="Généraliste",RTNC [1080p]
 https://kali.vdopanel.com:3850/live/masterlive.m3u8
-#EXTINF:-1 tvg-id="RTVS1.cd" tvg-logo="https://i.imgur.com/doaZCzy.png" tvg-country="CD" group-title="Généraliste",RTVS1
+#EXTINF:-1 tvg-id="RTVS1.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/262b541d603b0d21.png" tvg-country="CD" group-title="Généraliste",RTVS1
 http://51.254.199.122:8080/RTVS1/index.m3u8
-#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://i.imgur.com/4nbGvxW.png" tvg-country="RW" group-title="Généraliste",Rwanda TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23457aa58f34f111.png" tvg-country="RW" group-title="Généraliste",Rwanda TV [480p] {Not 24/7}
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-logo="https://i.imgur.com/O8XIcpH.png" tvg-country="NE" group-title="Généraliste",Saraounia TV
+#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c69f55f0581d07bf.png" tvg-country="NE" group-title="Généraliste",Saraounia TV
 https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
-#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-logo="https://i.imgur.com/mv3S1Zc.png" tvg-country="BF" group-title="Généraliste",Savane TV
+#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0ea757154639058d.png" tvg-country="BF" group-title="Généraliste",Savane TV
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
-#EXTINF:-1 tvg-id="SenewebTV.sn" tvg-logo="https://i.imgur.com/i9P2qjs.png" tvg-country="SN" group-title="Généraliste",Seneweb TV {Geo-blocked}
+#EXTINF:-1 tvg-id="SenewebTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e042e8b06d900d0a.png" tvg-country="SN" group-title="Généraliste",Seneweb TV {Geo-blocked}
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" tvg-country="SN" group-title="Généraliste",SenJeunes TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1e5b61e032ab9619.png" tvg-country="SN" group-title="Généraliste",SenJeunes TV [480p] {Not 24/7}
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-logo="https://i.imgur.com/1lXShsh.png" tvg-country="BJ" group-title="Généraliste",Speedline TV
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9bf1f92f27d30902.png" tvg-country="BJ" group-title="Généraliste",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
-#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" tvg-country="FR" group-title="Généraliste",T18 [1080p]
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ba96cb0d39ace706.png" tvg-country="FR" group-title="Généraliste",T18 [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-logo="https://i.imgur.com/WdZWBEd.png" tvg-country="FR" group-title="Généraliste",Tebeo TV [576i]
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df3e5b94d9a020bd.png" tvg-country="FR" group-title="Généraliste",Tebeo TV [576i]
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-logo="https://i.imgur.com/gbFtP14.png" tvg-country="CG" group-title="Généraliste",Tele Congo [720p]
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6d3643c8ad2b63d8.png" tvg-country="CG" group-title="Généraliste",Tele Congo [720p]
 http://51.254.199.122:8080/telecongo/index.m3u8
-#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-logo="https://i.imgur.com/Hso9j58.png" tvg-country="HT" group-title="Généraliste",Tele Haiti [1088p] {Not 24/7}
+#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e3a0e792fc59b6da.png" tvg-country="HT" group-title="Généraliste",Tele Haiti [1088p] {Not 24/7}
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePam.us" tvg-logo="https://i.ibb.co/xMYMyHh/telepammmm.png" tvg-country="US" group-title="Généraliste",Tele Pam [1080p]
+#EXTINF:-1 tvg-id="TelePam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e25ffeae0ef5205a.png" tvg-country="US" group-title="Généraliste",Tele Pam [1080p]
 https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TelePeyi.gf" tvg-logo="https://i.imgur.com/LJ9sXaB.png" tvg-country="GF" group-title="Généraliste",Tele Peyi [720p]
+#EXTINF:-1 tvg-id="TelePeyi.gf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e5a8ecd5df5e1e41.png" tvg-country="GF" group-title="Généraliste",Tele Peyi [720p]
 https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
-#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://i.imgur.com/vboq428.png" tvg-country="NE" group-title="Généraliste",Tele Sahel [1080p]
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb3737767cc257e6.png" tvg-country="NE" group-title="Généraliste",Tele Sahel [1080p]
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
-#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png" tvg-country="TD" group-title="Généraliste",Tele Tchad [1080p]
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c1880828b812b0a.png" tvg-country="TD" group-title="Généraliste",Tele Tchad [1080p]
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" tvg-country="FR" group-title="Généraliste",TeleGohelle
+#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8638860b845c8a3e.png" tvg-country="FR" group-title="Généraliste",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-logo="https://i.imgur.com/utBh0xL.png" tvg-country="TG" group-title="Généraliste",Television Espoir 47 [720p]
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9a38ebfb4e1e6678.png" tvg-country="TG" group-title="Généraliste",Television Espoir 47 [720p]
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
-#EXTINF:-1 tvg-id="TM1TV.ml" tvg-logo="https://i.imgur.com/83BgaBa.png" tvg-country="ML" group-title="Généraliste",TM1 TV [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="TM1TV.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/060962747c3805df.png" tvg-country="ML" group-title="Généraliste",TM1 TV [360p] {Not 24/7}
 http://69.64.57.208/tm1/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" tvg-country="FR" group-title="Généraliste",TMC [1080p]
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1 tvg-id="TNH.ht" tvg-logo="https://i.imgur.com/8nvCXzt.png" tvg-country="HT" group-title="Généraliste",TNH [720p]
+#EXTINF:-1 tvg-id="TNH.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4f11de32ee6e0b9.png" tvg-country="HT" group-title="Généraliste",TNH [720p]
 https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
-#EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://i.imgur.com/e5eVHam.png" tvg-country="PF" group-title="Généraliste",TNTV [1080p]
+#EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd5a048edab625a6.png" tvg-country="PF" group-title="Généraliste",TNTV [1080p]
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/iBBpBx4.png" tvg-country="TM" group-title="Généraliste",Turkmenistan [406p] {Not 24/7}
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa28a785f591b156.png" tvg-country="TM" group-title="Généraliste",Turkmenistan [406p] {Not 24/7}
 https://alpha.tv.online.tm/hls/ch007.m3u8
-#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" tvg-country="FR" group-title="Généraliste",TV Alsace [1080p]
+#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/892e5ef53c2b57d6.png" tvg-country="FR" group-title="Généraliste",TV Alsace [1080p]
 http://194.163.157.137:8080/hls/radioalsace.m3u8
-#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" tvg-country="MC" group-title="Généraliste",TV Monaco [1080p]
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b10d8f72fc221dda.png" tvg-country="MC" group-title="Généraliste",TV Monaco [1080p]
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" tvg-country="FR" group-title="Généraliste",TV Mulhouse [1080p]
+#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aaec3a602d2d7b1a.png" tvg-country="FR" group-title="Généraliste",TV Mulhouse [1080p]
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" tvg-country="DZ" group-title="Généraliste",TV2 [1080p]
+#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbfefd3236690c06.png" tvg-country="DZ" group-title="Généraliste",TV2 [1080p]
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" tvg-country="FR" group-title="Généraliste",TV3V [720p]
+#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/795d3bb9ab7c3fa3.png" tvg-country="FR" group-title="Généraliste",TV3V [720p]
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-country="FR" group-title="Généraliste",TV5Monde Europe [1080p]
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a2b03b57cf2e568a.png" tvg-country="FR" group-title="Généraliste",TV5Monde Europe [1080p]
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b62a922196c7bd5.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [1080p] {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-country="FR" group-title="Généraliste",TV5Monde Latin America [720p]
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dc0189fc8dad5b0d.png" tvg-country="FR" group-title="Généraliste",TV5Monde Latin America [720p]
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
-#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://i.imgur.com/kSdGi43.png" tvg-country="FR" group-title="Généraliste",TV7 Colmar [576p]
+#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/56d465f59d0c1bdb.png" tvg-country="FR" group-title="Généraliste",TV7 Colmar [576p]
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-country="BJ" group-title="Généraliste",TVC Benin [720p]
+#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7403e57b4c5a7f7d.png" tvg-country="BJ" group-title="Généraliste",TVC Benin [720p]
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVcom.be" tvg-logo="https://i.imgur.com/3KuRD19.png" tvg-country="BE" group-title="Généraliste",TVcom [1080p]
+#EXTINF:-1 tvg-id="TVcom.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1d61fdb59b2afd87.png" tvg-country="BE" group-title="Généraliste",TVcom [1080p]
 https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
-#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://i.imgur.com/WtXonN9.png" tvg-country="TG" group-title="Généraliste",TVT [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f431e89ee91a4373.png" tvg-country="TG" group-title="Généraliste",TVT [720p] {Not 24/7}
 http://69.64.57.208/tvt/playlist.m3u8
-#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://i.imgur.com/Ua6rOXo.png" tvg-country="MQ" group-title="Généraliste",ViaATV [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/471b9633fc5a9aa4.png" tvg-country="MQ" group-title="Généraliste",ViaATV [1080p] {Geo-blocked}
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
-#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://i.imgur.com/NzuKt1R.png" tvg-country="FR" group-title="Généraliste",ViaOccitanie [540p] {Not 24/7}
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466583e70ee008ca.png" tvg-country="FR" group-title="Généraliste",ViaOccitanie [540p] {Not 24/7}
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-logo="https://i.imgur.com/TLZsAKK.png" tvg-country="FR" group-title="Généraliste",viaTelePaese [720p]
+#EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcb4cd47dc65cbe1.png" tvg-country="FR" group-title="Généraliste",viaTelePaese [720p]
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-id="zenith.fr" tvg-logo="https://znth.tv/images/logo.png" tvg-country="FR" group-title="Généraliste",zenith [1080p]
+#EXTINF:-1 tvg-id="zenith.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7884de3330b6b98e.png" tvg-country="FR" group-title="Généraliste",zenith [1080p]
 https://live.azenagroup.com/zenith/index.ll.m3u8
-#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-logo="https://i.imgur.com/KJmefse.png" tvg-country="MQ" group-title="Généraliste",Zitata TV
+#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/efc070f7aabf6b3d.png" tvg-country="MQ" group-title="Généraliste",Zitata TV
 https://live.zitata.tv/direct-hls/playlist.m3u8

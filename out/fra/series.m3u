@@ -1,47 +1,47 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-country="US" group-title="Séries",Alerte a Malibu
+#EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bf8f730e3250e132.png" tvg-country="US" group-title="Séries",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
-#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-country="FR" group-title="Séries",Frequence Novelas [1080p]
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0e933dea4f7a1a58.png" tvg-country="FR" group-title="Séries",Frequence Novelas [1080p]
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-logo="https://i.imgur.com/EjjzjF9.png" tvg-country="US" group-title="Séries",Helene et les garcons
+#EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f3025c2793b6560e.png" tvg-country="US" group-title="Séries",Helene et les garcons
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
-#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-logo="https://i.imgur.com/pLv0T3D.png" tvg-country="US" group-title="Séries",Inazuma Eleven
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5bbea647a32bcf80.png" tvg-country="US" group-title="Séries",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 tvg-id="InstantSaga.us" tvg-logo="https://i.imgur.com/PMpwaQN.png" tvg-country="US" group-title="Séries",Instant Saga
+#EXTINF:-1 tvg-id="InstantSaga.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f6f7c558ab620141.png" tvg-country="US" group-title="Séries",Instant Saga
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
-#EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" tvg-country="DE" group-title="Séries",Investigation by Pluto TV
+#EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/69148a47aed5857f.png" tvg-country="DE" group-title="Séries",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
-#EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-logo="https://i.imgur.com/3Xz4hjD.png" tvg-country="US" group-title="Séries",Le miracle de l'amour
+#EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0942c306673c4d28.png" tvg-country="US" group-title="Séries",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
-#EXTINF:-1 tvg-id="LesAnneesfac.us" tvg-logo="https://i.imgur.com/M1OjaB0.png" tvg-country="US" group-title="Séries",Les Annees fac
+#EXTINF:-1 tvg-id="LesAnneesfac.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5e88d9273d69b9b0.png" tvg-country="US" group-title="Séries",Les Annees fac
 https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1 tvg-id="Lesfillesdacote.us" tvg-logo="https://i.imgur.com/dxipSaQ.png" tvg-country="US" group-title="Séries",Les filles d'a cote
+#EXTINF:-1 tvg-id="Lesfillesdacote.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1b9c3b65dc8520c.png" tvg-country="US" group-title="Séries",Les filles d'a cote
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
-#EXTINF:-1 tvg-id="LesNouveauxDetectives.us" tvg-logo="https://i.imgur.com/ego8ozn.png" tvg-country="US" group-title="Séries",Les Nouveaux Detectives
+#EXTINF:-1 tvg-id="LesNouveauxDetectives.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a782dfce851c74f2.png" tvg-country="US" group-title="Séries",Les Nouveaux Detectives
 https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
-#EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-logo="https://i.imgur.com/I1w7rFb.png" tvg-country="US" group-title="Séries",Louis La Brocante
+#EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4241660fa4810a25.png" tvg-country="US" group-title="Séries",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
-#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" tvg-country="CI" group-title="Séries",Novela Channel [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40e9c1ced1f6b05f.png" tvg-country="CI" group-title="Séries",Novela Channel [720p] {Not 24/7}
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" tvg-country="DE" group-title="Séries",Pluto TV 90's Classics
+#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fea1fb499421716f.png" tvg-country="DE" group-title="Séries",Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBrigadeCriminelle.de" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png" tvg-country="DE" group-title="Séries",Pluto TV Brigade Criminelle
+#EXTINF:-1 tvg-id="PlutoTVBrigadeCriminelle.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c953989e7666fe0d.png" tvg-country="DE" group-title="Séries",Pluto TV Brigade Criminelle
 https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDating.de" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1750772750435.png" tvg-country="DE" group-title="Séries",Pluto TV Dating [720p]
+#EXTINF:-1 tvg-id="PlutoTVDating.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/94a3f6b6e9765346.png" tvg-country="DE" group-title="Séries",Pluto TV Dating [720p]
 https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPolar.de" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-country="DE" group-title="Séries",Pluto TV Polar
+#EXTINF:-1 tvg-id="PlutoTVPolar.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2db65a36ad72bee2.png" tvg-country="DE" group-title="Séries",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesFantastiques.de" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" tvg-country="DE" group-title="Séries",Pluto TV Series Fantastiques
+#EXTINF:-1 tvg-id="PlutoTVSeriesFantastiques.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/64032a1e0d26ea00.png" tvg-country="DE" group-title="Séries",Pluto TV Series Fantastiques
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
-#EXTINF:-1 tvg-id="SerieMax.ci" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-country="CI" group-title="Séries",Serie Max
+#EXTINF:-1 tvg-id="SerieMax.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0ab7f1f5973b1778.png" tvg-country="CI" group-title="Séries",Serie Max
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
-#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" tvg-country="DE" group-title="Séries",Series by Pluto TV
+#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/82b99633005a93cd.png" tvg-country="DE" group-title="Séries",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
-#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-country="FR" group-title="Séries",Sony One Blacklist [1080p]
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0839664236ecbbae.png" tvg-country="FR" group-title="Séries",Sony One Blacklist [1080p]
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" tvg-country="DE" group-title="Séries",Tout le monde deteste Chris
+#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd593331c2abfef1.png" tvg-country="DE" group-title="Séries",Tout le monde deteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-country="DE" group-title="Séries",True Crime by Pluto TV
+#EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f7879596ce4e6a4c.png" tvg-country="DE" group-title="Séries",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-logo="https://i.imgur.com/0N7EhuD.png" tvg-country="US" group-title="Séries",Walker Texas Ranger
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2860ef1c552ddc8e.png" tvg-country="US" group-title="Séries",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8

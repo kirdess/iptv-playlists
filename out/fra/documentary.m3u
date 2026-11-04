@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-logo="https://i.imgur.com/8Zx6dA7.png" tvg-country="US" group-title="Documentaires",Dossiers FBI
+#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/60e477b5b35abbbb.png" tvg-country="US" group-title="Documentaires",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://i.imgur.com/uM1v1sd.png" tvg-country="FR" group-title="Documentaires",Francophonie24 [1080p]
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8e6da85b2ccd487d.png" tvg-country="FR" group-title="Documentaires",Francophonie24 [1080p]
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://i.imgur.com/43at4M2.png" tvg-country="FR" group-title="Documentaires",Into Crime [1080p]
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/af7c77c475badac0.png" tvg-country="FR" group-title="Documentaires",Into Crime [1080p]
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-country="CA" group-title="Documentaires",NatureTime (France) [1080p]
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/096223da6833dc1a.png" tvg-country="CA" group-title="Documentaires",NatureTime (France) [1080p]
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-country="DE" group-title="Documentaires",Pluto TV Animaux
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/865c9c4bf3f53ed6.png" tvg-country="DE" group-title="Documentaires",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-country="DE" group-title="Documentaires",Pluto TV Aventure
+#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5060f99e123f8582.png" tvg-country="DE" group-title="Documentaires",Pluto TV Aventure
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" tvg-country="DE" group-title="Documentaires",Pluto TV Histoire [720p]
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4e54f79db7152957.png" tvg-country="DE" group-title="Documentaires",Pluto TV Histoire [720p]
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" group-title="Documentaires",RL PRO TV
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b0a4e8cce1b4cda7.png" tvg-country="CD" group-title="Documentaires",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8

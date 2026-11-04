@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" tvg-country="BE" group-title="Parlementaire",EbS [1080p]
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34ebb61426e880b6.png" tvg-country="BE" group-title="Parlementaire",EbS [1080p]
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" tvg-country="BE" group-title="Parlementaire",EbS+ [1080p]
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbb854169986a588.png" tvg-country="BE" group-title="Parlementaire",EbS+ [1080p]
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-country="FR" group-title="Parlementaire",LCP [477p]
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d75484b97a82261e.png" tvg-country="FR" group-title="Parlementaire",LCP [477p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-country="CA" group-title="Parlementaire",Legislative Assembly of Ontario
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d715b1242f5b24a1.png" tvg-country="CA" group-title="Parlementaire",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8

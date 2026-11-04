@@ -1,124 +1,124 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://i.imgur.com/jcl1nNR.png" tvg-country="CI" group-title="Infos",7 Info
+#EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8967e15ae62ef3ad.png" tvg-country="CI" group-title="Infos",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
-#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" tvg-country="FR" group-title="Infos",Africa 24 [1080p]
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b44318591b9ba98e.png" tvg-country="FR" group-title="Infos",Africa 24 [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" tvg-country="FR" group-title="Infos",Africa 24 Sport [1080p]
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b74389f14ca231b3.png" tvg-country="FR" group-title="Infos",Africa 24 Sport [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" tvg-country="FR" group-title="Infos",Africanews French [720p]
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eaaea50206ed8fd0.png" tvg-country="FR" group-title="Infos",Africanews French [720p]
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" tvg-country="GN" group-title="Infos",Afrik Info TV
+#EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9d4e002ccde3628.png" tvg-country="GN" group-title="Infos",Afrik Info TV
 https://kali.vdopanel.com:3119/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://i.imgur.com/spQgX7X.png" tvg-country="CM" group-title="Infos",Afrique Media [720p]
+#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16061270a055f4c4.png" tvg-country="CM" group-title="Infos",Afrique Media [720p]
 #EXTVLCOPT:http-referrer=https://odysee.com
 https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
-#EXTINF:-1 tvg-id="Afrique54TV.cm" tvg-logo="https://i.imgur.com/WIaRpiS.png" tvg-country="CM" group-title="Infos",Afrique54 TV [720p]
+#EXTINF:-1 tvg-id="Afrique54TV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34e8072eebe4bcae.png" tvg-country="CM" group-title="Infos",Afrique54 TV [720p]
 https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" tvg-country="DZ" group-title="Infos",AL24 News
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a4130541a9f8db6b.png" tvg-country="DZ" group-title="Infos",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
-#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-logo="https://i.imgur.com/EqOzhYw.png" tvg-country="CM" group-title="Infos",Balafon TV {Geo-blocked}
+#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/51df943d2e87e5fe.png" tvg-country="CM" group-title="Infos",Balafon TV {Geo-blocked}
 https://broadcasting-channels.com:9044/hls/test.m3u8
-#EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-logo="https://i.imgur.com/IKXddHN.png" tvg-country="CD" group-title="Infos",Baraka Television [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/12f0cdc80a97860f.png" tvg-country="CD" group-title="Infos",Baraka Television [720p] {Not 24/7}
 https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
-#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://i.imgur.com/CYy4n0N.png" tvg-country="BJ" group-title="Infos",Benin Web TV [720p]
+#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d834369672362146.png" tvg-country="BJ" group-title="Infos",Benin Web TV [720p]
 https://stream.beninwebtv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-country="FR" group-title="Infos",BFM Business [1080p]
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f84c7ceae81f828b.png" tvg-country="FR" group-title="Infos",BFM Business [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://i.imgur.com/iiVFvIw.png" tvg-country="FR" group-title="Infos",BFM Cote d'Azur [1080p]
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/74ab2bf18d620d45.png" tvg-country="FR" group-title="Infos",BFM Cote d'Azur [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-logo="https://i.imgur.com/bV77l68.png" tvg-country="FR" group-title="Infos",BFM DICI Alpes du Sud [1080p]
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9855020eeb3d388a.png" tvg-country="FR" group-title="Infos",BFM DICI Alpes du Sud [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-logo="https://i.imgur.com/bV77l68.png" tvg-country="FR" group-title="Infos",BFM DICI Haute-Provence [1080p]
+#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9855020eeb3d388a.png" tvg-country="FR" group-title="Infos",BFM DICI Haute-Provence [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://i.imgur.com/HE5xP0r.png" tvg-country="FR" group-title="Infos",BFM Grand Lille [1080p]
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7e1bda1e2663f69a.png" tvg-country="FR" group-title="Infos",BFM Grand Lille [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://i.imgur.com/j7F9MwH.png" tvg-country="FR" group-title="Infos",BFM Grand Littoral [1080p]
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2b0a286cae657650.png" tvg-country="FR" group-title="Infos",BFM Grand Littoral [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://i.imgur.com/0uiiZRo.png" tvg-country="FR" group-title="Infos",BFM Lyon [1080p]
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34c1cc2e9f2c04cd.png" tvg-country="FR" group-title="Infos",BFM Lyon [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://i.imgur.com/h7t0l6q.png" tvg-country="FR" group-title="Infos",BFM Marseille [1080p]
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d8061286d17375a1.png" tvg-country="FR" group-title="Infos",BFM Marseille [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://i.imgur.com/WWWQ44G.png" tvg-country="FR" group-title="Infos",BFM Normandie [1080p]
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f4597c0a3df0f839.png" tvg-country="FR" group-title="Infos",BFM Normandie [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-logo="https://i.imgur.com/FQ0FpXV.png" tvg-country="FR" group-title="Infos",BFM Tech & Co [1080p]
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/79f2d8f67b67577d.png" tvg-country="FR" group-title="Infos",BFM Tech & Co [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-country="FR" group-title="Infos",BFM TV [1080p]
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce3caf1aec8c1db6.png" tvg-country="FR" group-title="Infos",BFM TV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://i.imgur.com/vp1oVj3.png" tvg-country="FR" group-title="Infos",BFM Var [1080p]
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0c10167ff81f2a36.png" tvg-country="FR" group-title="Infos",BFM Var [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM2.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" tvg-country="FR" group-title="Infos",BFM2 [1080p]
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dba9e7fd798c7425.png" tvg-country="FR" group-title="Infos",BFM2 [1080p]
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" group-title="Infos",CGTN French [1080p]
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1617e0907ea3c8fd.png" tvg-country="CN" group-title="Infos",CGTN French [1080p]
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" tvg-country="FR" group-title="Infos",CNews [1080p]
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d2b39b421ba4c37c.png" tvg-country="FR" group-title="Infos",CNews [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" tvg-country="FR" group-title="Infos",CNEWS PRIME [1080p]
+#EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1cd5dc3905a6a839.png" tvg-country="FR" group-title="Infos",CNEWS PRIME [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
-#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-logo="https://i.imgur.com/5CshVf9.png" tvg-country="CM" group-title="Infos",CRTV News
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7cdbc61c7106b2f.png" tvg-country="CM" group-title="Infos",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/5A0Wnrv.png" tvg-country="FR" group-title="Infos",Euronews French [720p]
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/765135fa2e53cc45.png" tvg-country="FR" group-title="Infos",Euronews French [720p]
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" tvg-country="FR" group-title="Infos",Europe 1 TV [1080p]
+#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4fee5da5842e0eba.png" tvg-country="FR" group-title="Infos",Europe 1 TV [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
-#EXTINF:-1 tvg-id="FilinfoTV.bf" tvg-logo="https://i.imgur.com/KG93Tvn.png" tvg-country="BF" group-title="Infos",Filinfo TV [1080p]
+#EXTINF:-1 tvg-id="FilinfoTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/039643c109cc4a9d.png" tvg-country="BF" group-title="Infos",Filinfo TV [1080p]
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
-#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/1oMboXL.png" tvg-country="CM" group-title="Infos",For You TV
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4dcd9bfcc79e5043.png" tvg-country="CM" group-title="Infos",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/188446253a70db14.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
 http://149.62.177.107:9999/franceinfo:/index.m3u8
-#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" tvg-country="HT" group-title="Infos",Haiti News Channel [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1f16a038655ff01.png" tvg-country="HT" group-title="Infos",Haiti News Channel [1080p] {Not 24/7}
 https://cdn.haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 tvg-id="HC2TV.bj" tvg-logo="https://i.imgur.com/CV38429.jpeg" tvg-country="BJ" group-title="Infos",HC2 TV
+#EXTINF:-1 tvg-id="HC2TV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b40361e118b088f0.png" tvg-country="BJ" group-title="Infos",HC2 TV
 https://stream.hc2tv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
+#EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/66e79bb88c250eb1.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/826227e381dfca95.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="ICONETV.bj" tvg-logo="https://i.imgur.com/Aws11wj.jpeg" tvg-country="BJ" group-title="Infos",ICONE TV
+#EXTINF:-1 tvg-id="ICONETV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c662f849f102ad05.png" tvg-country="BJ" group-title="Infos",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Kin24.cd" tvg-logo="https://i.imgur.com/Lak10Wo.png" tvg-country="CD" group-title="Infos",Kin24
+#EXTINF:-1 tvg-id="Kin24.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/19c31f446a6f954f.png" tvg-country="CD" group-title="Infos",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-country="FR" group-title="Infos",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-country="FR" group-title="Infos",LCI (HD) [1080p]
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI (HD) [1080p]
 http://151.80.18.177:86/LCI_HD/index.m3u8
-#EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-country="CA" group-title="Infos",LCN {Geo-blocked}
+#EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa3c7242d6937bc5.png" tvg-country="CA" group-title="Infos",LCN {Geo-blocked}
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-logo="https://i.imgur.com/2igwi7g.png" tvg-country="CD" group-title="Infos",Le Monde en 24h
+#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/08d0071ffebe7591.png" tvg-country="CD" group-title="Infos",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
-#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://i.imgur.com/6ijbSTr.png" tvg-country="CH" group-title="Infos",Leman Bleu [1080p]
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/81084879f61d45b2.png" tvg-country="CH" group-title="Infos",Leman Bleu [1080p]
 http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/a20DHnj.png" tvg-country="MA" group-title="Infos",Medi1TV Afrique [1080p]
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1a9a08b389ef5d7b.png" tvg-country="MA" group-title="Infos",Medi1TV Afrique [1080p]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" tvg-country="MA" group-title="Infos",Medi1TV Maghreb [1080p]
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8c5ed0c76ec8f5bb.png" tvg-country="MA" group-title="Infos",Medi1TV Maghreb [1080p]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
-#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://i.imgur.com/dIrKYH7.png" tvg-country="MC" group-title="Infos",Monaco Info [1080p]
+#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/11ad2b0fe50b14c7.png" tvg-country="MC" group-title="Infos",Monaco Info [1080p]
 https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:-1 tvg-id="NWInfo.tg" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-country="TG" group-title="Infos",NW Info [576p]
+#EXTINF:-1 tvg-id="NWInfo.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4015bbb4ffd35ff7.png" tvg-country="TG" group-title="Infos",NW Info [576p]
 https://hls.newworldtv.com/nw-info/video/live.m3u8
-#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-logo="https://i.imgur.com/wneSSYM.png" tvg-country="CM" group-title="Infos",Panafrican Media TV [480p]
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1c05251164e31775.png" tvg-country="CM" group-title="Infos",Panafrican Media TV [480p]
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a39f1da5258f22b1.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bba602f7c805fa73.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSInfo.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png" tvg-country="CH" group-title="Infos",RTS Info [1080p]
+#EXTINF:-1 tvg-id="RTSInfo.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ce52ef9d1e9a09f.png" tvg-country="CH" group-title="Infos",RTS Info [1080p]
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" tvg-country="SN" group-title="Infos",SunuLabel TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/91c8c10d24176734.png" tvg-country="SN" group-title="Infos",SunuLabel TV [480p] {Not 24/7}
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0461a4312b5e5b60.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p] {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8

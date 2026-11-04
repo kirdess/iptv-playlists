@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" tvg-country="DE" group-title="Cuisine",Pluto TV Cuisine
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/139cb0cd81888cfa.png" tvg-country="DE" group-title="Cuisine",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
-#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png" tvg-country="FR" group-title="Cuisine",TV5MONDE Chefs [1080p]
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7d9d747a8ec0633e.png" tvg-country="FR" group-title="Cuisine",TV5MONDE Chefs [1080p]
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8

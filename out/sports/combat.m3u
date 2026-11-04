@@ -1,36 +1,36 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" tvg-country="US" group-title="Sports de combat",Bellator MMA
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/092c1af842da9df5.png" tvg-country="US" group-title="Sports de combat",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-country="UK" group-title="Sports de combat",DAZN Combat
+#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/220827cb4941f7ec.png" tvg-country="UK" group-title="Sports de combat",DAZN Combat
 https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-country="CA" group-title="Sports de combat",Fight Network [1080p]
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2de3102dd03f97a9.png" tvg-country="CA" group-title="Sports de combat",Fight Network [1080p]
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NL" group-title="Sports de combat",FightBox
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NL" group-title="Sports de combat",FightBox (HD)
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox (HD)
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NL" group-title="Sports de combat",FightBox (Poland) [576i]
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox (Poland) [576i]
 http://92.114.85.87:8003/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/tS7Ub7i.png" tvg-country="US" group-title="Sports de combat",Glory Kickboxing (Poland) [720p]
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c21309ff7e4dfb5a.png" tvg-country="US" group-title="Sports de combat",Glory Kickboxing (Poland) [720p]
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="MMATV.us" tvg-logo="https://i.imgur.com/Qxco1eW.png" tvg-country="US" group-title="Sports de combat",MMA TV [576p]
+#EXTINF:-1 tvg-id="MMATV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aac5f6c829ccec96.png" tvg-country="US" group-title="Sports de combat",MMA TV [576p]
 http://31.148.48.15/M1_Global/index.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-country="RU" group-title="Sports de combat",MMA-TV.com [1080p]
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a5628e35a6513b84.png" tvg-country="RU" group-title="Sports de combat",MMA-TV.com [1080p]
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 tvg-id="PersianaFight.fr" tvg-logo="" tvg-country="FR" group-title="Sports de combat",Persiana Fight
+#EXTINF:-1 tvg-id="PersianaFight.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b2469b239bb6a17e.png" tvg-country="FR" group-title="Sports de combat",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PFLMMA.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" tvg-country="US" group-title="Sports de combat",PFL MMA [720p]
+#EXTINF:-1 tvg-id="PFLMMA.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/58db69c03ab33c89.png" tvg-country="US" group-title="Sports de combat",PFL MMA [720p]
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://i.imgur.com/8x1FV3o.png" tvg-country="PL" group-title="Sports de combat",Polsat Sport Fight
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/53a3789d143f904a.png" tvg-country="PL" group-title="Sports de combat",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="SwerveCombat.us" tvg-logo="https://i.imgur.com/eFZh7aG.png" tvg-country="US" group-title="Sports de combat",Swerve Combat [1080p]
+#EXTINF:-1 tvg-id="SwerveCombat.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d90d004ed4657bb.png" tvg-country="US" group-title="Sports de combat",Swerve Combat [1080p]
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" tvg-country="PL" group-title="Sports de combat",TNA Wrestling Channel [720p]
+#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e3e5b0b08f8f28f8.png" tvg-country="PL" group-title="Sports de combat",TNA Wrestling Channel [720p]
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
-#EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" tvg-country="BR" group-title="Sports de combat",TVMatic Fight [720p]
+#EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a3fa33ed0a104b49.png" tvg-country="BR" group-title="Sports de combat",TVMatic Fight [720p]
 http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" tvg-country="US" group-title="Sports de combat",TVS Boxing [360p]
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f35c7f19df6ecec9.png" tvg-country="US" group-title="Sports de combat",TVS Boxing [360p]
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" tvg-country="US" group-title="Sports de combat",WWE Network [1080p]
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d609312cae59e766.png" tvg-country="US" group-title="Sports de combat",WWE Network [1080p]
 http://103.151.60.162:2122/play/a00p/index.m3u8?hls

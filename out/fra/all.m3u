@@ -1,918 +1,918 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" tvg-country="FR" group-title="Généraliste",20 Minutes TV [1080p]
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c72f931f8b264a95.png" tvg-country="FR" group-title="Généraliste",20 Minutes TV [1080p]
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-country="MA" group-title="Généraliste",2M Monde (+1) [1080p]
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste",2M Monde (+1) [1080p]
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-country="MA" group-title="Généraliste",2M Monde [360p]
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste",2M Monde [360p]
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://i.imgur.com/B5gsM7m.png" tvg-country="US" group-title="Religion",3ABN French
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc6d71dd6a91c23c.png" tvg-country="US" group-title="Religion",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png" tvg-country="FR" group-title="Divertissement",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter
 http://149.62.177.107:9999/6ter/index.m3u8
-#EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://i.imgur.com/jcl1nNR.png" tvg-country="CI" group-title="Infos",7 Info
+#EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8967e15ae62ef3ad.png" tvg-country="CI" group-title="Infos",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
-#EXTINF:-1 tvg-id="A12TV.ci" tvg-logo="https://i.imgur.com/JgnjgvF.png" tvg-country="CI" group-title="Généraliste",A12 TV
+#EXTINF:-1 tvg-id="A12TV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/06d6438cc059882c.png" tvg-country="CI" group-title="Généraliste",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
-#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" tvg-country="SN" group-title="Musique",A2i Music [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/98ca35a1a479b88e.png" tvg-country="SN" group-title="Musique",A2i Music [720p] {Not 24/7}
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" tvg-country="SN" group-title="Éducation",A2i Naija [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e523fb35b796a178.png" tvg-country="SN" group-title="Éducation",A2i Naija [720p] {Not 24/7}
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/54WrwyN.jpg" tvg-country="SN" group-title="Religion",A2i Religion [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ef4b078366043439.png" tvg-country="SN" group-title="Religion",A2i Religion [720p] {Not 24/7}
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="A2iTV.it" tvg-logo="https://i.imgur.com/YlDFir7.jpg" tvg-country="IT" group-title="Généraliste",A2i TV [1080p]
+#EXTINF:-1 tvg-id="A2iTV.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f6e45f659b02a8a.png" tvg-country="IT" group-title="Généraliste",A2i TV [1080p]
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ACTV.tg" tvg-logo="https://i.imgur.com/SYugK7Y.png" tvg-country="TG" group-title="Religion",AC TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="ACTV.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/90e18e8da36fc50c.png" tvg-country="TG" group-title="Religion",AC TV [480p] {Not 24/7}
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
-#EXTINF:-1 tvg-id="ACTV.be" tvg-logo="https://files.catbox.moe/8v2y8m.png" tvg-country="BE" group-title="Généraliste",ACTV [504p]
+#EXTINF:-1 tvg-id="ACTV.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/448cd196e9781e68.png" tvg-country="BE" group-title="Généraliste",ACTV [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
-#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" tvg-country="FR" group-title="Animation",ADN TV+ [720p]
+#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4bd5f84392d627e3.png" tvg-country="FR" group-title="Animation",ADN TV+ [720p]
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" tvg-country="FR" group-title="Infos",Africa 24 [1080p]
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b44318591b9ba98e.png" tvg-country="FR" group-title="Infos",Africa 24 [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" tvg-country="FR" group-title="Infos",Africa 24 Sport [1080p]
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b74389f14ca231b3.png" tvg-country="FR" group-title="Infos",Africa 24 Sport [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" tvg-country="FR" group-title="Infos",Africanews French [720p]
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eaaea50206ed8fd0.png" tvg-country="FR" group-title="Infos",Africanews French [720p]
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-logo="https://i.imgur.com/hz2LOD8.jpeg" tvg-country="GN" group-title="Infos",Afrik Info TV
+#EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9d4e002ccde3628.png" tvg-country="GN" group-title="Infos",Afrik Info TV
 https://kali.vdopanel.com:3119/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://i.imgur.com/spQgX7X.png" tvg-country="CM" group-title="Infos",Afrique Media [720p]
+#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16061270a055f4c4.png" tvg-country="CM" group-title="Infos",Afrique Media [720p]
 #EXTVLCOPT:http-referrer=https://odysee.com
 https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
-#EXTINF:-1 tvg-id="Afrique54TV.cm" tvg-logo="https://i.imgur.com/WIaRpiS.png" tvg-country="CM" group-title="Infos",Afrique54 TV [720p]
+#EXTINF:-1 tvg-id="Afrique54TV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34e8072eebe4bcae.png" tvg-country="CM" group-title="Infos",Afrique54 TV [720p]
 https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
-#EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-logo="https://i.imgur.com/yQzXErU.png" tvg-country="CI" group-title="Culture",Afro Magic Channel
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fe9039d937e0ad66.png" tvg-country="CI" group-title="Culture",Afro Magic Channel
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
-#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-logo="https://i.imgur.com/bjaZ3kO.png" tvg-country="CI" group-title="Culture",Afroculture TV
+#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d831f03463a28daf.png" tvg-country="CI" group-title="Culture",Afroculture TV
 https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
-#EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-logo="https://i.imgur.com/fWlLvRA.png" tvg-country="TR" group-title="Généraliste",Afroturk TV [1080p]
+#EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5d29505f100c2132.png" tvg-country="TR" group-title="Généraliste",Afroturk TV [1080p]
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" tvg-country="DZ" group-title="Infos",AL24 News
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a4130541a9f8db6b.png" tvg-country="DZ" group-title="Infos",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
-#EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-country="US" group-title="Séries",Alerte a Malibu
+#EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bf8f730e3250e132.png" tvg-country="US" group-title="Séries",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
-#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-logo="https://i.imgur.com/090tCQ5.png" tvg-country="FR" group-title="Généraliste",Alpe d'Huez TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4ccda95bed0cfe87.png" tvg-country="FR" group-title="Généraliste",Alpe d'Huez TV [720p] {Not 24/7}
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 tvg-id="AmaniTV.sn" tvg-logo="https://i.imgur.com/0cY4K7G.png" tvg-country="SN" group-title="Culture",Amani TV [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="AmaniTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a4592baa71919a5.png" tvg-country="SN" group-title="Culture",Amani TV [1080p] {Not 24/7}
 https://goccn.cloud/hls/amanitv/index.m3u8
-#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" tvg-country="DZ" group-title="Jeunesse",Amou Yazid TV [576p]
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f25f0062cd14fac9.png" tvg-country="DZ" group-title="Jeunesse",Amou Yazid TV [576p]
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenneA.cd" tvg-logo="https://i.imgur.com/tgxrcv7.png" tvg-country="CD" group-title="Généraliste",Antenne A
+#EXTINF:-1 tvg-id="AntenneA.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/86d27a0e0a2057c3.png" tvg-country="CD" group-title="Généraliste",Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-country="FR" group-title="Généraliste",Antenne Reunion [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4590355d52cfdb11.png" tvg-country="FR" group-title="Généraliste",Antenne Reunion [720p] {Not 24/7}
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" group-title="Divertissement",arte [1080p]
+#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0303b2f4e533648d.png" tvg-country="FR" group-title="Divertissement",arte [1080p]
 http://5.180.164.197:8080/ARTEFR/index.m3u8
-#EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://i.imgur.com/YkJPCfR.jpeg" tvg-country="GN" group-title="Généraliste",ATV [400p] {Not 24/7}
+#EXTINF:-1 tvg-id="ATV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/369d0493337f077a.png" tvg-country="GN" group-title="Généraliste",ATV [400p] {Not 24/7}
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20260612182539" tvg-country="US" group-title="Jeunesse",BabyFirst [720p]
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b9ed4f218348151d.png" tvg-country="US" group-title="Jeunesse",BabyFirst [720p]
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-logo="https://i.imgur.com/EqOzhYw.png" tvg-country="CM" group-title="Infos",Balafon TV {Geo-blocked}
+#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/51df943d2e87e5fe.png" tvg-country="CM" group-title="Infos",Balafon TV {Geo-blocked}
 https://broadcasting-channels.com:9044/hls/test.m3u8
-#EXTINF:-1 tvg-id="BAMTV.be" tvg-logo="https://i.imgur.com/9UmR6cs.png" tvg-country="BE" group-title="Culture",BAM-TV
+#EXTINF:-1 tvg-id="BAMTV.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ee974d3790e8593.png" tvg-country="BE" group-title="Culture",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
-#EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-logo="https://i.imgur.com/IKXddHN.png" tvg-country="CD" group-title="Infos",Baraka Television [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/12f0cdc80a97860f.png" tvg-country="CD" group-title="Infos",Baraka Television [720p] {Not 24/7}
 https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
-#EXTINF:-1 tvg-id="BebTV.cg" tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" tvg-country="CG" group-title="Généraliste",Beb TV [720p]
+#EXTINF:-1 tvg-id="BebTV.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cb654e3d57c36b11.png" tvg-country="CG" group-title="Généraliste",Beb TV [720p]
 https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
-#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://i.imgur.com/0DUprIW.png" tvg-country="BE" group-title="Musique",Bel RTL [1080p]
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72f588950504e437.png" tvg-country="BE" group-title="Musique",Bel RTL [1080p]
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="BenieTV.ci" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" tvg-country="CI" group-title="Religion",Benie TV [720p]
+#EXTINF:-1 tvg-id="BenieTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce52a23a8faa2e73.png" tvg-country="CI" group-title="Religion",Benie TV [720p]
 https://tv.voozmedia.fun/benietv/index.m3u8
-#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://i.imgur.com/CYy4n0N.png" tvg-country="BJ" group-title="Infos",Benin Web TV [720p]
+#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d834369672362146.png" tvg-country="BJ" group-title="Infos",Benin Web TV [720p]
 https://stream.beninwebtv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://i.imgur.com/iRsbEpg.png" tvg-country="FR" group-title="Généraliste",BFM Alsace [1080p]
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2587b881207835c9.png" tvg-country="FR" group-title="Généraliste",BFM Alsace [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-country="FR" group-title="Économie",BFM Business [1080p]
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f84c7ceae81f828b.png" tvg-country="FR" group-title="Économie",BFM Business [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://i.imgur.com/iiVFvIw.png" tvg-country="FR" group-title="Infos",BFM Cote d'Azur [1080p]
+#EXTINF:-1 tvg-id="BFMCotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/74ab2bf18d620d45.png" tvg-country="FR" group-title="Infos",BFM Cote d'Azur [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-logo="https://i.imgur.com/bV77l68.png" tvg-country="FR" group-title="Infos",BFM DICI Alpes du Sud [1080p]
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9855020eeb3d388a.png" tvg-country="FR" group-title="Infos",BFM DICI Alpes du Sud [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-logo="https://i.imgur.com/bV77l68.png" tvg-country="FR" group-title="Infos",BFM DICI Haute-Provence [1080p]
+#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9855020eeb3d388a.png" tvg-country="FR" group-title="Infos",BFM DICI Haute-Provence [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://i.imgur.com/HE5xP0r.png" tvg-country="FR" group-title="Infos",BFM Grand Lille [1080p]
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7e1bda1e2663f69a.png" tvg-country="FR" group-title="Infos",BFM Grand Lille [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://i.imgur.com/j7F9MwH.png" tvg-country="FR" group-title="Infos",BFM Grand Littoral [1080p]
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2b0a286cae657650.png" tvg-country="FR" group-title="Infos",BFM Grand Littoral [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://i.imgur.com/0uiiZRo.png" tvg-country="FR" group-title="Infos",BFM Lyon [1080p]
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34c1cc2e9f2c04cd.png" tvg-country="FR" group-title="Infos",BFM Lyon [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://i.imgur.com/h7t0l6q.png" tvg-country="FR" group-title="Infos",BFM Marseille [1080p]
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d8061286d17375a1.png" tvg-country="FR" group-title="Infos",BFM Marseille [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://i.imgur.com/WWWQ44G.png" tvg-country="FR" group-title="Infos",BFM Normandie [1080p]
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f4597c0a3df0f839.png" tvg-country="FR" group-title="Infos",BFM Normandie [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-logo="https://i.imgur.com/FQ0FpXV.png" tvg-country="FR" group-title="Sciences",BFM Tech & Co [1080p]
+#EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/79f2d8f67b67577d.png" tvg-country="FR" group-title="Sciences",BFM Tech & Co [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-country="FR" group-title="Infos",BFM TV [1080p]
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce3caf1aec8c1db6.png" tvg-country="FR" group-title="Infos",BFM TV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://i.imgur.com/vp1oVj3.png" tvg-country="FR" group-title="Infos",BFM Var [1080p]
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0c10167ff81f2a36.png" tvg-country="FR" group-title="Infos",BFM Var [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFM2.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" tvg-country="FR" group-title="Infos",BFM2 [1080p]
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dba9e7fd798c7425.png" tvg-country="FR" group-title="Infos",BFM2 [1080p]
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="Bobleponge.us" tvg-logo="https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png" tvg-country="US" group-title="Jeunesse",Bob l'eponge [720p]
+#EXTINF:-1 tvg-id="Bobleponge.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a9b192acf7192278.png" tvg-country="US" group-title="Jeunesse",Bob l'eponge [720p]
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
-#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://i.imgur.com/rc9MXm5.png" tvg-country="CD" group-title="Généraliste",Boss Brothers TV [1080p]
+#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0aeda26d20547dc2.png" tvg-country="CD" group-title="Généraliste",Boss Brothers TV [1080p]
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-#EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://i.imgur.com/STLavel.png" tvg-country="BE" group-title="Autres",Bouke [504p]
+#EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc1523b075b82687.png" tvg-country="BE" group-title="Autres",Bouke [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
-#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-logo="https://i.imgur.com/86VXni8.jpeg" tvg-country="US" group-title="Musique",BPX TV Radio
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65853f58566ed929.png" tvg-country="US" group-title="Musique",BPX TV Radio
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-logo="https://i.imgur.com/y94bhqX.jpg" tvg-country="FR" group-title="Généraliste",Brionnais TV [720p]
+#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2c4990f5b33fd092.png" tvg-country="FR" group-title="Généraliste",Brionnais TV [720p]
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="Bruzz.be" tvg-logo="https://i.imgur.com/OYlYidF.png" tvg-country="BE" group-title="Autres",Bruzz [720p]
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9cb35a84e0b6d6ea.png" tvg-country="BE" group-title="Autres",Bruzz [720p]
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://i.imgur.com/0OkSa6c.png" tvg-country="BE" group-title="Autres",BX1 [504p]
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db5970dd14f49cdb.png" tvg-country="BE" group-title="Autres",BX1 [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/w4kAX1V.png" tvg-country="FR" group-title="Divertissement",C Star [477p]
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/adc61c7985da65e6.png" tvg-country="FR" group-title="Divertissement",C Star [477p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" tvg-country="FR" group-title="Autres",Caillou
+#EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f6b1108480e6c734.png" tvg-country="FR" group-title="Autres",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
-#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://i.imgur.com/xspb9uY.png" tvg-country="CM" group-title="Généraliste",CAM 10 TV [720p]
+#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7611016af11ac2fa.png" tvg-country="CM" group-title="Généraliste",CAM 10 TV [720p]
 https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://i.imgur.com/viB0FS2.png" tvg-country="UK" group-title="Généraliste",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/000c7a935dd291f2.png" tvg-country="UK" group-title="Généraliste",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3.bf" tvg-logo="https://i.imgur.com/WIrVAa2.png" tvg-country="BF" group-title="Généraliste",Canal 3
+#EXTINF:-1 tvg-id="Canal3.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/722532c63d8b56a3.png" tvg-country="BF" group-title="Généraliste",Canal 3
 https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" tvg-country="CH" group-title="Autres",Canal 9 [1080p]
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1fab9a7e56296811.png" tvg-country="CH" group-title="Autres",Canal 9 [1080p]
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
-#EXTINF:-1 tvg-id="CanalZ.be" tvg-logo="https://i.imgur.com/qtiGLzZ.png" tvg-country="BE" group-title="Économie",Canal Z [1080p]
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc0cb3ab47472021.png" tvg-country="BE" group-title="Économie",Canal Z [1080p]
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://i.imgur.com/JUNP8Rx.png" tvg-country="BE" group-title="Généraliste",Canal Zoom {Geo-blocked}
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/90b98a5581eb4b94.png" tvg-country="BE" group-title="Généraliste",Canal Zoom {Geo-blocked}
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-country="FR" group-title="Sports",Canal+ Sport [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ddab5e921fe5272.png" tvg-country="FR" group-title="Sports",Canal+ Sport [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-#EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-logo="https://i.imgur.com/atlgnum.png" tvg-country="FR" group-title="Généraliste",Cannes Lerins TV [1080p]
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a974a207ee8b746b.png" tvg-country="FR" group-title="Généraliste",Cannes Lerins TV [1080p]
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="https://i.imgur.com/TSc35U6.png" tvg-country="CH" group-title="Divertissement",Carac 1 [1080p]
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3faa10596c659d0d.png" tvg-country="CH" group-title="Divertissement",Carac 1 [1080p]
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
-#EXTINF:-1 tvg-id="Carac2.ch" tvg-logo="https://i.imgur.com/hCoIPen.png" tvg-country="CH" group-title="Divertissement",Carac 2 [1080p]
+#EXTINF:-1 tvg-id="Carac2.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ed49c6b4a575810f.png" tvg-country="CH" group-title="Divertissement",Carac 2 [1080p]
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="Carac3.ch" tvg-logo="https://i.imgur.com/C4e8cjt.png" tvg-country="CH" group-title="Divertissement",Carac 3 [1080p]
+#EXTINF:-1 tvg-id="Carac3.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d5d8381d5a5f9bf0.png" tvg-country="CH" group-title="Divertissement",Carac 3 [1080p]
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac4.ch" tvg-logo="https://i.imgur.com/Dj5LPy3.png" tvg-country="CH" group-title="Divertissement",Carac 4 [1080p]
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/15c9683426cad4e2.png" tvg-country="CH" group-title="Divertissement",Carac 4 [1080p]
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac5.ch" tvg-logo="https://i.imgur.com/0D4CvYp.png" tvg-country="CH" group-title="Divertissement",Carac 5
+#EXTINF:-1 tvg-id="Carac5.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/82e4025bc9a76baa.png" tvg-country="CH" group-title="Divertissement",Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-country="CN" group-title="Infos",CGTN French [1080p]
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1617e0907ea3c8fd.png" tvg-country="CN" group-title="Infos",CGTN French [1080p]
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-logo="https://i.imgur.com/qVTOklV.png" tvg-country="SN" group-title="Religion",Chabiba TV [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d25c1616cb3f5376.png" tvg-country="SN" group-title="Religion",Chabiba TV [360p] {Not 24/7}
 https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
-#EXTINF:-1 tvg-id="ChampionTV.ci" tvg-logo="https://i.imgur.com/WjHSrHN.png" tvg-country="CI" group-title="Économie",Champion TV
+#EXTINF:-1 tvg-id="ChampionTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2b4761707411a54a.png" tvg-country="CI" group-title="Économie",Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
-#EXTINF:-1 tvg-id="ChandelTV.tg" tvg-logo="https://i.imgur.com/jQO7dVE.png" tvg-country="TG" group-title="Divertissement",Chandel TV [720p]
+#EXTINF:-1 tvg-id="ChandelTV.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0fc002bd03a5364e.png" tvg-country="TG" group-title="Divertissement",Chandel TV [720p]
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
-#EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" tvg-country="DE" group-title="Films",Cine 666 by Pluto TV
+#EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/76991b4b648f1c65.png" tvg-country="DE" group-title="Films",Cine 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
-#EXTINF:-1 tvg-id="CineActionbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" tvg-country="DE" group-title="Films",Cine Action by Pluto TV
+#EXTINF:-1 tvg-id="CineActionbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/800ce7ad3410d19b.png" tvg-country="DE" group-title="Films",Cine Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
-#EXTINF:-1 tvg-id="CinebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" tvg-country="DE" group-title="Films",Cine by Pluto TV
+#EXTINF:-1 tvg-id="CinebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5eaa3f485bc8bca4.png" tvg-country="DE" group-title="Films",Cine by Pluto TV
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
-#EXTINF:-1 tvg-id="CineCatastrophebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" tvg-country="DE" group-title="Films",Cine Catastrophe by Pluto TV
+#EXTINF:-1 tvg-id="CineCatastrophebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6c80b1faea33e592.png" tvg-country="DE" group-title="Films",Cine Catastrophe by Pluto TV
 https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-#EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" tvg-country="DE" group-title="Films",Cine d'Asie by Pluto TV
+#EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/043290436682fbf9.png" tvg-country="DE" group-title="Films",Cine d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-#EXTINF:-1 tvg-id="CineHorreurbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" tvg-country="DE" group-title="Films",Cine Horreur by Pluto TV
+#EXTINF:-1 tvg-id="CineHorreurbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fa9c237d3330a090.png" tvg-country="DE" group-title="Films",Cine Horreur by Pluto TV
 https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
-#EXTINF:-1 tvg-id="CineNanar.fr" tvg-logo="https://i.imgur.com/YnUZd3W.png" tvg-country="FR" group-title="Films",Cine Nanar [1080p]
+#EXTINF:-1 tvg-id="CineNanar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e68a8a476d44f46a.png" tvg-country="FR" group-title="Films",Cine Nanar [1080p]
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" tvg-country="DE" group-title="Films",Cine Retro by Pluto TV
+#EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb7d84b463320690.png" tvg-country="DE" group-title="Films",Cine Retro by Pluto TV
 https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
-#EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" tvg-country="DE" group-title="Films",Cine Romance by Pluto TV
+#EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b49a50da939b036c.png" tvg-country="DE" group-title="Films",Cine Romance by Pluto TV
 https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-country="DE" group-title="Films",Cine Sci-Fi by Pluto TV
+#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f60368677897f4.png" tvg-country="DE" group-title="Films",Cine Sci-Fi by Pluto TV
 https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
-#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" tvg-country="DE" group-title="Films",Cine Thrillers by Pluto TV
+#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e352b473f47993ac.png" tvg-country="DE" group-title="Films",Cine Thrillers by Pluto TV
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
-#EXTINF:-1 tvg-id="CineWestern.fr" tvg-logo="https://i.imgur.com/tteOFkL.png" tvg-country="FR" group-title="Films",Cine Western [1080p]
+#EXTINF:-1 tvg-id="CineWestern.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9972f504a087068f.png" tvg-country="FR" group-title="Films",Cine Western [1080p]
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" tvg-country="DE" group-title="Films",Cine Western by Pluto TV
+#EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65024ad2530eeb96.png" tvg-country="DE" group-title="Films",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-country="FR" group-title="Films",Cine+ Classic
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3624e5914a350461.png" tvg-country="FR" group-title="Films",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-country="FR" group-title="Films",Cine+ Frisson [1080p]
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/716e8fb0274079a9.png" tvg-country="FR" group-title="Films",Cine+ Frisson [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/CineFrisson/index.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-logo="https://i.imgur.com/MyiA92q.png" tvg-country="US" group-title="Musique",Clubbing TV (France)
+#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3202cf204cd0de6b.png" tvg-country="US" group-title="Musique",Clubbing TV (France)
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/Ki3ySUE.png" tvg-country="DZ" group-title="Religion",CNA [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a8a0ced728c3242b.png" tvg-country="DZ" group-title="Religion",CNA [360p] {Not 24/7}
 https://live.creacast.com/cna/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" tvg-country="FR" group-title="Infos",CNews [1080p]
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d2b39b421ba4c37c.png" tvg-country="FR" group-title="Infos",CNews [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" tvg-country="FR" group-title="Infos",CNEWS PRIME [1080p]
+#EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1cd5dc3905a6a839.png" tvg-country="FR" group-title="Infos",CNEWS PRIME [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
-#EXTINF:-1 tvg-id="CNMTV.sn" tvg-logo="https://i.ibb.co/0cfdGKv/1630802325205.jpg" tvg-country="SN" group-title="Généraliste",CNM TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="CNMTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/83387e5e0bc4adab.png" tvg-country="SN" group-title="Généraliste",CNM TV [720p] {Not 24/7}
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://i.imgur.com/9IIIvPf.png" tvg-country="CD" group-title="Généraliste",Congo Planet Television [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a02e3906b5a9fb5.png" tvg-country="CD" group-title="Généraliste",Congo Planet Television [1080p] {Not 24/7}
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://i.imgur.com/VOIwYYd.png" tvg-country="CH" group-title="Musique",Couleur 3 [720p]
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f55655eac3b3253f.png" tvg-country="CH" group-title="Musique",Couleur 3 [720p]
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://i.imgur.com/cQWNh3L.png" tvg-country="CM" group-title="Généraliste",CRTV
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/489ef5a54d992389.png" tvg-country="CM" group-title="Généraliste",CRTV
 https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-logo="https://i.imgur.com/5CshVf9.png" tvg-country="CM" group-title="Infos",CRTV News
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7cdbc61c7106b2f.png" tvg-country="CM" group-title="Infos",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
-#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm" tvg-logo="https://i.imgur.com/DiIei9F.png" tvg-country="CM" group-title="Sports",CRTV Sports and Entertainment (SD) [360p]
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/227c9d6c1b016d8c.png" tvg-country="CM" group-title="Sports",CRTV Sports and Entertainment (SD) [360p]
 #EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
 https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
-#EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://i.imgur.com/uFEIBtB.png" tvg-country="ML" group-title="Divertissement",D3 TV [720p]
+#EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29579897bf75f6f0.png" tvg-country="ML" group-title="Divertissement",D3 TV [720p]
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png" tvg-country="FR" group-title="Musique",DBM TV [1080p]
+#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa3edbe1dfced872.png" tvg-country="FR" group-title="Musique",DBM TV [1080p]
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DegaTV.us" tvg-logo="https://i.ibb.co/ZTYvHyR/DEGA-TV-TELEPACK.jpg" tvg-country="US" group-title="Musique",Dega TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="DegaTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c853e3982ad19eac.png" tvg-country="US" group-title="Musique",Dega TV [720p] {Not 24/7}
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
-#EXTINF:-1 tvg-id="DetectiveConan.us" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" tvg-country="US" group-title="Animation",Detective Conan (France) [720p]
+#EXTINF:-1 tvg-id="DetectiveConan.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a23edd3ac58e05b.png" tvg-country="US" group-title="Animation",Detective Conan (France) [720p]
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 tvg-id="Diaspora24.sn" tvg-logo="https://i.imgur.com/4devfx1.png" tvg-country="SN" group-title="Autres",Diaspora 24 {Geo-blocked}
+#EXTINF:-1 tvg-id="Diaspora24.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e35c16f39830db61.png" tvg-country="SN" group-title="Autres",Diaspora 24 {Geo-blocked}
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
-#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://i.imgur.com/uz2Rsu7.png" tvg-country="CD" group-title="Généraliste",Digital Congo TV
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1b6945796e72d374.png" tvg-country="CD" group-title="Généraliste",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
-#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-logo="https://i.imgur.com/8Zx6dA7.png" tvg-country="US" group-title="Documentaires",Dossiers FBI
+#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/60e477b5b35abbbb.png" tvg-country="US" group-title="Documentaires",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-logo="https://i.imgur.com/ENBCDaQ.png" tvg-country="NE" group-title="Généraliste",Dounia TV
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/576942e033fcd61d.png" tvg-country="NE" group-title="Généraliste",Dounia TV
 https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
-#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-logo="https://i.imgur.com/rGbTvtZ.png" tvg-country="CG" group-title="Généraliste",DRTV International
+#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/521114b394937b51.png" tvg-country="CG" group-title="Généraliste",DRTV International
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
-#EXTINF:-1 tvg-id="DynamicGospelTV.tg" tvg-logo="https://i.imgur.com/e36BNNK.jpg" tvg-country="TG" group-title="Religion",Dynamic Gospel TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="DynamicGospelTV.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4948d281cbda27d.png" tvg-country="TG" group-title="Religion",Dynamic Gospel TV [480p] {Not 24/7}
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
-#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" tvg-country="BE" group-title="Parlementaire",EbS [1080p]
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/34ebb61426e880b6.png" tvg-country="BE" group-title="Parlementaire",EbS [1080p]
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" tvg-country="BE" group-title="Parlementaire",EbS+ [1080p]
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbb854169986a588.png" tvg-country="BE" group-title="Parlementaire",EbS+ [1080p]
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-logo="https://i.imgur.com/mgabVFd.png" tvg-country="CI" group-title="Religion",Ecclesia TV
+#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/69e8b65599fd945a.png" tvg-country="CI" group-title="Religion",Ecclesia TV
 https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
-#EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://i.imgur.com/4ClnG0x.png" tvg-country="BJ" group-title="Généraliste",Eden TV [540p] {Not 24/7}
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/71c0c0fba3dc9b5b.png" tvg-country="BJ" group-title="Généraliste",Eden TV [540p] {Not 24/7}
 https://rtmp.edentv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id="EmotionL.fr" tvg-logo="https://i.imgur.com/MP34aaj.png" tvg-country="FR" group-title="Films",Emotion L [1080p]
+#EXTINF:-1 tvg-id="EmotionL.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/697c5116890dc4c0.png" tvg-country="FR" group-title="Films",Emotion L [1080p]
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-country="FR" group-title="Sports",Equidia [1080p]
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b00d2a967345c87c.png" tvg-country="FR" group-title="Sports",Equidia [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-logo="https://i.imgur.com/nc9QBnD.png" tvg-country="CG" group-title="Religion",Esaie 45 Tele
+#EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce7a18be4817d8d1.png" tvg-country="CG" group-title="Religion",Esaie 45 Tele
 https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
-#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://i.imgur.com/m5E2VP0.png" tvg-country="GP" group-title="Généraliste",ETV [1080p]
+#EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/744a1bd9c6a37f44.png" tvg-country="GP" group-title="Généraliste",ETV [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/5A0Wnrv.png" tvg-country="FR" group-title="Infos",Euronews French [720p]
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/765135fa2e53cc45.png" tvg-country="FR" group-title="Infos",Euronews French [720p]
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" tvg-country="FR" group-title="Infos",Europe 1 TV [1080p]
+#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4fee5da5842e0eba.png" tvg-country="FR" group-title="Infos",Europe 1 TV [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
-#EXTINF:-1 tvg-id="Evtele.cg" tvg-logo="https://i.imgur.com/iBlXl2T.png" tvg-country="CG" group-title="Culture",Ev-tele [720p]
+#EXTINF:-1 tvg-id="Evtele.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/49469cbd97823991.png" tvg-country="CG" group-title="Culture",Ev-tele [720p]
 https://playtv4k.live/live/EVTELE/index.m3u8
-#EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-logo="https://i.imgur.com/v8TiqhH.png" tvg-country="FR" group-title="Religion",Evandis Gospel TV [1080p]
+#EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/231a3b4824e39ae7.png" tvg-country="FR" group-title="Religion",Evandis Gospel TV [1080p]
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://i.imgur.com/TTWl2Iy.png" tvg-country="GN" group-title="Généraliste",Evasion TV
+#EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbedeeb0c279e4e5.png" tvg-country="GN" group-title="Généraliste",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.imgur.com/fBc9JSM.png" tvg-country="CD" group-title="Divertissement",EVI TV [720p]
+#EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8946afe832ed7208.png" tvg-country="CD" group-title="Divertissement",EVI TV [720p]
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
-#EXTINF:-1 tvg-id="EWTN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" tvg-country="US" group-title="Religion",EWTN (Canada) [720p]
+#EXTINF:-1 tvg-id="EWTN.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/318b7182af7da506.png" tvg-country="US" group-title="Religion",EWTN (Canada) [720p]
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-logo="https://i.imgur.com/3wC7tSG.jpeg" tvg-country="CI" group-title="Religion",Exploits TV
+#EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4d5e5030827e9e2.png" tvg-country="CI" group-title="Religion",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
-#EXTINF:-1 tvg-id="FashionTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="RU" group-title="Lifestyle",FashionTV [1080p]
+#EXTINF:-1 tvg-id="FashionTV.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/027ed439ea5c4324.png" tvg-country="RU" group-title="Lifestyle",FashionTV [1080p]
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="IN" group-title="Lifestyle",FashionTV [576p]
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/027ed439ea5c4324.png" tvg-country="IN" group-title="Lifestyle",FashionTV [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/144/144_0.m3u8
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" tvg-country="FR" group-title="Lifestyle",FashionTV Paris L'Original [1080p]
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1024916bcae8bab5.png" tvg-country="FR" group-title="Lifestyle",FashionTV Paris L'Original [1080p]
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-country="UK" group-title="Sports",FIFA+ (French) [720p]
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6b8ee97cb98d10bd.png" tvg-country="UK" group-title="Sports",FIFA+ (French) [720p]
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FilinfoTV.bf" tvg-logo="https://i.imgur.com/KG93Tvn.png" tvg-country="BF" group-title="Infos",Filinfo TV [1080p]
+#EXTINF:-1 tvg-id="FilinfoTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/039643c109cc4a9d.png" tvg-country="BF" group-title="Infos",Filinfo TV [1080p]
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
-#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/1oMboXL.png" tvg-country="CM" group-title="Infos",For You TV
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4dcd9bfcc79e5043.png" tvg-country="CM" group-title="Infos",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" tvg-country="FR" group-title="Généraliste",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3d932d81c3a031e8.png" tvg-country="FR" group-title="Généraliste",France 2
 http://149.62.177.107:9999/France_2/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/188446253a70db14.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" tvg-country="FR" group-title="Généraliste",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur)
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur)
 http://89.187.185.76:8080/France3/index.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" tvg-country="FR" group-title="Jeunesse",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4764987ee1cf6c83.png" tvg-country="FR" group-title="Jeunesse",France 4
 http://149.62.177.107:9999/France_4/index.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" tvg-country="FR" group-title="Généraliste",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e0275ba8512b91a3.png" tvg-country="FR" group-title="Généraliste",France 5
 http://149.62.177.107:9999/France_5/index.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
 http://149.62.177.107:9999/franceinfo:/index.m3u8
-#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://i.imgur.com/uM1v1sd.png" tvg-country="FR" group-title="Documentaires",Francophonie24 [1080p]
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8e6da85b2ccd487d.png" tvg-country="FR" group-title="Documentaires",Francophonie24 [1080p]
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-country="FR" group-title="Séries",Frequence Novelas [1080p]
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0e933dea4f7a1a58.png" tvg-country="FR" group-title="Séries",Frequence Novelas [1080p]
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="FunVision.be" tvg-logo="https://i.imgur.com/AhkKr7Y.png" tvg-country="BE" group-title="Musique",Fun Vision
+#EXTINF:-1 tvg-id="FunVision.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3a3af452c41e8a4b.png" tvg-country="BE" group-title="Musique",Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-logo="https://i.imgur.com/WMrYEgH.png" tvg-country="MQ" group-title="Musique",FUSION TV [1080p]
+#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/733b84b9bfdf8ae8.png" tvg-country="MQ" group-title="Musique",FUSION TV [1080p]
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
-#EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-logo="https://i.imgur.com/NgBrDMe.png" tvg-country="FR" group-title="Autres",Generations TV [576p]
+#EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5acea67c94338c5a.png" tvg-country="FR" group-title="Autres",Generations TV [576p]
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://i.imgur.com/Ue02CIH.png" tvg-country="SN" group-title="Généraliste",GMS TV
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/58bae67cc4069f5b.png" tvg-country="SN" group-title="Généraliste",GMS TV
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-logo="https://i.imgur.com/WHnddkg.png" tvg-country="FR" group-title="Sports",Golf + [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a505abca57cb3897.png" tvg-country="FR" group-title="Sports",Golf + [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
-#EXTINF:-1 tvg-id="Gong.fr" tvg-logo="https://i.imgur.com/lA9UFMG.png" tvg-country="FR" group-title="Animation",Gong [1080p]
+#EXTINF:-1 tvg-id="Gong.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/110a85f361febb44.png" tvg-country="FR" group-title="Animation",Gong [1080p]
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://i.imgur.com/5cFLWKO.png" tvg-country="GH" group-title="Généraliste",GTV [540p]
+#EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d454564f58522531.png" tvg-country="GH" group-title="Généraliste",GTV [540p]
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" tvg-country="CI" group-title="Lifestyle",Guide Love TV [720p]
+#EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/daa6ba2cbd88e540.png" tvg-country="CI" group-title="Lifestyle",Guide Love TV [720p]
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-country="FR" group-title="Jeunesse",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/33fa44071223d15a.png" tvg-country="FR" group-title="Jeunesse",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" tvg-country="HT" group-title="Infos",Haiti News Channel [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1f16a038655ff01.png" tvg-country="HT" group-title="Infos",Haiti News Channel [1080p] {Not 24/7}
 https://cdn.haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-logo="https://i.imgur.com/vXbAeD0.png" tvg-country="FR" group-title="Lifestyle",HANDICAP TV
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/15ef1473834ec36b.png" tvg-country="FR" group-title="Lifestyle",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-id="HC2TV.bj" tvg-logo="https://i.imgur.com/CV38429.jpeg" tvg-country="BJ" group-title="Infos",HC2 TV
+#EXTINF:-1 tvg-id="HC2TV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b40361e118b088f0.png" tvg-country="BJ" group-title="Infos",HC2 TV
 https://stream.hc2tv.bj/2/live/stream.m3u8
-#EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-logo="https://i.imgur.com/EjjzjF9.png" tvg-country="US" group-title="Séries",Helene et les garcons
+#EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f3025c2793b6560e.png" tvg-country="US" group-title="Séries",Helene et les garcons
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
-#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" tvg-country="US" group-title="Musique",HMI PROMZ NEWS [720p]
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e6e5590218e07884.png" tvg-country="US" group-title="Musique",HMI PROMZ NEWS [720p]
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
+#EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/66e79bb88c250eb1.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBAFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBAFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://i.imgur.com/pFCJGj4.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBFT-DT) [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0c761a79defff1.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBFT-DT) [1080p] {Geo-blocked}
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ICI_Saskatchewan_logo_2018.svg/960px-ICI_Saskatchewan_logo_2018.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBKFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBKFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://i.imgur.com/1f798e8.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBLFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/387ffc55133d4ac5.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBLFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBOFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/32ca56f1250e2955.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBOFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBUFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBUFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBVT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBVT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ICI_Manitoba_logo_2018.svg/960px-ICI_Manitoba_logo_2018.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBWFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBWFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://i.imgur.com/1B3d8Jc.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CJBR-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/91d10331e1aa9c46.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CJBR-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKSH-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKSH-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTM-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTM-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTV-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTV-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/826227e381dfca95.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="ICONETV.bj" tvg-logo="https://i.imgur.com/Aws11wj.jpeg" tvg-country="BJ" group-title="Infos",ICONE TV
+#EXTINF:-1 tvg-id="ICONETV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c662f849f102ad05.png" tvg-country="BJ" group-title="Infos",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-logo="https://i.imgur.com/Atsf6Cd.png" tvg-country="MQ" group-title="Musique",Identite Tele Caraibes [548p]
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a62626b20ec3c01.png" tvg-country="MQ" group-title="Musique",Identite Tele Caraibes [548p]
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr" tvg-logo="https://i.imgur.com/fVhrJHK.png" tvg-country="FR" group-title="Autres",ILTV [720p]
+#EXTINF:-1 tvg-id="ILTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/52cdce231f878aba.png" tvg-country="FR" group-title="Autres",ILTV [720p]
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-logo="https://i.imgur.com/nynh5LY.png" tvg-country="BF" group-title="Religion",Impact TV
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/80a218637f3ad26e.png" tvg-country="BF" group-title="Religion",Impact TV
 https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
-#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-logo="https://i.imgur.com/pLv0T3D.png" tvg-country="US" group-title="Séries",Inazuma Eleven
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5bbea647a32bcf80.png" tvg-country="US" group-title="Séries",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 tvg-id="InstantSaga.us" tvg-logo="https://i.imgur.com/PMpwaQN.png" tvg-country="US" group-title="Séries",Instant Saga
+#EXTINF:-1 tvg-id="InstantSaga.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f6f7c558ab620141.png" tvg-country="US" group-title="Séries",Instant Saga
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
-#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://i.imgur.com/43at4M2.png" tvg-country="FR" group-title="Documentaires",Into Crime [1080p]
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/af7c77c475badac0.png" tvg-country="FR" group-title="Documentaires",Into Crime [1080p]
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" tvg-country="DE" group-title="Séries",Investigation by Pluto TV
+#EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/69148a47aed5857f.png" tvg-country="DE" group-title="Séries",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
-#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-logo="https://i.imgur.com/nUlZvSe.png" tvg-country="SA" group-title="Religion",Iqraa Africa & Europe [1080p]
+#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bfc7bf0186f8aa47.png" tvg-country="SA" group-title="Religion",Iqraa Africa & Europe [1080p]
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-country="SA" group-title="Religion",Iqraa Quran [1080p]
+#EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6142c2633376bc03.png" tvg-country="SA" group-title="Religion",Iqraa Quran [1080p]
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" tvg-country="CI" group-title="Musique",Ivoire Channel [720p]
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cb54a6e199ea5dbb.png" tvg-country="CI" group-title="Musique",Ivoire Channel [720p]
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-id="JapanimTV.be" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" tvg-country="BE" group-title="Animation",JapanimTV [1080p]
+#EXTINF:-1 tvg-id="JapanimTV.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/da017c309117500e.png" tvg-country="BE" group-title="Animation",JapanimTV [1080p]
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 tvg-id="KajouTV.us" tvg-logo="https://i.imgur.com/2XzghdT.png" tvg-country="US" group-title="Culture",Kajou TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="KajouTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/366f6a47f5be30ef.png" tvg-country="US" group-title="Culture",Kajou TV [720p] {Not 24/7}
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
-#EXTINF:-1 tvg-id="KalacTV.gn" tvg-logo="https://i.imgur.com/FgKJiHZ.png" tvg-country="GN" group-title="Généraliste",Kalac TV [1080p]
+#EXTINF:-1 tvg-id="KalacTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eea36c7cdc71587f.png" tvg-country="GN" group-title="Généraliste",Kalac TV [1080p]
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
-#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-logo="https://i.imgur.com/EfX3HNG.png" tvg-country="BJ" group-title="Généraliste",KassouaTV [720p]
+#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b71f04a80e46f63.png" tvg-country="BJ" group-title="Généraliste",KassouaTV [720p]
 https://playtv4k.live/live/kassouatv/index.m3u8
-#EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://i.imgur.com/PsYPzNc.png" tvg-country="RW" group-title="Divertissement",KC2 [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5d2591aced45020e.png" tvg-country="RW" group-title="Divertissement",KC2 [720p] {Not 24/7}
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-id="KemetTV.cm" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" tvg-country="CM" group-title="Culture",Kemet TV
+#EXTINF:-1 tvg-id="KemetTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9f318b44101954fb.png" tvg-country="CM" group-title="Culture",Kemet TV
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
-#EXTINF:-1 tvg-id="Kin24.cd" tvg-logo="https://i.imgur.com/Lak10Wo.png" tvg-country="CD" group-title="Infos",Kin24
+#EXTINF:-1 tvg-id="Kin24.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/19c31f446a6f954f.png" tvg-country="CD" group-title="Infos",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
-#EXTINF:-1 tvg-id="KozoomTV.fr" tvg-logo="https://i.imgur.com/M1Ee79b.png" tvg-country="FR" group-title="Sports",Kozoom TV [1080p]
+#EXTINF:-1 tvg-id="KozoomTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a3d12b631b900cc6.png" tvg-country="FR" group-title="Sports",Kozoom TV [1080p]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/EY6TsdV.png" tvg-country="FR" group-title="Religion",KTO [404p] {Not 24/7}
+#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/18a4de7950dfa6b9.png" tvg-country="FR" group-title="Religion",KTO [404p] {Not 24/7}
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png" tvg-country="FR" group-title="Sports",L'Equipe [1080p]
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b35ba4d019c8495e.png" tvg-country="FR" group-title="Sports",L'Equipe [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-country="BE" group-title="Divertissement",La Une [1080p]
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0846fddc8b4cd0ef.png" tvg-country="BE" group-title="Divertissement",La Une [1080p]
 http://41.205.93.154/LA-UNE/index.m3u8
-#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-logo="https://i.imgur.com/zzG1S2n.png" tvg-country="CM" group-title="Généraliste",Laura Dave Media TV [720p]
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f4845263a7e65c9f.png" tvg-country="CM" group-title="Généraliste",Laura Dave Media TV [720p]
 https://streaming.lauradavemedia.com/ldm/index.m3u8
-#EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-logo="https://i.imgur.com/buMvLJc.jpeg" tvg-country="CD" group-title="Religion",LBFD RTV [1080p]
+#EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c5232f309b332bf7.png" tvg-country="CD" group-title="Religion",LBFD RTV [1080p]
 https://tnt-television.com/LBFD_RTV/index.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-country="FR" group-title="Infos",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-country="FR" group-title="Infos",LCI (HD) [1080p]
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI (HD) [1080p]
 http://151.80.18.177:86/LCI_HD/index.m3u8
-#EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-country="CA" group-title="Infos",LCN {Geo-blocked}
+#EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa3c7242d6937bc5.png" tvg-country="CA" group-title="Infos",LCN {Geo-blocked}
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-country="FR" group-title="Parlementaire",LCP [477p]
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d75484b97a82261e.png" tvg-country="FR" group-title="Parlementaire",LCP [477p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-country="FR" group-title="Généraliste",Le Figaro TV Ile-de-France [1080p]
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e8f01ef7f090c6fc.png" tvg-country="FR" group-title="Généraliste",Le Figaro TV Ile-de-France [1080p]
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-logo="https://i.imgur.com/3Xz4hjD.png" tvg-country="US" group-title="Séries",Le miracle de l'amour
+#EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0942c306673c4d28.png" tvg-country="US" group-title="Séries",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
-#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-logo="https://i.imgur.com/2igwi7g.png" tvg-country="CD" group-title="Infos",Le Monde en 24h
+#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/08d0071ffebe7591.png" tvg-country="CD" group-title="Infos",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
-#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" tvg-country="BJ" group-title="Économie",Le Nouveau Manager TV
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7b6f4c7ec7a27c9.png" tvg-country="BJ" group-title="Économie",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
-#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-country="CA" group-title="Parlementaire",Legislative Assembly of Ontario
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d715b1242f5b24a1.png" tvg-country="CA" group-title="Parlementaire",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://i.imgur.com/6ijbSTr.png" tvg-country="CH" group-title="Infos",Leman Bleu [1080p]
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/81084879f61d45b2.png" tvg-country="CH" group-title="Infos",Leman Bleu [1080p]
 http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
-#EXTINF:-1 tvg-id="LesAnneesfac.us" tvg-logo="https://i.imgur.com/M1OjaB0.png" tvg-country="US" group-title="Séries",Les Annees fac
+#EXTINF:-1 tvg-id="LesAnneesfac.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5e88d9273d69b9b0.png" tvg-country="US" group-title="Séries",Les Annees fac
 https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1 tvg-id="Lesfillesdacote.us" tvg-logo="https://i.imgur.com/dxipSaQ.png" tvg-country="US" group-title="Séries",Les filles d'a cote
+#EXTINF:-1 tvg-id="Lesfillesdacote.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1b9c3b65dc8520c.png" tvg-country="US" group-title="Séries",Les filles d'a cote
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
-#EXTINF:-1 tvg-id="LesNouveauxDetectives.us" tvg-logo="https://i.imgur.com/ego8ozn.png" tvg-country="US" group-title="Séries",Les Nouveaux Detectives
+#EXTINF:-1 tvg-id="LesNouveauxDetectives.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a782dfce851c74f2.png" tvg-country="US" group-title="Séries",Les Nouveaux Detectives
 https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
-#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://i.imgur.com/DCZKAQ1.png" tvg-country="FR" group-title="Musique",Littoral FM TV [720p]
+#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f2205571907c7206.png" tvg-country="FR" group-title="Musique",Littoral FM TV [720p]
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-logo="https://i.imgur.com/FVnq2cQ.png" tvg-country="CI" group-title="Religion",LM TV French [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8d70352770a43847.png" tvg-country="CI" group-title="Religion",LM TV French [720p] {Not 24/7}
 https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
-#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-logo="https://i.imgur.com/fQhrsdr.png" tvg-country="CD" group-title="Films",Lollywood HD TV
+#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e7a7ce746f5850f9.png" tvg-country="CD" group-title="Films",Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
-#EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" tvg-country="SN" group-title="Généraliste",Louga TV [480p]
+#EXTINF:-1 tvg-id="LougaTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a2d92c857ab582e.png" tvg-country="SN" group-title="Généraliste",Louga TV [480p]
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-logo="https://i.imgur.com/I1w7rFb.png" tvg-country="US" group-title="Séries",Louis La Brocante
+#EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4241660fa4810a25.png" tvg-country="US" group-title="Séries",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
-#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="LU" group-title="Lifestyle",Luxe TV [1080p]
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/30e49ca356efd5a7.png" tvg-country="LU" group-title="Lifestyle",Luxe TV [1080p]
 http://103.154.3.101:5001/live/1736.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-country="FR" group-title="Divertissement",M6 (HD) [1080p]
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16777d7a08577aae.png" tvg-country="FR" group-title="Divertissement",M6 (HD) [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="" tvg-country="FR" group-title="Musique",M6 Music
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/de521c8338efc5ec.png" tvg-country="FR" group-title="Musique",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
-#EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-logo="https://i.imgur.com/spGg1CZ.png" tvg-country="GP" group-title="Musique",Madras FM TV [1080p]
+#EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7f290c43e88c38a.png" tvg-country="GP" group-title="Musique",Madras FM TV [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-logo="https://i.imgur.com/xQYly8O.png" tvg-country="PT" group-title="Religion",Mana Eglise Online [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa9912744ac6af11.png" tvg-country="PT" group-title="Religion",Mana Eglise Online [1080p] {Not 24/7}
 https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://i.imgur.com/rw72POr.png" tvg-country="BE" group-title="Généraliste",Matele [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2af25d432713a062.png" tvg-country="BE" group-title="Généraliste",Matele [1080p] {Not 24/7}
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-country="CH" group-title="Généraliste",Max TV [1080p]
+#EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7b51c5f903187a99.png" tvg-country="CH" group-title="Généraliste",Max TV [1080p]
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-country="FR" group-title="Musique",MCM Top
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ad88bc8015cf908.png" tvg-country="FR" group-title="Musique",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.ru" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-country="RU" group-title="Musique",MCM Top [576p]
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ad88bc8015cf908.png" tvg-country="RU" group-title="Musique",MCM Top [576p]
 http://46.32.176.50/mcmtop/index.m3u8
-#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/REN30bx.png" tvg-country="FR" group-title="Autres",MDL [720p]
+#EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/332b8572916ffcf2.png" tvg-country="FR" group-title="Autres",MDL [720p]
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/a20DHnj.png" tvg-country="MA" group-title="Infos",Medi1TV Afrique [1080p]
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1a9a08b389ef5d7b.png" tvg-country="MA" group-title="Infos",Medi1TV Afrique [1080p]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" tvg-country="MA" group-title="Infos",Medi1TV Maghreb [1080p]
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8c5ed0c76ec8f5bb.png" tvg-country="MA" group-title="Infos",Medi1TV Maghreb [1080p]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
-#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-logo="https://i.imgur.com/yJehCQM.png" tvg-country="CD" group-title="Généraliste",Mikuba TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7fea4af64bbf62e0.png" tvg-country="CD" group-title="Généraliste",Mikuba TV [480p] {Not 24/7}
 http://51.254.199.122:8080/MIKUBATV/index.m3u8
-#EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-logo="https://i.imgur.com/AQ60OYO.png" tvg-country="CI" group-title="Religion",Miracle TV+ [720p]
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/230f1624211c276f.png" tvg-country="CI" group-title="Religion",Miracle TV+ [720p]
 https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://i.imgur.com/dIrKYH7.png" tvg-country="MC" group-title="Infos",Monaco Info [1080p]
+#EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/11ad2b0fe50b14c7.png" tvg-country="MC" group-title="Infos",Monaco Info [1080p]
 https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/Y5YnUit.png" tvg-country="CA" group-title="Culture",Montreal Greek TV [480p]
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e7b78605baac581b.png" tvg-country="CA" group-title="Culture",Montreal Greek TV [480p]
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://i.imgur.com/hrm5QnU.png" tvg-country="FR" group-title="Généraliste",Moselle TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9e766239e7d8d91e.png" tvg-country="FR" group-title="Généraliste",Moselle TV [720p] {Not 24/7}
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-country="UK" group-title="Animation",Mr Bean Animated (FR) [1080p]
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2c13dfd0fe3bef48.png" tvg-country="UK" group-title="Animation",Mr Bean Animated (FR) [1080p]
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://i.imgur.com/bYiRfAg.png" tvg-country="UK" group-title="Religion",MTA1 World [720p]
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aee45f35b3cee9d4.png" tvg-country="UK" group-title="Religion",MTA1 World [720p]
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-logo="https://i.imgur.com/aVts0sz.png" tvg-country="UK" group-title="Religion",MTA2 Europe [720p]
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1d20c68b9008a53a.png" tvg-country="UK" group-title="Religion",MTA2 Europe [720p]
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-logo="https://i.imgur.com/lmVeQQX.png" tvg-country="UK" group-title="Religion",MTA4 Africa [1080p]
+#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8393d50adb46074d.png" tvg-country="UK" group-title="Religion",MTA4 Africa [1080p]
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-logo="https://i.imgur.com/9Cobb2i.png" tvg-country="UK" group-title="Religion",MTA5 Africa [1080p]
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/516290383be87477.png" tvg-country="UK" group-title="Religion",MTA5 Africa [1080p]
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" group-title="Divertissement",MTV
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0c4d1cf0c703d2ba.png" tvg-country="FR" group-title="Divertissement",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" tvg-country="DE" group-title="Divertissement",MTV CLASSICS
+#EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9de879a10924f40a.png" tvg-country="DE" group-title="Divertissement",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-logo="https://i.imgur.com/WbjURLo.png" tvg-country="FR" group-title="Culture",Museum TV French {Geo-blocked}
+#EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/89190eba9464982c.png" tvg-country="FR" group-title="Culture",Museum TV French {Geo-blocked}
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://i.imgur.com/vh2373L.png" tvg-country="CM" group-title="Autres",My TV Channel [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9224de251b3bbffc.png" tvg-country="CM" group-title="Autres",My TV Channel [720p] {Not 24/7}
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" group-title="Détente",MyZen TV [1080p]
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a74e4e2a49269c8.png" tvg-country="FR" group-title="Détente",MyZen TV [1080p]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="NaturalTV.tr" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-country="TR" group-title="Culture",Natural TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="NaturalTV.tr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/60ab95bd1e1e06c0.png" tvg-country="TR" group-title="Culture",Natural TV [720p] {Not 24/7}
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-country="CA" group-title="Documentaires",NatureTime (France) [1080p]
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/096223da6833dc1a.png" tvg-country="CA" group-title="Documentaires",NatureTime (France) [1080p]
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-country="IT" group-title="Sports",Nautical Channel [720p]
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5487fa879ca41478.png" tvg-country="IT" group-title="Sports",Nautical Channel [720p]
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-logo="https://i.imgur.com/SdVrpzY.png" tvg-country="HT" group-title="Généraliste",Netalkole TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/697570b86a664269.png" tvg-country="HT" group-title="Généraliste",Netalkole TV [720p] {Not 24/7}
 https://watch.haitilive.net/naktvhd/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon [504p]
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d3d933231c4b25f4.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon [504p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [1080p]
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d7898d4f3a749f1d.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [1080p]
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://i.imgur.com/BJgNq21.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f898ef414ec972.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" tvg-country="CI" group-title="Séries",Novela Channel [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40e9c1ced1f6b05f.png" tvg-country="CI" group-title="Séries",Novela Channel [720p] {Not 24/7}
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" tvg-country="FR" group-title="Généraliste",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/359630c1001a56fd.png" tvg-country="FR" group-title="Généraliste",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
-#EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://i.imgur.com/2xDVwOh.png" tvg-country="FR" group-title="Musique",NRJ Hits
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/baba763cded9157f.png" tvg-country="FR" group-title="Musique",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
-#EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/qqLXdHz.png" tvg-country="CI" group-title="Généraliste",NTV [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3f2c5984f114e4be.png" tvg-country="CI" group-title="Généraliste",NTV [1080p] {Not 24/7}
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-country="TG" group-title="Économie",NW Economie [576p]
+#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c72382573fe6affb.png" tvg-country="TG" group-title="Économie",NW Economie [576p]
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo.tg" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-country="TG" group-title="Infos",NW Info [576p]
+#EXTINF:-1 tvg-id="NWInfo.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4015bbb4ffd35ff7.png" tvg-country="TG" group-title="Infos",NW Info [576p]
 https://hls.newworldtv.com/nw-info/video/live.m3u8
-#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-logo="https://i.imgur.com/RZNJZYN.png" tvg-country="TG" group-title="Divertissement",NW Magazine [576p]
+#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2dd8746df6d0aafb.png" tvg-country="TG" group-title="Divertissement",NW Magazine [576p]
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
-#EXTINF:-1 tvg-id="OneNationTV.sn" tvg-logo="https://i.imgur.com/RGHbkZU.png" tvg-country="SN" group-title="Culture",One Nation TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="OneNationTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/440c95252a0ec403.png" tvg-country="SN" group-title="Culture",One Nation TV [720p] {Not 24/7}
 https://endour.net/hls/One_nationtv/index.m3u8
-#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://i.imgur.com/XsvbAWR.png" tvg-country="US" group-title="Animation",One Piece (FR)
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/174ae4e859552905.png" tvg-country="US" group-title="Animation",One Piece (FR)
 https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
-#EXTINF:-1 tvg-id="ONETV.cd" tvg-logo="https://i.imgur.com/Wob7gjp.png" tvg-country="CD" group-title="Religion",ONE-TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="ONETV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9a09f0c386337d2c.png" tvg-country="CD" group-title="Religion",ONE-TV [720p] {Not 24/7}
 https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
-#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" tvg-country="ML" group-title="Généraliste",ORTM 1
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3954a1d0d8cf4224.png" tvg-country="ML" group-title="Généraliste",ORTM 1
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
-#EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://i.imgur.com/toxFMeY.png" tvg-country="LB" group-title="Généraliste",OTV [1080p]
+#EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1af4b996acba43b1.png" tvg-country="LB" group-title="Généraliste",OTV [1080p]
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" tvg-country="FR" group-title="Musique",P2M TV [720p]
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/45bf8d90c27bb271.png" tvg-country="FR" group-title="Musique",P2M TV [720p]
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-logo="https://i.imgur.com/wneSSYM.png" tvg-country="CM" group-title="Infos",Panafrican Media TV [480p]
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1c05251164e31775.png" tvg-country="CM" group-title="Infos",Panafrican Media TV [480p]
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://i.imgur.com/1dmBqpf.png" tvg-country="CM" group-title="Musique",Play TV [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bcb2f2c5adb21d7d.png" tvg-country="CM" group-title="Musique",Play TV [720p] {Not 24/7}
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" tvg-country="CM" group-title="Divertissement",PLEX TV
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e966516c032cc17f.png" tvg-country="CM" group-title="Divertissement",PLEX TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" tvg-country="DE" group-title="Films",Pluto TV 90's Classics
+#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fea1fb499421716f.png" tvg-country="DE" group-title="Films",Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-country="DE" group-title="Documentaires",Pluto TV Animaux
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/865c9c4bf3f53ed6.png" tvg-country="DE" group-title="Documentaires",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVANIMEGO.de" tvg-logo="https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png" tvg-country="DE" group-title="Divertissement",Pluto TV ANIME GO!
+#EXTINF:-1 tvg-id="PlutoTVANIMEGO.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/82f61f45a8555f6c.png" tvg-country="DE" group-title="Divertissement",Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-country="DE" group-title="Documentaires",Pluto TV Aventure
+#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5060f99e123f8582.png" tvg-country="DE" group-title="Documentaires",Pluto TV Aventure
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBrigadeCriminelle.de" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png" tvg-country="DE" group-title="Séries",Pluto TV Brigade Criminelle
+#EXTINF:-1 tvg-id="PlutoTVBrigadeCriminelle.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c953989e7666fe0d.png" tvg-country="DE" group-title="Séries",Pluto TV Brigade Criminelle
 https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedie.de" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" tvg-country="DE" group-title="Comédie",Pluto TV Comedie
+#EXTINF:-1 tvg-id="PlutoTVComedie.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/20ce86f6841459ac.png" tvg-country="DE" group-title="Comédie",Pluto TV Comedie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" tvg-country="DE" group-title="Comédie",Pluto TV Comedies Cultes
+#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4da581e1d2f1068f.png" tvg-country="DE" group-title="Comédie",Pluto TV Comedies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" tvg-country="DE" group-title="Cuisine",Pluto TV Cuisine
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/139cb0cd81888cfa.png" tvg-country="DE" group-title="Cuisine",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDating.de" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1750772750435.png" tvg-country="DE" group-title="Séries",Pluto TV Dating [720p]
+#EXTINF:-1 tvg-id="PlutoTVDating.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/94a3f6b6e9765346.png" tvg-country="DE" group-title="Séries",Pluto TV Dating [720p]
 https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFrenchCollection.de" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" tvg-country="DE" group-title="Divertissement",Pluto TV French Collection
+#EXTINF:-1 tvg-id="PlutoTVFrenchCollection.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b8cb2dbb9134cb27.png" tvg-country="DE" group-title="Divertissement",Pluto TV French Collection
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" tvg-country="DE" group-title="Documentaires",Pluto TV Histoire [720p]
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4e54f79db7152957.png" tvg-country="DE" group-title="Documentaires",Pluto TV Histoire [720p]
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-#EXTINF:-1 tvg-id="PlutoTVInside.de" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" tvg-country="DE" group-title="Divertissement",Pluto TV Inside
+#EXTINF:-1 tvg-id="PlutoTVInside.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5395dc84e435488b.png" tvg-country="DE" group-title="Divertissement",Pluto TV Inside
 https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Kids Classics (FR) [720p]
+#EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/42afe92c42385638.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Kids Classics (FR) [720p]
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPolar.de" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-country="DE" group-title="Séries",Pluto TV Polar
+#EXTINF:-1 tvg-id="PlutoTVPolar.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2db65a36ad72bee2.png" tvg-country="DE" group-title="Séries",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" tvg-country="DE" group-title="Animation",Pluto TV Retro Toons
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a832e849eebd3778.png" tvg-country="DE" group-title="Animation",Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesFantastiques.de" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" tvg-country="DE" group-title="Séries",Pluto TV Series Fantastiques
+#EXTINF:-1 tvg-id="PlutoTVSeriesFantastiques.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/64032a1e0d26ea00.png" tvg-country="DE" group-title="Séries",Pluto TV Series Fantastiques
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSuperKids.de" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Super Kids
+#EXTINF:-1 tvg-id="PlutoTVSuperKids.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/283645b8162626de.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Super Kids
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Teen (FR) [720p]
+#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/51ee65491706ef2f.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Teen (FR) [720p]
 https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTelerealiteFrance.de" tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" tvg-country="DE" group-title="Divertissement",Pluto TV Telerealite France
+#EXTINF:-1 tvg-id="PlutoTVTelerealiteFrance.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/08a1902270d9aa87.png" tvg-country="DE" group-title="Divertissement",Pluto TV Telerealite France
 https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
-#EXTINF:-1 tvg-id="PlutoTVToons.de" tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Toons (FR) [720p]
+#EXTINF:-1 tvg-id="PlutoTVToons.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f74b68e427fdd6f3.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Toons (FR) [720p]
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
-#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a39f1da5258f22b1.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://i.imgur.com/xQlkuAa.png" tvg-country="CD" group-title="Généraliste",PSTV HD [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/84ddf732e4e6f367.png" tvg-country="CD" group-title="Généraliste",PSTV HD [480p] {Not 24/7}
 http://51.254.199.122:8080/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" tvg-country="FR" group-title="Généraliste",Puissance TV
+#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bb30b04a8dfeafe5.png" tvg-country="FR" group-title="Généraliste",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://i.imgur.com/GHFuvmZ.png" tvg-country="BE" group-title="Généraliste",QU4TRE Liege Media [1080p]
+#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3d5f22e3530e127a.png" tvg-country="BE" group-title="Généraliste",QU4TRE Liege Media [1080p]
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
-#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://i.imgur.com/32mmGvB.png" tvg-country="BE" group-title="Musique",Radio Contact [1080p]
+#EXTINF:-1 tvg-id="RadioContact.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cdaee981358ffbb6.png" tvg-country="BE" group-title="Musique",Radio Contact [1080p]
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-logo="https://i.imgur.com/AnOjqaS.png" tvg-country="HT" group-title="Religion",Radio Tele 4VEH [720p]
+#EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d7cf89ff85af7f84.png" tvg-country="HT" group-title="Religion",Radio Tele 4VEH [720p]
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-logo="https://i.imgur.com/MTaFdHE.png" tvg-country="HT" group-title="Religion",Radio Tele Amen FM [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/843700c4027d6d32.png" tvg-country="HT" group-title="Religion",Radio Tele Amen FM [360p] {Not 24/7}
 http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-logo="https://i.imgur.com/CL32kFA.png" tvg-country="CA" group-title="Religion",Radio Tele Evangile Sans Limite
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd62fb31612e77fe.png" tvg-country="CA" group-title="Religion",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-logo="https://i.imgur.com/WbwIp9y.jpeg" tvg-country="HT" group-title="Religion",Radio Tele Full Gospel
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ba05b06d79b0674d.png" tvg-country="HT" group-title="Religion",Radio Tele Full Gospel
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-logo="https://i.imgur.com/ESlt16G.png" tvg-country="HT" group-title="Généraliste",Radio Tele Ginen
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce56e3b220b19b87.png" tvg-country="HT" group-title="Généraliste",Radio Tele Ginen
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" tvg-country="HT" group-title="Musique",Radio Tele Hit [480p]
+#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2faa1c39cca6ee53.png" tvg-country="HT" group-title="Musique",Radio Tele Hit [480p]
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-logo="https://i.ibb.co/1MhvJ3B/logork.png" tvg-country="US" group-title="Musique",Radio Tele Kajou [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/098d84d7a76e2864.png" tvg-country="US" group-title="Musique",Radio Tele Kajou [480p] {Not 24/7}
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://i.imgur.com/ddb4lsa.png" tvg-country="HT" group-title="Généraliste",Radio Tele Planet Compas [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/891c1669a0197983.png" tvg-country="HT" group-title="Généraliste",Radio Tele Planet Compas [720p] {Not 24/7}
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-logo="https://i.imgur.com/ZLPwJug.png" tvg-country="US" group-title="Religion",Radio Tele Puissance
+#EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a1ff0fbf21eb2a1.png" tvg-country="US" group-title="Religion",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-logo="https://i.imgur.com/hy3BJxj.png" tvg-country="US" group-title="Religion",Radio Tele Sentinel
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4197ef3547645116.png" tvg-country="US" group-title="Religion",Radio Tele Sentinel
 https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-logo="https://i.ibb.co/DQksC23/unnamed-1.jpg" tvg-country="US" group-title="Religion",Radio Tele Wisdom [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2e5e0517760bc5e6.png" tvg-country="US" group-title="Religion",Radio Tele Wisdom [360p] {Not 24/7}
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/98960.v3.png" tvg-country="HT" group-title="Généraliste",Radio Television Shilo [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/274466ee14434180.png" tvg-country="HT" group-title="Généraliste",Radio Television Shilo [720p] {Not 24/7}
 https://watch.haitilive.net/freehb/rtvs/index.m3u8
-#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-logo="https://i.imgur.com/OvnRplq.png" tvg-country="GP" group-title="Généraliste",Radio TV Basse-Terre [720p]
+#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0ee07713205fd1.png" tvg-country="GP" group-title="Généraliste",Radio TV Basse-Terre [720p]
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
-#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://i.imgur.com/EauXR22.png" tvg-country="CI" group-title="Généraliste",Reflet TV [1080p]
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2226e47a6f85d9cd.png" tvg-country="CI" group-title="Généraliste",Reflet TV [1080p]
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="RhoneTV.ch" tvg-logo="https://i.imgur.com/YyXJaBN.png" tvg-country="CH" group-title="Généraliste",Rhone TV [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="RhoneTV.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f25dc0f7f8aeecc1.png" tvg-country="CH" group-title="Généraliste",Rhone TV [1080p] {Geo-blocked}
 https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
-#EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-logo="https://i.imgur.com/hQ0Q6nE.png" tvg-country="GP" group-title="Musique",RHT Guadeloupe [720p]
+#EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/762d1eb550b5f735.png" tvg-country="GP" group-title="Musique",RHT Guadeloupe [720p]
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-id="Ridiculousness.de" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" tvg-country="DE" group-title="Comédie",Ridiculousness [720p]
+#EXTINF:-1 tvg-id="Ridiculousness.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/236eff8d5e196fcc.png" tvg-country="DE" group-title="Comédie",Ridiculousness [720p]
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" group-title="Documentaires",RL PRO TV
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b0a4e8cce1b4cda7.png" tvg-country="CD" group-title="Documentaires",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-country="FR" group-title="Autres",RMC Decouverte [1080p]
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5960cb3dfe22e170.png" tvg-country="FR" group-title="Autres",RMC Decouverte [1080p]
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-#EXTINF:-1 tvg-id="RMCLife.fr" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" tvg-country="FR" group-title="Divertissement",RMC Life [1080p]
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b00e6be3e4ef6901.png" tvg-country="FR" group-title="Divertissement",RMC Life [1080p]
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" tvg-country="FR" group-title="Autres",RMC Story [1080p]
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/438dc7f48dc86cbd.png" tvg-country="FR" group-title="Autres",RMC Story [1080p]
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bba602f7c805fa73.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="RTJVA.tg" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" tvg-country="TG" group-title="Religion",RT JVA [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="RTJVA.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/502f398f1e15309e.png" tvg-country="TG" group-title="Religion",RT JVA [720p] {Not 24/7}
 https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
-#EXTINF:-1 tvg-id="RTB.bf" tvg-logo="https://i.imgur.com/BFfLV0y.png" tvg-country="BF" group-title="Autres",RTB [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="RTB.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/81713f7fca6cd17c.png" tvg-country="BF" group-title="Autres",RTB [360p] {Not 24/7}
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
-#EXTINF:-1 tvg-id="RTHTV1.us" tvg-logo="https://i.imgur.com/4z0FiEA.png" tvg-country="US" group-title="Généraliste",RTH-TV1 [1080p]
+#EXTINF:-1 tvg-id="RTHTV1.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad3e2af84ad3f3aa.png" tvg-country="US" group-title="Généraliste",RTH-TV1 [1080p]
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHTV2Gospel.us" tvg-logo="https://i.imgur.com/4z0FiEA.png" tvg-country="US" group-title="Religion",RTH-TV2 Gospel [720p]
+#EXTINF:-1 tvg-id="RTHTV2Gospel.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad3e2af84ad3f3aa.png" tvg-country="US" group-title="Religion",RTH-TV2 Gospel [720p]
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/TybQZQS.png" tvg-country="CI" group-title="Généraliste",RTI 1 [1080p]
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/215076bcec6a5822.png" tvg-country="CI" group-title="Généraliste",RTI 1 [1080p]
 https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-logo="https://i.imgur.com/7SmCtyy.png" tvg-country="LU" group-title="Généraliste",RTL Zwee [1080p]
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5910c9a25a542575.png" tvg-country="LU" group-title="Généraliste",RTL Zwee [1080p]
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" tvg-country="BE" group-title="Autres",RTL-TVI [1080p] {Not 24/7}
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ee52d50243dcc300.png" tvg-country="BE" group-title="Autres",RTL-TVI [1080p] {Not 24/7}
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-logo="https://i.imgur.com/vNCVLuO.png" tvg-country="BI" group-title="Divertissement",RTNB Divertissement
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f98942acb3c9c0a.png" tvg-country="BI" group-title="Divertissement",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8
-#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-logo="https://i.imgur.com/xfR5P9F.png" tvg-country="BI" group-title="Généraliste",RTNB TV
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0a27eb7b23d434.png" tvg-country="BI" group-title="Généraliste",RTNB TV
 https://tv1-stream.rtnb.bi/hls/master.m3u8
-#EXTINF:-1 tvg-id="RTNC3.cd" tvg-logo="https://i.imgur.com/rr9Zsno.jpeg" tvg-country="CD" group-title="Généraliste",RTNC 3
+#EXTINF:-1 tvg-id="RTNC3.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a72650539c56379a.png" tvg-country="CD" group-title="Généraliste",RTNC 3
 http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
-#EXTINF:-1 tvg-id="RTNC.cd" tvg-logo="https://i.imgur.com/oVXO950.jpeg" tvg-country="CD" group-title="Généraliste",RTNC [1080p]
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b086dd19a15f48a2.png" tvg-country="CD" group-title="Généraliste",RTNC [1080p]
 https://kali.vdopanel.com:3850/live/masterlive.m3u8
-#EXTINF:-1 tvg-id="RTSInfo.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png" tvg-country="CH" group-title="Infos",RTS Info [1080p]
+#EXTINF:-1 tvg-id="RTSInfo.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ce52ef9d1e9a09f.png" tvg-country="CH" group-title="Infos",RTS Info [1080p]
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1 tvg-id="RTVC.ci" tvg-logo="https://i.imgur.com/oXuSkHz.png" tvg-country="CI" group-title="Religion",RTVC [720p]
+#EXTINF:-1 tvg-id="RTVC.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/74004f1d7e7c8c8a.png" tvg-country="CI" group-title="Religion",RTVC [720p]
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
-#EXTINF:-1 tvg-id="RTVS1.cd" tvg-logo="https://i.imgur.com/doaZCzy.png" tvg-country="CD" group-title="Généraliste",RTVS1
+#EXTINF:-1 tvg-id="RTVS1.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/262b541d603b0d21.png" tvg-country="CD" group-title="Généraliste",RTVS1
 http://51.254.199.122:8080/RTVS1/index.m3u8
-#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://i.imgur.com/4nbGvxW.png" tvg-country="RW" group-title="Généraliste",Rwanda TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23457aa58f34f111.png" tvg-country="RW" group-title="Généraliste",Rwanda TV [480p] {Not 24/7}
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-logo="https://i.imgur.com/O8XIcpH.png" tvg-country="NE" group-title="Généraliste",Saraounia TV
+#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c69f55f0581d07bf.png" tvg-country="NE" group-title="Généraliste",Saraounia TV
 https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
-#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-logo="https://i.imgur.com/mv3S1Zc.png" tvg-country="BF" group-title="Généraliste",Savane TV
+#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0ea757154639058d.png" tvg-country="BF" group-title="Généraliste",Savane TV
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
-#EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" tvg-country="CA" group-title="Autres",Savoir media (CFTU-DT) [360p]
+#EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0b1fcca7f61cbdbd.png" tvg-country="CA" group-title="Autres",Savoir media (CFTU-DT) [360p]
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="ScreamIN.fr" tvg-logo="https://i.imgur.com/tGmKbil.png" tvg-country="FR" group-title="Films",ScreamIN [1080p]
+#EXTINF:-1 tvg-id="ScreamIN.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e6a296097d2e1899.png" tvg-country="FR" group-title="Films",ScreamIN [1080p]
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="SenewebTV.sn" tvg-logo="https://i.imgur.com/i9P2qjs.png" tvg-country="SN" group-title="Généraliste",Seneweb TV {Geo-blocked}
+#EXTINF:-1 tvg-id="SenewebTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e042e8b06d900d0a.png" tvg-country="SN" group-title="Généraliste",Seneweb TV {Geo-blocked}
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" tvg-country="SN" group-title="Généraliste",SenJeunes TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1e5b61e032ab9619.png" tvg-country="SN" group-title="Généraliste",SenJeunes TV [480p] {Not 24/7}
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SerieMax.ci" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-country="CI" group-title="Séries",Serie Max
+#EXTINF:-1 tvg-id="SerieMax.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0ab7f1f5973b1778.png" tvg-country="CI" group-title="Séries",Serie Max
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
-#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" tvg-country="DE" group-title="Séries",Series by Pluto TV
+#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/82b99633005a93cd.png" tvg-country="DE" group-title="Séries",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
-#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-country="FR" group-title="Séries",Sony One Blacklist [1080p]
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0839664236ecbbae.png" tvg-country="FR" group-title="Séries",Sony One Blacklist [1080p]
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-country="FR" group-title="Films",Sony One Favoris [1080p]
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9d8b00af2d2476e4.png" tvg-country="FR" group-title="Films",Sony One Favoris [1080p]
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://i.imgur.com/pXsZEsR.png" tvg-country="FR" group-title="Films",Sony One Hits Action [1080p]
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce205826a6cbbea9.png" tvg-country="FR" group-title="Films",Sony One Hits Action [1080p]
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-logo="https://i.imgur.com/8sHuxxS.png" tvg-country="FR" group-title="Films",Sony One Hits Comedie [1080p]
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f0c2aa31265734c.png" tvg-country="FR" group-title="Films",Sony One Hits Comedie [1080p]
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SophiaTVFrancais.de" tvg-logo="https://i.imgur.com/T2JPCq2.png" tvg-country="DE" group-title="Religion",Sophia TV Francais [720p]
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f7103baa9baecf7b.png" tvg-country="DE" group-title="Religion",Sophia TV Francais [720p]
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-logo="https://i.imgur.com/wQpooHw.png" tvg-country="TG" group-title="Lifestyle",SOS Docteur TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cb3f4ae2aedb6913.png" tvg-country="TG" group-title="Lifestyle",SOS Docteur TV [480p] {Not 24/7}
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-logo="https://i.imgur.com/1lXShsh.png" tvg-country="BJ" group-title="Généraliste",Speedline TV
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9bf1f92f27d30902.png" tvg-country="BJ" group-title="Généraliste",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" tvg-country="CA" group-title="Musique",Stingray Classica [1080p]
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6b4f1f81b0ff68f0.png" tvg-country="CA" group-title="Musique",Stingray Classica [1080p]
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" tvg-country="MA" group-title="Culture",StoryChannel TV [720p]
+#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9502a06bdba35dd1.png" tvg-country="MA" group-title="Culture",StoryChannel TV [720p]
 https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" tvg-country="SN" group-title="Infos",SunuLabel TV [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/91c8c10d24176734.png" tvg-country="SN" group-title="Infos",SunuLabel TV [480p] {Not 24/7}
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
-#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" tvg-country="FR" group-title="Généraliste",T18 [1080p]
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ba96cb0d39ace706.png" tvg-country="FR" group-title="Généraliste",T18 [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-id="TalTV.ne" tvg-logo="https://i.imgur.com/KWMP0t1.png" tvg-country="NE" group-title="Divertissement",Tal TV [1080p]
+#EXTINF:-1 tvg-id="TalTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7827412178faec76.png" tvg-country="NE" group-title="Divertissement",Tal TV [1080p]
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
-#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-logo="https://i.imgur.com/WdZWBEd.png" tvg-country="FR" group-title="Généraliste",Tebeo TV [576i]
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df3e5b94d9a020bd.png" tvg-country="FR" group-title="Généraliste",Tebeo TV [576i]
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="TeenMom.de" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" tvg-country="DE" group-title="Divertissement",Teen Mom (FR) [720p]
+#EXTINF:-1 tvg-id="TeenMom.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29fef6876492ed57.png" tvg-country="DE" group-title="Divertissement",Teen Mom (FR) [720p]
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1 tvg-id="TeleBoston.us" tvg-logo="https://i.imgur.com/xeTtup8.png" tvg-country="US" group-title="Divertissement",Tele Boston [480p]
+#EXTINF:-1 tvg-id="TeleBoston.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59ee6d52a45bfecd.png" tvg-country="US" group-title="Divertissement",Tele Boston [480p]
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
-#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-logo="https://i.imgur.com/gbFtP14.png" tvg-country="CG" group-title="Généraliste",Tele Congo [720p]
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6d3643c8ad2b63d8.png" tvg-country="CG" group-title="Généraliste",Tele Congo [720p]
 http://51.254.199.122:8080/telecongo/index.m3u8
-#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-logo="https://i.imgur.com/Hso9j58.png" tvg-country="HT" group-title="Généraliste",Tele Haiti [1088p] {Not 24/7}
+#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e3a0e792fc59b6da.png" tvg-country="HT" group-title="Généraliste",Tele Haiti [1088p] {Not 24/7}
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleLouange.ht" tvg-logo="https://i.imgur.com/DjnMUuL.png" tvg-country="HT" group-title="Religion",Tele Louange [1080p]
+#EXTINF:-1 tvg-id="TeleLouange.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/acf81ec799bec4a3.png" tvg-country="HT" group-title="Religion",Tele Louange [1080p]
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMB.be" tvg-logo="https://i.imgur.com/XAggjM4.png" tvg-country="BE" group-title="Autres",Tele MB [1080p]
+#EXTINF:-1 tvg-id="TeleMB.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4420cf297e1f60f.png" tvg-country="BE" group-title="Autres",Tele MB [1080p]
 https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
-#EXTINF:-1 tvg-id="TelePam.us" tvg-logo="https://i.ibb.co/xMYMyHh/telepammmm.png" tvg-country="US" group-title="Généraliste",Tele Pam [1080p]
+#EXTINF:-1 tvg-id="TelePam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e25ffeae0ef5205a.png" tvg-country="US" group-title="Généraliste",Tele Pam [1080p]
 https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TelePeyi.gf" tvg-logo="https://i.imgur.com/LJ9sXaB.png" tvg-country="GF" group-title="Généraliste",Tele Peyi [720p]
+#EXTINF:-1 tvg-id="TelePeyi.gf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e5a8ecd5df5e1e41.png" tvg-country="GF" group-title="Généraliste",Tele Peyi [720p]
 https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
-#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://i.imgur.com/vboq428.png" tvg-country="NE" group-title="Généraliste",Tele Sahel [1080p]
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb3737767cc257e6.png" tvg-country="NE" group-title="Généraliste",Tele Sahel [1080p]
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
-#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png" tvg-country="TD" group-title="Généraliste",Tele Tchad [1080p]
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c1880828b812b0a.png" tvg-country="TD" group-title="Généraliste",Tele Tchad [1080p]
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-logo="https://i.imgur.com/lWYKgPC.png" tvg-country="MQ" group-title="Musique",Tele Zoukla
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca2fddfbcc6bae2b.png" tvg-country="MQ" group-title="Musique",Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" tvg-country="FR" group-title="Généraliste",TeleGohelle
+#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8638860b845c8a3e.png" tvg-country="FR" group-title="Généraliste",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://i.ibb.co/HpX99Ks/unnamed.jpg" tvg-country="US" group-title="Divertissement",TeleMIX [720p]
+#EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement",TeleMIX [720p]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="TeleMusikSenegal.sn" tvg-logo="https://i.imgur.com/dPAPLsd.png" tvg-country="SN" group-title="Musique",TeleMusik Senegal [720p]
+#EXTINF:-1 tvg-id="TeleMusikSenegal.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dbcb266ac2a92313.png" tvg-country="SN" group-title="Musique",TeleMusik Senegal [720p]
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepace2.it" tvg-logo="https://i.imgur.com/qvcf6QC.png" tvg-country="IT" group-title="Religion",Telepace 2 [1080p]
+#EXTINF:-1 tvg-id="Telepace2.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3a087a745933f93a.png" tvg-country="IT" group-title="Religion",Telepace 2 [1080p]
 https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://i.imgur.com/JKHEL1H.png" tvg-country="IT" group-title="Religion",Telepace 4 [1080p]
+#EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e8605a2ffd9eadcc.png" tvg-country="IT" group-title="Religion",Telepace 4 [1080p]
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesambre.be" tvg-logo="https://i.imgur.com/TuIAkA3.png" tvg-country="BE" group-title="Autres",Telesambre [504p]
+#EXTINF:-1 tvg-id="Telesambre.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3807b2cc3a993dba.png" tvg-country="BE" group-title="Autres",Telesambre [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-logo="https://i.imgur.com/utBh0xL.png" tvg-country="TG" group-title="Généraliste",Television Espoir 47 [720p]
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9a38ebfb4e1e6678.png" tvg-country="TG" group-title="Généraliste",Television Espoir 47 [720p]
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-country="FR" group-title="Divertissement",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1
 http://149.62.177.107:9999/TF1/index.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-country="FR" group-title="Films",TF1 Series Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72340419db5d0b30.png" tvg-country="FR" group-title="Films",TF1 Series Films
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-country="FR" group-title="Autres",TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d14a137ac35e5e74.png" tvg-country="FR" group-title="Autres",TFX
 http://149.62.177.107:9999/TFX/index.m3u8
-#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://i.imgur.com/LKLjnrp.png" tvg-country="BE" group-title="Autres",Tipik [1080p]
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a646020cd9dd0ab6.png" tvg-country="BE" group-title="Autres",Tipik [1080p]
 http://41.205.93.154/TIPIK/index.m3u8
-#EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://i.imgur.com/fVVKpmk.png" tvg-country="FR" group-title="Autres",TiVi5 Monde {Geo-blocked}
+#EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3174ceca70314049.png" tvg-country="FR" group-title="Autres",TiVi5 Monde {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTINF:-1 tvg-id="TM1TV.ml" tvg-logo="https://i.imgur.com/83BgaBa.png" tvg-country="ML" group-title="Généraliste",TM1 TV [360p] {Not 24/7}
+#EXTINF:-1 tvg-id="TM1TV.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/060962747c3805df.png" tvg-country="ML" group-title="Généraliste",TM1 TV [360p] {Not 24/7}
 http://69.64.57.208/tm1/playlist.m3u8
-#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-country="GP" group-title="Musique",TMA [1080p]
+#EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca7e1324a6bac860.png" tvg-country="GP" group-title="Musique",TMA [1080p]
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" tvg-country="FR" group-title="Généraliste",TMC [1080p]
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1 tvg-id="TNH.ht" tvg-logo="https://i.imgur.com/8nvCXzt.png" tvg-country="HT" group-title="Généraliste",TNH [720p]
+#EXTINF:-1 tvg-id="TNH.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4f11de32ee6e0b9.png" tvg-country="HT" group-title="Généraliste",TNH [720p]
 https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
-#EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://i.imgur.com/e5eVHam.png" tvg-country="PF" group-title="Généraliste",TNTV [1080p]
+#EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd5a048edab625a6.png" tvg-country="PF" group-title="Généraliste",TNTV [1080p]
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" tvg-country="DE" group-title="Jeunesse",Tortues Ninja TV [720p]
+#EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df25348d84d378f0.png" tvg-country="DE" group-title="Jeunesse",Tortues Ninja TV [720p]
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" tvg-country="DE" group-title="Séries",Tout le monde deteste Chris
+#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd593331c2abfef1.png" tvg-country="DE" group-title="Séries",Tout le monde deteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" tvg-country="CM" group-title="Divertissement",TR24 Television [720p]
+#EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7053fa82494d1652.png" tvg-country="CM" group-title="Divertissement",TR24 Television [720p]
 https://stream.it-innov.com/tr24/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-logo="https://i.imgur.com/kPUkoS7.png" tvg-country="FR" group-title="Musique",Trace Africa [1080p]
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4081f8b4c7e24ff0.png" tvg-country="FR" group-title="Musique",Trace Africa [1080p]
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-logo="https://i.imgur.com/CQDdnhp.png" tvg-country="FR" group-title="Musique",Trace Afrikora [1080p]
+#EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df01822bea753fd1.png" tvg-country="FR" group-title="Musique",Trace Afrikora [1080p]
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-logo="https://i.imgur.com/KkJ6fet.png" tvg-country="FR" group-title="Musique",Trace Ayiti [1080p]
+#EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd03b47b38be48af.png" tvg-country="FR" group-title="Musique",Trace Ayiti [1080p]
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" tvg-country="FR" group-title="Musique",Trace Caribbean [1080p]
+#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a7e9626ccc264cb3.png" tvg-country="FR" group-title="Musique",Trace Caribbean [1080p]
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" group-title="Musique",Trace Gospel (Southern Africa) [1080p]
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Musique",Trace Gospel (Southern Africa) [1080p]
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="FR" group-title="Musique",Trace Gospel [1080p]
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Musique",Trace Gospel [1080p]
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-country="FR" group-title="Musique",Trace Ivoire [1080p]
+#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/189ee74d3b920687.png" tvg-country="FR" group-title="Musique",Trace Ivoire [1080p]
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-country="FR" group-title="Musique",Trace Kitoko [1080p]
+#EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/36805754f3eee5f9.png" tvg-country="FR" group-title="Musique",Trace Kitoko [1080p]
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" group-title="Musique",Trace Latina [1080p]
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3b22a76e25481675.png" tvg-country="FR" group-title="Musique",Trace Latina [1080p]
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMboa.fr" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-country="FR" group-title="Musique",Trace Mboa [1080p]
+#EXTINF:-1 tvg-id="TraceMboa.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbded56ef3ed38a3.png" tvg-country="FR" group-title="Musique",Trace Mboa [1080p]
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-country="FR" group-title="Musique",Trace Muzika [1080p]
+#EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d8153951aced7553.png" tvg-country="FR" group-title="Musique",Trace Muzika [1080p]
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-country="FR" group-title="Sports",Trace Sport Stars [1080p]
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcce961ec840aa5c.png" tvg-country="FR" group-title="Sports",Trace Sport Stars [1080p]
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (Africa Franco) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (Africa Franco) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (Caribbean And Indian Ocean) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (Caribbean And Indian Ocean) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (HD) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (HD) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban (Southern Africa) [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban (Southern Africa) [1080p]
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="Musique",Trace Urban [1080p]
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique",Trace Urban [1080p]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://i.imgur.com/ngF58fe.png" tvg-country="FR" group-title="Musique",Trace Vanilla Islands [1080p]
+#EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/638baed01a4a9d62.png" tvg-country="FR" group-title="Musique",Trace Vanilla Islands [1080p]
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-country="DE" group-title="Séries",True Crime by Pluto TV
+#EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f7879596ce4e6a4c.png" tvg-country="DE" group-title="Séries",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1 tvg-id="Turbo.de" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" tvg-country="DE" group-title="Divertissement",Turbo [720p]
+#EXTINF:-1 tvg-id="Turbo.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/acddab7b6b68c7be.png" tvg-country="DE" group-title="Divertissement",Turbo [720p]
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/iBBpBx4.png" tvg-country="TM" group-title="Généraliste",Turkmenistan [406p] {Not 24/7}
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa28a785f591b156.png" tvg-country="TM" group-title="Généraliste",Turkmenistan [406p] {Not 24/7}
 https://alpha.tv.online.tm/hls/ch007.m3u8
-#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" tvg-country="FR" group-title="Généraliste",TV Alsace [1080p]
+#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/892e5ef53c2b57d6.png" tvg-country="FR" group-title="Généraliste",TV Alsace [1080p]
 http://194.163.157.137:8080/hls/radioalsace.m3u8
-#EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://i.imgur.com/Kbfihk5.png" tvg-country="MQ" group-title="Famille",TV Famille [720p]
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1aafb8dd7b5fc23b.png" tvg-country="MQ" group-title="Famille",TV Famille [720p]
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" tvg-country="BE" group-title="Autres",TV Lux [1080p]
+#EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dba6b6d70fadab7b.png" tvg-country="BE" group-title="Autres",TV Lux [1080p]
 https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8
-#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" tvg-country="MC" group-title="Généraliste",TV Monaco [1080p]
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b10d8f72fc221dda.png" tvg-country="MC" group-title="Généraliste",TV Monaco [1080p]
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" tvg-country="FR" group-title="Généraliste",TV Mulhouse [1080p]
+#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aaec3a602d2d7b1a.png" tvg-country="FR" group-title="Généraliste",TV Mulhouse [1080p]
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" tvg-country="DZ" group-title="Généraliste",TV2 [1080p]
+#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbfefd3236690c06.png" tvg-country="DZ" group-title="Généraliste",TV2 [1080p]
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" tvg-country="FR" group-title="Généraliste",TV3V [720p]
+#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/795d3bb9ab7c3fa3.png" tvg-country="FR" group-title="Généraliste",TV3V [720p]
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" tvg-country="CA" group-title="Autres",TV5 Quebec Canada [1080p]
+#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ab39d4355bb08995.png" tvg-country="CA" group-title="Autres",TV5 Quebec Canada [1080p]
 http://23.133.220.149/TV5/index.m3u8
-#EXTINF:-1 tvg-id="TV5Unis.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/TV5_Unis.svg" tvg-country="CA" group-title="Autres",TV5 Unis
+#EXTINF:-1 tvg-id="TV5Unis.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29fcbd2bada0ea66.png" tvg-country="CA" group-title="Autres",TV5 Unis
 http://23.133.220.149/Unis_TV/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAfrica.fr" tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-country="FR" group-title="Autres",TV5Monde Africa [720p]
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/62ad7b24b0ff0914.png" tvg-country="FR" group-title="Autres",TV5Monde Africa [720p]
 http://5.9.121.178/tv5monde/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" tvg-country="FR" group-title="Autres",TV5Monde Asia [1080p]
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0ebe047c9f541403.png" tvg-country="FR" group-title="Autres",TV5Monde Asia [1080p]
 http://54.37.19.157/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png" tvg-country="FR" group-title="Lifestyle",TV5MONDE Chefs [1080p]
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7d9d747a8ec0633e.png" tvg-country="FR" group-title="Lifestyle",TV5MONDE Chefs [1080p]
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-country="FR" group-title="Généraliste",TV5Monde Europe [1080p]
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a2b03b57cf2e568a.png" tvg-country="FR" group-title="Généraliste",TV5Monde Europe [1080p]
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b62a922196c7bd5.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [1080p] {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0461a4312b5e5b60.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p] {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-country="FR" group-title="Généraliste",TV5Monde Latin America [720p]
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dc0189fc8dad5b0d.png" tvg-country="FR" group-title="Généraliste",TV5Monde Latin America [720p]
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" tvg-country="FR" group-title="Autres",TV5Monde Pacific
+#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2b60d2054f3afcc0.png" tvg-country="FR" group-title="Autres",TV5Monde Pacific
 http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://i.imgur.com/cwC7Q2V.png" tvg-country="FR" group-title="Lifestyle",TV5Monde Style [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e86879375dff3deb.png" tvg-country="FR" group-title="Lifestyle",TV5Monde Style [1080p] {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://i.imgur.com/kSdGi43.png" tvg-country="FR" group-title="Généraliste",TV7 Colmar [576p]
+#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/56d465f59d0c1bdb.png" tvg-country="FR" group-title="Généraliste",TV7 Colmar [576p]
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://i.imgur.com/stzE1Ij.png" tvg-country="FR" group-title="Autres",TV78 [720p]
+#EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/889d6d48af6ce82b.png" tvg-country="FR" group-title="Autres",TV78 [720p]
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" tvg-country="CA" group-title="Autres",TVA (CFTM-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/73ee9a503db54546.png" tvg-country="CA" group-title="Autres",TVA (CFTM-DT) {Geo-blocked}
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-country="BJ" group-title="Généraliste",TVC Benin [720p]
+#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7403e57b4c5a7f7d.png" tvg-country="BJ" group-title="Généraliste",TVC Benin [720p]
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCARiB.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" group-title="Divertissement",TVCARiB [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="TVCARiB.sx" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5e9db3bbfbc1244f.png" tvg-country="SX" group-title="Divertissement",TVCARiB [720p] {Not 24/7}
 https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
-#EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" group-title="Religion",TVCARiB Gospel [480p] {Not 24/7}
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5e9db3bbfbc1244f.png" tvg-country="SX" group-title="Religion",TVCARiB Gospel [480p] {Not 24/7}
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
-#EXTINF:-1 tvg-id="TVcom.be" tvg-logo="https://i.imgur.com/3KuRD19.png" tvg-country="BE" group-title="Généraliste",TVcom [1080p]
+#EXTINF:-1 tvg-id="TVcom.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1d61fdb59b2afd87.png" tvg-country="BE" group-title="Généraliste",TVcom [1080p]
 https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-country="CH" group-title="Autres",TVM 3 [1080p]
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/555cfef0a1681e2a.png" tvg-country="CH" group-title="Autres",TVM 3 [1080p]
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://www.tvr.bzh/favicon-1024.png" tvg-country="FR" group-title="Autres",TVR [720p]
+#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/285cec6783fc33e7.png" tvg-country="FR" group-title="Autres",TVR [720p]
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://i.imgur.com/WtXonN9.png" tvg-country="TG" group-title="Généraliste",TVT [720p] {Not 24/7}
+#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f431e89ee91a4373.png" tvg-country="TG" group-title="Généraliste",TVT [720p] {Not 24/7}
 http://69.64.57.208/tvt/playlist.m3u8
-#EXTINF:-1 tvg-id="Vedia.be" tvg-logo="https://i.imgur.com/7LnH6yu.png" tvg-country="BE" group-title="Autres",Vedia [1080p]
+#EXTINF:-1 tvg-id="Vedia.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2295c46dd83d0067.png" tvg-country="BE" group-title="Autres",Vedia [1080p]
 https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8
-#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://i.imgur.com/Ua6rOXo.png" tvg-country="MQ" group-title="Généraliste",ViaATV [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/471b9633fc5a9aa4.png" tvg-country="MQ" group-title="Généraliste",ViaATV [1080p] {Geo-blocked}
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
-#EXTINF:-1 tvg-id="ViaMatele.fr" tvg-logo="https://i.imgur.com/XVCV9rj.png" tvg-country="FR" group-title="Autres",ViaMatele [1080p]
+#EXTINF:-1 tvg-id="ViaMatele.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcde6e2499b62e9f.png" tvg-country="FR" group-title="Autres",ViaMatele [1080p]
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://i.imgur.com/NzuKt1R.png" tvg-country="FR" group-title="Généraliste",ViaOccitanie [540p] {Not 24/7}
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466583e70ee008ca.png" tvg-country="FR" group-title="Généraliste",ViaOccitanie [540p] {Not 24/7}
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-logo="https://i.imgur.com/TLZsAKK.png" tvg-country="FR" group-title="Généraliste",viaTelePaese [720p]
+#EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcb4cd47dc65cbe1.png" tvg-country="FR" group-title="Généraliste",viaTelePaese [720p]
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-logo="https://i.imgur.com/7y7ancc.png" tvg-country="FR" group-title="Autres",Vosges TV [576p] {Not 24/7}
+#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa29410e40b56c49.png" tvg-country="FR" group-title="Autres",Vosges TV [576p] {Not 24/7}
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-country="ES" group-title="Voyage",Voyages & Saveurs [720p]
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3aa243cc96065d9a.png" tvg-country="ES" group-title="Voyage",Voyages & Saveurs [720p]
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
-#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-country="FR" group-title="Divertissement",W9 [1080p]
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f748a91f231ff163.png" tvg-country="FR" group-title="Divertissement",W9 [1080p]
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
-#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-logo="https://i.imgur.com/0N7EhuD.png" tvg-country="US" group-title="Séries",Walker Texas Ranger
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2860ef1c552ddc8e.png" tvg-country="US" group-title="Séries",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
-#EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-logo="https://i.imgur.com/MDHN2Vc.png" tvg-country="US" group-title="Divertissement",Y'a que la verite qui compte
+#EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/425dc60d77c67145.png" tvg-country="US" group-title="Divertissement",Y'a que la verite qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" tvg-country="UK" group-title="Divertissement",Zee One (French) [720p]
+#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/354aab0d554e0fcd.png" tvg-country="UK" group-title="Divertissement",Zee One (French) [720p]
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="zenith.fr" tvg-logo="https://znth.tv/images/logo.png" tvg-country="FR" group-title="Généraliste",zenith [1080p]
+#EXTINF:-1 tvg-id="zenith.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7884de3330b6b98e.png" tvg-country="FR" group-title="Généraliste",zenith [1080p]
 https://live.azenagroup.com/zenith/index.ll.m3u8
-#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-logo="https://i.imgur.com/KJmefse.png" tvg-country="MQ" group-title="Généraliste",Zitata TV
+#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/efc070f7aabf6b3d.png" tvg-country="MQ" group-title="Généraliste",Zitata TV
 https://live.zitata.tv/direct-hls/playlist.m3u8

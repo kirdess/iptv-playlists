@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-country="FR" group-title="Économie",BFM Business [1080p]
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f84c7ceae81f828b.png" tvg-country="FR" group-title="Économie",BFM Business [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="CanalZ.be" tvg-logo="https://i.imgur.com/qtiGLzZ.png" tvg-country="BE" group-title="Économie",Canal Z [1080p]
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc0cb3ab47472021.png" tvg-country="BE" group-title="Économie",Canal Z [1080p]
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-#EXTINF:-1 tvg-id="ChampionTV.ci" tvg-logo="https://i.imgur.com/WjHSrHN.png" tvg-country="CI" group-title="Économie",Champion TV
+#EXTINF:-1 tvg-id="ChampionTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2b4761707411a54a.png" tvg-country="CI" group-title="Économie",Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
-#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" tvg-country="BJ" group-title="Économie",Le Nouveau Manager TV
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7b6f4c7ec7a27c9.png" tvg-country="BJ" group-title="Économie",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
-#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-country="TG" group-title="Économie",NW Economie [576p]
+#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c72382573fe6affb.png" tvg-country="TG" group-title="Économie",NW Economie [576p]
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
