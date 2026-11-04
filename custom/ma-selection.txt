@@ -1,0 +1,9 @@
+# Une chaîne par ligne : nom exact (ex: L'Equipe) ou identifiant iptv-org (ex: LEquipe.fr)
+# Ajoute " | fra" pour ne garder que la version française (ex: France 24 | fra)
+# Le fichier custom/ma-selection.m3u est régénéré chaque jour.
+L'Equipe
+Arte | fra
+France 24 | fra
+Bellator MMA
+PFL MMA
+Fight Network

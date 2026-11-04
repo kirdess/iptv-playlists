@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-country="ES" group-title="Voyage",Voyages & Saveurs [720p]
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8

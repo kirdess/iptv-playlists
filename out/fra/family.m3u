@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr.xml"
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://i.imgur.com/Kbfihk5.png" tvg-country="MQ" group-title="Famille",TV Famille [720p]
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
