@@ -306,7 +306,7 @@ http://89.187.185.76:8080/France3/index.m3u8
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse",France 4
 http://149.62.177.107:9999/France_4/index.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e0275ba8512b91a3.png" tvg-country="FR" group-title="Généraliste",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad82ce49ee6dbc45.png" tvg-country="FR" group-title="Généraliste",France 5
 http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
 http://149.62.177.107:9999/franceinfo:/index.m3u8
@@ -531,7 +531,7 @@ http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 #EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40e9c1ced1f6b05f.png" tvg-country="CI" group-title="Séries",Novela Channel [720p] {Not 24/7}
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/359630c1001a56fd.png" tvg-country="FR" group-title="Généraliste",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f6d5b86cc45f3d4.png" tvg-country="FR" group-title="Généraliste",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/baba763cded9157f.png" tvg-country="FR" group-title="Musique",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
@@ -653,7 +653,7 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/438dc7f48dc86cbd.png" tvg-country="FR" group-title="Autres",RMC Story [1080p]
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bba602f7c805fa73.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d29ac99edc484697.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTJVA.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/502f398f1e15309e.png" tvg-country="TG" group-title="Religion",RT JVA [720p] {Not 24/7}
 https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
@@ -689,7 +689,7 @@ http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
 #EXTINF:-1 tvg-id="SavaneTV.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0ea757154639058d.png" tvg-country="BF" group-title="Généraliste",Savane TV
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
-#EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0b1fcca7f61cbdbd.png" tvg-country="CA" group-title="Autres",Savoir media (CFTU-DT) [360p]
+#EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8bc22467072430fb.png" tvg-country="CA" group-title="Autres",Savoir media (CFTU-DT) [360p]
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e6a296097d2e1899.png" tvg-country="FR" group-title="Films",ScreamIN [1080p]
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
@@ -910,7 +910,7 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-shor
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/425dc60d77c67145.png" tvg-country="US" group-title="Divertissement",Y'a que la verite qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/354aab0d554e0fcd.png" tvg-country="UK" group-title="Divertissement",Zee One (French) [720p]
+#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9dbc801809d64b64.png" tvg-country="UK" group-title="Divertissement",Zee One (French) [720p]
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7884de3330b6b98e.png" tvg-country="FR" group-title="Généraliste",zenith [1080p]
 https://live.azenagroup.com/zenith/index.ll.m3u8

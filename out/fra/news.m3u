@@ -114,7 +114,7 @@ https://hls.newworldtv.com/nw-info/video/live.m3u8
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a39f1da5258f22b1.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bba602f7c805fa73.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d29ac99edc484697.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSInfo.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ce52ef9d1e9a09f.png" tvg-country="CH" group-title="Infos",RTS Info [1080p]
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
