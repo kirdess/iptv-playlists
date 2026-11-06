@@ -18,7 +18,7 @@ https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7d9d747a8ec0633e.png" tvg-country="FR" group-title="Lifestyle",TV5MONDE Chefs [1080p]
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e86879375dff3deb.png" tvg-country="FR" group-title="Lifestyle",TV5Monde Style [1080p] {Geo-blocked}
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e86879375dff3deb.png" tvg-country="FR" group-title="Lifestyle",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3aa243cc96065d9a.png" tvg-country="ES" group-title="Lifestyle",Voyages & Saveurs [720p]
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8

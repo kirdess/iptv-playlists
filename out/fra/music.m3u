@@ -3,7 +3,7 @@
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72f588950504e437.png" tvg-country="BE" group-title="Musique",Bel RTL [1080p]
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65853f58566ed929.png" tvg-country="US" group-title="Musique",BPX TV Radio
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65853f58566ed929.png" tvg-country="US" group-title="Musique",BPX TV Radio [720p]
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3202cf204cd0de6b.png" tvg-country="US" group-title="Musique",Clubbing TV (France)
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8

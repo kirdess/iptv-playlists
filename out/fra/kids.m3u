@@ -7,9 +7,9 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a23edd3ac58e05b.png" tvg-country="US" group-title="Jeunesse",Detective Conan (France) [720p]
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse",France 4 [1080p]
 http://149.62.177.107:9999/France_4/index.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/33fa44071223d15a.png" tvg-country="FR" group-title="Jeunesse",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/33fa44071223d15a.png" tvg-country="FR" group-title="Jeunesse",Gulli [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="InazumaEleven.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5bbea647a32bcf80.png" tvg-country="US" group-title="Jeunesse",Inazuma Eleven

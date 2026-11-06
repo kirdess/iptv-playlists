@@ -34,7 +34,7 @@ http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="CAM10TV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7611016af11ac2fa.png" tvg-country="CM" group-title="Généraliste",CAM 10 TV [720p]
 https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/000c7a935dd291f2.png" tvg-country="UK" group-title="Généraliste",Canaf54 TV
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/000c7a935dd291f2.png" tvg-country="UK" group-title="Généraliste",Canaf54 TV [480p]
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3.bf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/722532c63d8b56a3.png" tvg-country="BF" group-title="Généraliste",Canal 3
 https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
@@ -46,7 +46,7 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a02e3906b5a9fb5.png" tvg-country="CD" group-title="Généraliste",Congo Planet Television [1080p] {Not 24/7}
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/489ef5a54d992389.png" tvg-country="CM" group-title="Généraliste",CRTV
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/489ef5a54d992389.png" tvg-country="CM" group-title="Généraliste",CRTV [1080p]
 https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1b6945796e72d374.png" tvg-country="CD" group-title="Généraliste",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
@@ -60,18 +60,18 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbedeeb0c279e4e5.png" tvg-country="GN" group-title="Généraliste",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1a637119105176d.png" tvg-country="FR" group-title="Généraliste",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1a637119105176d.png" tvg-country="FR" group-title="Généraliste",France 2 [1080p]
 http://149.62.177.107:9999/France_2/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur)
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur) [1080p]
 http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad82ce49ee6dbc45.png" tvg-country="FR" group-title="Généraliste",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad82ce49ee6dbc45.png" tvg-country="FR" group-title="Généraliste",France 5 [1080p]
 http://149.62.177.107:9999/France_5/index.m3u8
-#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/58bae67cc4069f5b.png" tvg-country="SN" group-title="Généraliste",GMS TV
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/58bae67cc4069f5b.png" tvg-country="SN" group-title="Généraliste",GMS TV [1080p]
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d454564f58522531.png" tvg-country="GH" group-title="Généraliste",GTV [540p]
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/
@@ -99,7 +99,7 @@ https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f898ef414ec972.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f6d5b86cc45f3d4.png" tvg-country="FR" group-title="Généraliste",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f6d5b86cc45f3d4.png" tvg-country="FR" group-title="Généraliste",NOVO19 [1080p]
 http://149.62.177.107:9999/NOVO19/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3f2c5984f114e4be.png" tvg-country="CI" group-title="Généraliste",NTV [1080p] {Not 24/7}
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -113,7 +113,7 @@ http://51.254.199.122:8080/PSTV/index.m3u8
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3d5f22e3530e127a.png" tvg-country="BE" group-title="Généraliste",QU4TRE Liege Media [1080p]
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
-#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce56e3b220b19b87.png" tvg-country="HT" group-title="Généraliste",Radio Tele Ginen
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce56e3b220b19b87.png" tvg-country="HT" group-title="Généraliste",Radio Tele Ginen [1080p]
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/891c1669a0197983.png" tvg-country="HT" group-title="Généraliste",Radio Tele Planet Compas [720p] {Not 24/7}
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
@@ -151,7 +151,7 @@ https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9bf1f92f27d30902.png" tvg-country="BJ" group-title="Généraliste",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
-#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ba96cb0d39ace706.png" tvg-country="FR" group-title="Généraliste",T18 [1080p]
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/862dd5513a5a7685.png" tvg-country="FR" group-title="Généraliste",T18 [1080p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TebeoTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df3e5b94d9a020bd.png" tvg-country="FR" group-title="Généraliste",Tebeo TV [576i]
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
@@ -173,8 +173,8 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 tvg-id="TM1TV.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/060962747c3805df.png" tvg-country="ML" group-title="Généraliste",TM1 TV [360p] {Not 24/7}
 http://69.64.57.208/tm1/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
-http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p]
+http://149.62.177.107:9999/TMC/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://151.80.18.177:86/TMC/index.m3u8
@@ -186,7 +186,7 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/892e5ef53c2b57d6.png" tvg-country="FR" group-title="Généraliste",TV Alsace [1080p]
 http://194.163.157.137:8080/hls/radioalsace.m3u8
-#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b10d8f72fc221dda.png" tvg-country="MC" group-title="Généraliste",TV Monaco [1080p]
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/09a30412164e46b3.png" tvg-country="MC" group-title="Généraliste",TV Monaco [1080p]
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aaec3a602d2d7b1a.png" tvg-country="FR" group-title="Généraliste",TV Mulhouse [1080p]
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8

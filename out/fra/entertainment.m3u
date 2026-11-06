@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter [1080p]
 http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0303b2f4e533648d.png" tvg-country="FR" group-title="Divertissement",arte [1080p]
 http://5.180.164.197:8080/ARTEFR/index.m3u8
@@ -28,7 +28,7 @@ http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16777d7a08577aae.png" tvg-country="FR" group-title="Divertissement",M6 (HD) [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0c4d1cf0c703d2ba.png" tvg-country="FR" group-title="Divertissement",MTV
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72e24bb45a2f9a0c.png" tvg-country="FR" group-title="Divertissement",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9de879a10924f40a.png" tvg-country="DE" group-title="Divertissement",MTV CLASSICS
@@ -57,7 +57,7 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement",TeleMIX [720p]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1 [1080p]
 http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7053fa82494d1652.png" tvg-country="CM" group-title="Divertissement",TR24 Television [720p]
 https://stream.it-innov.com/tr24/index.m3u8

@@ -27,7 +27,7 @@ http://92.114.85.87:8016/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="SwerveCombat.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d90d004ed4657bb.png" tvg-country="US" group-title="Sports de combat",Swerve Combat [1080p]
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e3e5b0b08f8f28f8.png" tvg-country="PL" group-title="Sports de combat",TNA Wrestling Channel [720p]
-https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a3fa33ed0a104b49.png" tvg-country="BR" group-title="Sports de combat",TVMatic Fight [720p]
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f35c7f19df6ecec9.png" tvg-country="US" group-title="Sports de combat",TVS Boxing [360p]

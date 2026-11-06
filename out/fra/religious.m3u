@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc6d71dd6a91c23c.png" tvg-country="US" group-title="Religion",3ABN French
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc6d71dd6a91c23c.png" tvg-country="US" group-title="Religion",3ABN French [720p]
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ef4b078366043439.png" tvg-country="SN" group-title="Religion",A2i Religion [720p] {Not 24/7}
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
@@ -53,13 +53,13 @@ https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/843700c4027d6d32.png" tvg-country="HT" group-title="Religion",Radio Tele Amen FM [360p] {Not 24/7}
 http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd62fb31612e77fe.png" tvg-country="CA" group-title="Religion",Radio Tele Evangile Sans Limite
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd62fb31612e77fe.png" tvg-country="CA" group-title="Religion",Radio Tele Evangile Sans Limite [1080p]
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ba05b06d79b0674d.png" tvg-country="HT" group-title="Religion",Radio Tele Full Gospel
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ba05b06d79b0674d.png" tvg-country="HT" group-title="Religion",Radio Tele Full Gospel [360p]
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a1ff0fbf21eb2a1.png" tvg-country="US" group-title="Religion",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4197ef3547645116.png" tvg-country="US" group-title="Religion",Radio Tele Sentinel
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4197ef3547645116.png" tvg-country="US" group-title="Religion",Radio Tele Sentinel [720p]
 https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2e5e0517760bc5e6.png" tvg-country="US" group-title="Religion",Radio Tele Wisdom [360p] {Not 24/7}
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
