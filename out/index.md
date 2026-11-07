@@ -12,9 +12,9 @@
 | `fra/education.m3u` | 1 |
 | `fra/entertainment.m3u` | 35 |
 | `fra/family.m3u` | 1 |
-| `fra/general.m3u` | 106 |
+| `fra/general.m3u` | 107 |
 | `fra/interactive.m3u` | 1 |
-| `fra/kids.m3u` | 17 |
+| `fra/kids.m3u` | 16 |
 | `fra/legislative.m3u` | 4 |
 | `fra/lifestyle.m3u` | 11 |
 | `fra/movies.m3u` | 24 |
@@ -28,6 +28,6 @@
 | `fra/travel.m3u` | 1 |
 | `fra/undefined.m3u` | 45 |
 | `sports/fra.m3u` | 10 |
-| `sports/eng.m3u` | 173 |
+| `sports/eng.m3u` | 171 |
 | `sports/combat.m3u` | 17 |
 | `custom/ma-selection.m3u` | 6 |

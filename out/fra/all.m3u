@@ -80,6 +80,8 @@ https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ce52a23a8faa2e73.png" tvg-country="CI" group-title="Religion",Benie TV [720p]
 https://tv.voozmedia.fun/benietv/index.m3u8
+#EXTINF:-1 tvg-id="BeninTVJunior.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/864d20201fd29482.png" tvg-country="BJ" group-title="Jeunesse",Benin TV Junior [720p]
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d834369672362146.png" tvg-country="BJ" group-title="Infos",Benin Web TV [720p]
 https://stream.beninwebtv.bj/2/live/stream.m3u8
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2587b881207835c9.png" tvg-country="FR" group-title="Généraliste",BFM Alsace [1080p]
@@ -238,6 +240,8 @@ https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="Diaspora24.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e35c16f39830db61.png" tvg-country="SN" group-title="Autres",Diaspora 24 {Geo-blocked}
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+#EXTINF:-1 tvg-id="DigitalChannel.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6f89012bc84f4c16.png" tvg-country="BJ" group-title="Généraliste",Digital Channel [480p]
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
 #EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1b6945796e72d374.png" tvg-country="CD" group-title="Généraliste",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 #EXTINF:-1 tvg-id="DossiersFBI.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/60e477b5b35abbbb.png" tvg-country="US" group-title="Documentaires",Dossiers FBI
@@ -370,7 +374,7 @@ https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7678e71cc044b74e.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CKTV-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/826227e381dfca95.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6f536c50039d7120.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="ICONETV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c662f849f102ad05.png" tvg-country="BJ" group-title="Infos",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
@@ -521,11 +525,6 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/697570b86a664269.png" tvg-country="HT" group-title="Généraliste",Netalkole TV [720p] {Not 24/7}
 https://watch.haitilive.net/naktvhd/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d3d933231c4b25f4.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon [504p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c554a9a357210d3.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [1080p]
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f898ef414ec972.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
@@ -601,7 +600,7 @@ https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
 https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToons.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f74b68e427fdd6f3.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Toons (FR) [720p]
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
-#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a39f1da5258f22b1.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9cda11369e4afad2.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/84ddf732e4e6f367.png" tvg-country="CD" group-title="Généraliste",PSTV HD [480p] {Not 24/7}
 http://51.254.199.122:8080/PSTV/index.m3u8
@@ -862,8 +861,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b62a922196c7bd5.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [1080p] {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0461a4312b5e5b60.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p] {Geo-blocked}
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0461a4312b5e5b60.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p]
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dc0189fc8dad5b0d.png" tvg-country="FR" group-title="Généraliste",TV5Monde Latin America [720p]
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2b60d2054f3afcc0.png" tvg-country="FR" group-title="Autres",TV5Monde Pacific

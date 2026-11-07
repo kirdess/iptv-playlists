@@ -86,7 +86,7 @@ https://cdn.haititivi.com/website/haitinews/index.m3u8
 https://stream.hc2tv.bj/2/live/stream.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/25b2f3980e72e260.png" tvg-country="IL" group-title="Infos",i24NEWS French [1080p]
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/826227e381dfca95.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6f536c50039d7120.png" tvg-country="CA" group-title="Infos",Ici RDI [720p]
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="ICONETV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c662f849f102ad05.png" tvg-country="BJ" group-title="Infos",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
@@ -112,7 +112,7 @@ https://webtv.monacoinfo.com/live/prod/index.m3u8
 https://hls.newworldtv.com/nw-info/video/live.m3u8
 #EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1c05251164e31775.png" tvg-country="CM" group-title="Infos",Panafrican Media TV [480p]
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a39f1da5258f22b1.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9cda11369e4afad2.png" tvg-country="IR" group-title="Infos",Press TV French [1080p]
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d29ac99edc484697.png" tvg-country="FR" group-title="Infos",RT France [1080p] {Geo-blocked}
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -120,5 +120,5 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/91c8c10d24176734.png" tvg-country="SN" group-title="Infos",SunuLabel TV [480p] {Not 24/7}
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0461a4312b5e5b60.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p] {Geo-blocked}
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0461a4312b5e5b60.png" tvg-country="FR" group-title="Infos",TV5Monde Info [1080p]
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
