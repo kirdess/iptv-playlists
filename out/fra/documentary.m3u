@@ -5,6 +5,9 @@ https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/af7c77c475badac0.png" tvg-country="FR" group-title="Documentaires",Into Crime [1080p]
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/288f30dc79528d77.png" tvg-country="FR" group-title="Documentaires",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/096223da6833dc1a.png" tvg-country="CA" group-title="Documentaires",NatureTime (France) [1080p]
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/865c9c4bf3f53ed6.png" tvg-country="DE" group-title="Documentaires",Pluto TV Animaux

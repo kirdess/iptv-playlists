@@ -2,15 +2,15 @@
 
 | Playlist | Chaînes |
 |---|---|
-| `fra/all.m3u` | 444 |
+| `fra/all.m3u` | 448 |
 | `fra/animation.m3u` | 7 |
 | `fra/business.m3u` | 5 |
 | `fra/comedy.m3u` | 3 |
 | `fra/cooking.m3u` | 2 |
 | `fra/culture.m3u` | 14 |
-| `fra/documentary.m3u` | 8 |
+| `fra/documentary.m3u` | 9 |
 | `fra/education.m3u` | 1 |
-| `fra/entertainment.m3u` | 35 |
+| `fra/entertainment.m3u` | 38 |
 | `fra/family.m3u` | 1 |
 | `fra/general.m3u` | 107 |
 | `fra/interactive.m3u` | 1 |
@@ -28,6 +28,6 @@
 | `fra/travel.m3u` | 1 |
 | `fra/undefined.m3u` | 45 |
 | `sports/fra.m3u` | 10 |
-| `sports/eng.m3u` | 171 |
-| `sports/combat.m3u` | 17 |
+| `sports/eng.m3u` | 173 |
+| `sports/combat.m3u` | 16 |
 | `custom/ma-selection.m3u` | 6 |

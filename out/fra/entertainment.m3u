@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="13emeRue.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fb5f6c9a55a7cb69.png" tvg-country="FR" group-title="Divertissement",13eme Rue
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/251/index.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter [1080p]
 http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0303b2f4e533648d.png" tvg-country="FR" group-title="Divertissement",arte [1080p]
@@ -19,6 +22,9 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29579897bf75f6f0.png" tvg-country="ML" group-title="Divertissement",D3 TV [720p]
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5b23819880c5b8bf.png" tvg-country="FR" group-title="Divertissement",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8946afe832ed7208.png" tvg-country="CD" group-title="Divertissement",EVI TV [720p]
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5d2591aced45020e.png" tvg-country="RW" group-title="Divertissement",KC2 [720p] {Not 24/7}
@@ -49,6 +55,9 @@ https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f98942acb3c9c0a.png" tvg-country="BI" group-title="Divertissement",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8
+#EXTINF:-1 tvg-id="SciFi.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f5b8c9d510d64217.png" tvg-country="FR" group-title="Divertissement",SciFi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/250/index.m3u8
 #EXTINF:-1 tvg-id="TalTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7827412178faec76.png" tvg-country="NE" group-title="Divertissement",Tal TV [1080p]
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 #EXTINF:-1 tvg-id="TeenMom.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29fef6876492ed57.png" tvg-country="DE" group-title="Divertissement",Teen Mom (FR) [720p]
