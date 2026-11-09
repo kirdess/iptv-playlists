@@ -13,7 +13,7 @@ https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5acea67c94338c5a.png" tvg-country="FR" group-title="Autres",Generations TV [576p]
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e9cd45dac5d5cff2.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBAFT-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cace74e3b14dc21a.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBAFT-DT) {Geo-blocked}
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eb0c761a79defff1.png" tvg-country="CA" group-title="Autres",Ici Radio-Canada Tele (CBFT-DT) [1080p] {Geo-blocked}
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8

@@ -22,7 +22,7 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29579897bf75f6f0.png" tvg-country="ML" group-title="Divertissement",D3 TV [720p]
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5b23819880c5b8bf.png" tvg-country="FR" group-title="Divertissement",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bace419ca482c30c.png" tvg-country="FR" group-title="Divertissement",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8946afe832ed7208.png" tvg-country="CD" group-title="Divertissement",EVI TV [720p]
@@ -66,8 +66,6 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement",TeleMIX [720p]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1 [1080p]
-http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7053fa82494d1652.png" tvg-country="CM" group-title="Divertissement",TR24 Television [720p]
 https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 tvg-id="Turbo.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/acddab7b6b68c7be.png" tvg-country="DE" group-title="Divertissement",Turbo [720p]
