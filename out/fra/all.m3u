@@ -880,7 +880,7 @@ http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f3
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/889d6d48af6ce82b.png" tvg-country="FR" group-title="Autres",TV78 [720p]
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/73ee9a503db54546.png" tvg-country="CA" group-title="Autres",TVA (CFTM-DT) {Geo-blocked}
+#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ef82f1d27573bb5f.png" tvg-country="CA" group-title="Autres",TVA (CFTM-DT) {Geo-blocked}
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7403e57b4c5a7f7d.png" tvg-country="BJ" group-title="Généraliste",TVC Benin [720p]
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
