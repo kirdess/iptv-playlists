@@ -786,7 +786,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 http://69.64.57.208/tm1/playlist.m3u8
 #EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca7e1324a6bac860.png" tvg-country="GP" group-title="Musique",TMA [1080p]
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b90265a1501c3c3a.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2f2dcc8892457a1d.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1 tvg-id="TNH.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4f11de32ee6e0b9.png" tvg-country="HT" group-title="Généraliste",TNH [720p]
 https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8

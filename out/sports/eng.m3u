@@ -60,6 +60,8 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/460edb9b6b6485b0.png" tvg-country="IN" group-title="Sports English",Eurosport (HD) [1080p]
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png" tvg-country="FR" group-title="Sports English",Eurosport 1 (UK) [1080p]
+http://85.117.37.43/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbd6ab97d8cf5dec.png" tvg-country="FR" group-title="Sports English",Eurosport 4K (Romania) [2160p] {Geo-blocked}
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="EurovisionSport.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8c8994dfc69ca6a2.png" tvg-country="UK" group-title="Sports English",Eurovision Sport [1080p]
@@ -91,6 +93,8 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c6d02c4719b3aeb5.png" tvg-country="US" group-title="Sports English",FloRacing [1080p]
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/41674d77437c0fb5.png" tvg-country="RO" group-title="Sports English",Formula 1 AntenaPlay [576i] {Not 24/7}
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068955ffeeb6ae9a.png" tvg-country="US" group-title="Sports English",Fox Deportes [720p]
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d728ffcc3e5b2c25.png" tvg-country="US" group-title="Sports English",Fox Sports 1 [720p]
@@ -235,6 +239,8 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6315a5aa516ca38e.png" tvg-country="UK" group-title="Sports English",Setanta Sports [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9b6ca368e08f7291.png" tvg-country="GE" group-title="Sports English",Setanta Sports+ Georgia [1080p]
+http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9f5778a15bcae837.png" tvg-country="AE" group-title="Sports English",Sharjah Sports [1080p] {Geo-blocked}
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e62110a557f14054.png" tvg-country="CH" group-title="Sports English",SKI TV [1080p] {Not 24/7}

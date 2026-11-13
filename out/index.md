@@ -28,6 +28,6 @@
 | `fra/travel.m3u` | 1 |
 | `fra/undefined.m3u` | 45 |
 | `sports/fra.m3u` | 10 |
-| `sports/eng.m3u` | 172 |
+| `sports/eng.m3u` | 175 |
 | `sports/combat.m3u` | 16 |
 | `custom/ma-selection.m3u` | 6 |
