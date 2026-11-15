@@ -58,7 +58,7 @@ https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d
 #EXTINF:-1 tvg-id="Telesambre.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3807b2cc3a993dba.png" tvg-country="BE" group-title="Autres",Telesambre [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d14a137ac35e5e74.png" tvg-country="FR" group-title="Autres",TFX [1080p]
-http://149.62.177.107:9999/TFX/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a646020cd9dd0ab6.png" tvg-country="BE" group-title="Autres",Tipik [1080p]
 http://41.205.93.154/TIPIK/index.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3174ceca70314049.png" tvg-country="FR" group-title="Autres",TiVi5 Monde {Geo-blocked}

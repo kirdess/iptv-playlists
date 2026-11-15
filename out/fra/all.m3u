@@ -12,8 +12,8 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc6d71dd6a91c23c.png" tvg-country="US" group-title="Religion",3ABN French [720p]
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter [1080p]
-http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="7Info.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8967e15ae62ef3ad.png" tvg-country="CI" group-title="Infos",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-id="A12TV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/06d6438cc059882c.png" tvg-country="CI" group-title="Généraliste",A12 TV
@@ -130,6 +130,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&sta
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a9b192acf7192278.png" tvg-country="US" group-title="Jeunesse",Bob l'eponge [720p]
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/149930b6d8ee08a6.png" tvg-country="FR" group-title="Jeunesse",Boomerang (HD) [720p]
+http://41.205.93.154/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0aeda26d20547dc2.png" tvg-country="CD" group-title="Généraliste",Boss Brothers TV [1080p]
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 tvg-id="Bouke.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cc1523b075b82687.png" tvg-country="BE" group-title="Autres",Bouke [504p]
@@ -222,6 +224,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-id="CNMTV.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/83387e5e0bc4adab.png" tvg-country="SN" group-title="Généraliste",CNM TV [720p] {Not 24/7}
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ae8fa0bfad78f034.png" tvg-country="FR" group-title="Comédie",Comedy Central [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4a02e3906b5a9fb5.png" tvg-country="CD" group-title="Généraliste",Congo Planet Television [1080p] {Not 24/7}
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f55655eac3b3253f.png" tvg-country="CH" group-title="Musique",Couleur 3 [720p]
@@ -308,22 +312,21 @@ https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/in
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4dcd9bfcc79e5043.png" tvg-country="CM" group-title="Infos",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1a637119105176d.png" tvg-country="FR" group-title="Généraliste",France 2 [1080p]
-http://149.62.177.107:9999/France_2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/188446253a70db14.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://85.14.32.26:8800/udp/239.100.10.144:5000
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur) [1080p]
 http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 [1080p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse",France 4 [1080p]
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ad82ce49ee6dbc45.png" tvg-country="FR" group-title="Généraliste",France 5 [1080p]
-http://149.62.177.107:9999/France_5/index.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
-http://149.62.177.107:9999/franceinfo:/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8e6da85b2ccd487d.png" tvg-country="FR" group-title="Documentaires",Francophonie24 [1080p]
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0e933dea4f7a1a58.png" tvg-country="FR" group-title="Séries",Frequence Novelas [1080p]
@@ -441,7 +444,7 @@ https://tnt-television.com/LBFD_RTV/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI (HD) [1080p]
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI [1080p]
-http://149.62.177.107:9999/LCI/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa3c7242d6937bc5.png" tvg-country="CA" group-title="Infos",LCN {Geo-blocked}
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d75484b97a82261e.png" tvg-country="FR" group-title="Parlementaire",LCP [477p]
@@ -519,9 +522,8 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/516290383be87477.png" tvg-country="UK" group-title="Religion",MTA5 Africa [1080p]
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72e24bb45a2f9a0c.png" tvg-country="FR" group-title="Divertissement",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72e24bb45a2f9a0c.png" tvg-country="FR" group-title="Divertissement",MTV [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9de879a10924f40a.png" tvg-country="DE" group-title="Divertissement",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/89190eba9464982c.png" tvg-country="FR" group-title="Culture",Museum TV French {Geo-blocked}
@@ -538,13 +540,19 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/697570b86a664269.png" tvg-country="HT" group-title="Généraliste",Netalkole TV [720p] {Not 24/7}
 https://watch.haitilive.net/naktvhd/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d3d933231c4b25f4.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c554a9a357210d3.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d37f34f643a35480.png" tvg-country="FR" group-title="Jeunesse",Nicktoons [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c1f898ef414ec972.png" tvg-country="NC" group-title="Généraliste",Nouvelle Caledonie 1ere [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
 #EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40e9c1ced1f6b05f.png" tvg-country="CI" group-title="Séries",Novela Channel [720p] {Not 24/7}
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f6d5b86cc45f3d4.png" tvg-country="FR" group-title="Généraliste",NOVO19 [1080p]
-http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1f6d5b86cc45f3d4.png" tvg-country="FR" group-title="Généraliste",NOVO19 [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/baba763cded9157f.png" tvg-country="FR" group-title="Musique",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3f2c5984f114e4be.png" tvg-country="CI" group-title="Généraliste",NTV [1080p] {Not 24/7}
@@ -779,9 +787,9 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9a38ebfb4e1e6678.png" tvg-country="TG" group-title="Généraliste",Television Espoir 47 [720p]
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72340419db5d0b30.png" tvg-country="FR" group-title="Films",TF1 Series Films [1080p]
-http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d14a137ac35e5e74.png" tvg-country="FR" group-title="Autres",TFX [1080p]
-http://149.62.177.107:9999/TFX/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a646020cd9dd0ab6.png" tvg-country="BE" group-title="Autres",Tipik [1080p]
 http://41.205.93.154/TIPIK/index.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3174ceca70314049.png" tvg-country="FR" group-title="Autres",TiVi5 Monde {Geo-blocked}

@@ -78,8 +78,8 @@ https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/in
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/188446253a70db14.png" tvg-country="FR" group-title="Infos",France 24 [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [1080p]
-http://149.62.177.107:9999/franceinfo:/index.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3dc30b1ea7d9118b.png" tvg-country="FR" group-title="Infos",Franceinfo [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1f16a038655ff01.png" tvg-country="HT" group-title="Infos",Haiti News Channel [1080p] {Not 24/7}
 https://cdn.haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1 tvg-id="HC2TV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b40361e118b088f0.png" tvg-country="BJ" group-title="Infos",HC2 TV
@@ -95,7 +95,7 @@ http://51.254.199.122:8080/kin24/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI (HD) [1080p]
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/487dafdaa61f6413.png" tvg-country="FR" group-title="Infos",LCI [1080p]
-http://149.62.177.107:9999/LCI/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aa3c7242d6937bc5.png" tvg-country="CA" group-title="Infos",LCN {Geo-blocked}
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/08d0071ffebe7591.png" tvg-country="CD" group-title="Infos",Le Monde en 24h

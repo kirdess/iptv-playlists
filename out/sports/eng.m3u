@@ -62,6 +62,8 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png" tvg-country="FR" group-title="Sports English",Eurosport 1 (UK) [1080p]
 http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9258b96c7f06b638.png" tvg-country="FR" group-title="Sports English",Eurosport 2 (UK)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbd6ab97d8cf5dec.png" tvg-country="FR" group-title="Sports English",Eurosport 4K (Romania) [2160p] {Geo-blocked}
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="EurovisionSport.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8c8994dfc69ca6a2.png" tvg-country="UK" group-title="Sports English",Eurovision Sport [1080p]
@@ -134,7 +136,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="LacrosseTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/109666fe4ccd87f1.png" tvg-country="US" group-title="Sports English",Lacrosse TV [720p]
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6fd545a6bd7b9203.png" tvg-country="US" group-title="Sports English",Marquee Sports Network [576p]
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/abe2cd1155b78bd0.png" tvg-country="US" group-title="Sports English",Marquee Sports Network [576p]
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7dcf986bb2549ec0.png" tvg-country="US" group-title="Sports English",MLB [720p]
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8

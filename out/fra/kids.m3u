@@ -7,10 +7,12 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a9b192acf7192278.png" tvg-country="US" group-title="Jeunesse",Bob l'eponge [720p]
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/149930b6d8ee08a6.png" tvg-country="FR" group-title="Jeunesse",Boomerang (HD) [720p]
+http://41.205.93.154/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a23edd3ac58e05b.png" tvg-country="US" group-title="Jeunesse",Detective Conan (France) [720p]
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse",France 4 [1080p]
-http://149.62.177.107:9999/France_4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/33fa44071223d15a.png" tvg-country="FR" group-title="Jeunesse",Gulli [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
@@ -20,6 +22,12 @@ https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0a983a63c819789f.png" tvg-country="UK" group-title="Jeunesse",Mr Bean Animated (FR) [1080p]
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d3d933231c4b25f4.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c554a9a357210d3.png" tvg-country="FR" group-title="Jeunesse",Nickelodeon Junior [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d37f34f643a35480.png" tvg-country="FR" group-title="Jeunesse",Nicktoons [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/42afe92c42385638.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Kids Classics (FR) [720p]
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a832e849eebd3778.png" tvg-country="DE" group-title="Jeunesse",Pluto TV Retro Toons

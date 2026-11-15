@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="13emeRue.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fb5f6c9a55a7cb69.png" tvg-country="FR" group-title="Divertissement",13eme Rue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/251/index.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter [1080p]
-http://149.62.177.107:9999/6ter/index.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59fc4296650d1b57.png" tvg-country="FR" group-title="Divertissement",6ter [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0303b2f4e533648d.png" tvg-country="FR" group-title="Divertissement",arte [1080p]
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/adc61c7985da65e6.png" tvg-country="FR" group-title="Divertissement",C Star [477p]
@@ -34,9 +34,8 @@ http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16777d7a08577aae.png" tvg-country="FR" group-title="Divertissement",M6 (HD) [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72e24bb45a2f9a0c.png" tvg-country="FR" group-title="Divertissement",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72e24bb45a2f9a0c.png" tvg-country="FR" group-title="Divertissement",MTV [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9de879a10924f40a.png" tvg-country="DE" group-title="Divertissement",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-id="NWMagazine.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2dd8746df6d0aafb.png" tvg-country="TG" group-title="Divertissement",NW Magazine [576p]
