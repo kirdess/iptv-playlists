@@ -25,14 +25,16 @@ https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f2205571907c7206.png" tvg-country="FR" group-title="Musique",Littoral FM TV [720p]
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/de521c8338efc5ec.png" tvg-country="FR" group-title="Musique",M6 Music
-https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/de521c8338efc5ec.png" tvg-country="FR" group-title="Musique",M6 Music [1080p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MadrasFMTV.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c7f290c43e88c38a.png" tvg-country="GP" group-title="Musique",Madras FM TV [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ad88bc8015cf908.png" tvg-country="FR" group-title="Musique",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ad88bc8015cf908.png" tvg-country="RU" group-title="Musique",MCM Top [576p]
 http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/07d8c604ac3be2d7.png" tvg-country="FR" group-title="Musique",Melody [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/baba763cded9157f.png" tvg-country="FR" group-title="Musique",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/45bf8d90c27bb271.png" tvg-country="FR" group-title="Musique",P2M TV [720p]

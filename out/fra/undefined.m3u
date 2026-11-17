@@ -51,18 +51,28 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ee52d50243dcc300.png" tvg-country="BE" group-title="Autres",RTL-TVI [1080p] {Not 24/7}
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d3a8596f7aefc2b5.png" tvg-country="CH" group-title="Autres",RTS 1 [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8bc22467072430fb.png" tvg-country="CA" group-title="Autres",Savoir media (CFTU-DT) [360p]
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/42f3232768c1871d.png" tvg-country="FR" group-title="Autres",Serie Club [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMB.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4420cf297e1f60f.png" tvg-country="BE" group-title="Autres",Tele MB [1080p]
 https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
 #EXTINF:-1 tvg-id="Telesambre.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3807b2cc3a993dba.png" tvg-country="BE" group-title="Autres",Telesambre [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/139ce04f1c1b964d.png" tvg-country="FR" group-title="Autres",Teva [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d14a137ac35e5e74.png" tvg-country="FR" group-title="Autres",TFX [1080p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a646020cd9dd0ab6.png" tvg-country="BE" group-title="Autres",Tipik [1080p]
 http://41.205.93.154/TIPIK/index.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3174ceca70314049.png" tvg-country="FR" group-title="Autres",TiVi5 Monde {Geo-blocked}
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 tvg-id="ToutelHistoire.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5c0b8424efbbc997.png" tvg-country="FR" group-title="Autres",Toute l'Histoire [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d8a3f9af7065e9f.png" tvg-country="FR" group-title="Autres",TV Breizh [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dba6b6d70fadab7b.png" tvg-country="BE" group-title="Autres",TV Lux [1080p]
 https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/18c724d45e568b14.png" tvg-country="CA" group-title="Autres",TV5 Quebec Canada [1080p]
@@ -83,6 +93,10 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 #EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/285cec6783fc33e7.png" tvg-country="FR" group-title="Autres",TVR [720p]
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b9edf5979e480345.png" tvg-country="FR" group-title="Autres",Ushuaia TV [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="VaticanMedia.va" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/644a725bfd0e6ffb.png" tvg-country="VA" group-title="Autres",Vatican Media [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Vedia.be" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2295c46dd83d0067.png" tvg-country="BE" group-title="Autres",Vedia [1080p]
 https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8
 #EXTINF:-1 tvg-id="ViaMatele.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcde6e2499b62e9f.png" tvg-country="FR" group-title="Autres",ViaMatele [1080p]

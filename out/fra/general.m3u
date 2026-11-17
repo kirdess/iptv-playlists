@@ -58,14 +58,16 @@ https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="EdenTV.bj" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/71c0c0fba3dc9b5b.png" tvg-country="BJ" group-title="Généraliste",Eden TV [540p] {Not 24/7}
 https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EspoirTV.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fd6a17ecfd53658f.png" tvg-country="CD" group-title="Généraliste",Espoir TV [720p]
+https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8
 #EXTINF:-1 tvg-id="ETV.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/744a1bd9c6a37f44.png" tvg-country="GP" group-title="Généraliste",ETV [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/cbedeeb0c279e4e5.png" tvg-country="GN" group-title="Généraliste",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d1a637119105176d.png" tvg-country="FR" group-title="Généraliste",France 2 [1080p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur) [1080p]
-http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Cote d'Azur) [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 (Lorraine) [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/26c0873f1ab714eb.png" tvg-country="FR" group-title="Généraliste",France 3 [1080p]
@@ -108,6 +110,8 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1af4b996acba43b1.png" tvg-country="LB" group-title="Généraliste",OTV [1080p]
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/436975c84de0ee19.png" tvg-country="FR" group-title="Généraliste",Paris Premiere [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/84ddf732e4e6f367.png" tvg-country="CD" group-title="Généraliste",PSTV HD [480p] {Not 24/7}
 http://51.254.199.122:8080/PSTV/index.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bb30b04a8dfeafe5.png" tvg-country="FR" group-title="Généraliste",Puissance TV
@@ -176,6 +180,8 @@ https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 http://69.64.57.208/tm1/playlist.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2f2dcc8892457a1d.png" tvg-country="FR" group-title="Généraliste",TMC (HD) [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2f2dcc8892457a1d.png" tvg-country="FR" group-title="Généraliste",TMC [1080p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TNH.ht" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c4f11de32ee6e0b9.png" tvg-country="HT" group-title="Généraliste",TNH [720p]
 https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd5a048edab625a6.png" tvg-country="PF" group-title="Généraliste",TNTV [1080p]
@@ -194,8 +200,8 @@ http://185.9.2.18/chid_347/index.m3u8
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a2b03b57cf2e568a.png" tvg-country="FR" group-title="Généraliste",TV5Monde Europe [1080p]
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b62a922196c7bd5.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [1080p] {Geo-blocked}
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4b62a922196c7bd5.png" tvg-country="FR" group-title="Généraliste",TV5Monde France Belgium Switzerland Monaco [720p]
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dc0189fc8dad5b0d.png" tvg-country="FR" group-title="Généraliste",TV5Monde Latin America [720p]
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/56d465f59d0c1bdb.png" tvg-country="FR" group-title="Généraliste",TV7 Colmar [576p]

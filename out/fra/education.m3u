@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e523fb35b796a178.png" tvg-country="SN" group-title="Éducation",A2i Naija [720p] {Not 24/7}
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e7f8d7906158b498.png" tvg-country="FR" group-title="Éducation",Animaux [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8

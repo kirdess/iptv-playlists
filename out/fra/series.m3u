@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bf8f730e3250e132.png" tvg-country="US" group-title="Séries",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b70f0567de454b2d.png" tvg-country="FR" group-title="Séries",Crime District [540p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/0e933dea4f7a1a58.png" tvg-country="FR" group-title="Séries",Frequence Novelas [1080p]
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f3025c2793b6560e.png" tvg-country="US" group-title="Séries",Helene et les garcons
