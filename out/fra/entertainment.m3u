@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kirdess/iptv-playlists/epg/guide.xml.gz" x-tvg-url="https://raw.githubusercontent.com/kirdess/iptv-playlists/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="13emeRue.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/fb5f6c9a55a7cb69.png" tvg-country="FR" group-title="Divertissement",13eme Rue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/251/index.m3u8
@@ -36,6 +36,8 @@ http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16777d7a08577aae.png" tvg-country="FR" group-title="Divertissement",M6 (HD) [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/16777d7a08577aae.png" tvg-country="FR" group-title="Divertissement",M6 (SD) [1080p]
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/72e24bb45a2f9a0c.png" tvg-country="FR" group-title="Divertissement",MTV [720p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9de879a10924f40a.png" tvg-country="DE" group-title="Divertissement",MTV CLASSICS

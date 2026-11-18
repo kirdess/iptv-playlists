@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kirdess/iptv-playlists/epg/guide.xml.gz" x-tvg-url="https://raw.githubusercontent.com/kirdess/iptv-playlists/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/198c17eff229b46e.png" tvg-country="US" group-title="Sports English",30A Golf Kingdom [720p]
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ab179f38a14435d9.png" tvg-country="US" group-title="Sports English",ACC Digital Network [1080p]
@@ -60,8 +60,8 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/460edb9b6b6485b0.png" tvg-country="IN" group-title="Sports English",Eurosport (HD) [1080p]
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png" tvg-country="FR" group-title="Sports English",Eurosport 1 (UK) [1080p]
-http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png" tvg-country="FR" group-title="Sports English",Eurosport 1 (UK) [720p]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9258b96c7f06b638.png" tvg-country="FR" group-title="Sports English",Eurosport 2 (UK)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbd6ab97d8cf5dec.png" tvg-country="FR" group-title="Sports English",Eurosport 4K (Romania) [2160p] {Geo-blocked}
