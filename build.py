@@ -6,7 +6,9 @@ Outputs (in ./out):
   <lang>/<category>.m3u        one file per category
   sports/<lang>.m3u            sports channels for each sports language
   sports/combat.m3u            boxing / MMA / UFC / wrestling / kickboxing, any language
+  tout.m3u                     everything above in one file, one group per list
   custom/<name>.m3u            hand-picked lists from custom/*.txt (one channel name or id per line)
+  epg/guide.xml.gz             programme guide of those channels (published on the "epg" branch)
   index.md                     list of every playlist with its channel count
 """
 
@@ -16,6 +18,8 @@ import sys
 import urllib.request
 from collections import defaultdict
 from pathlib import Path
+
+import epg
 
 API = "https://iptv-org.github.io/api"
 OUT = Path(__file__).parent / "out"
@@ -180,7 +184,7 @@ def make_posters(entries):
 
 
 def m3u(entries, group_of):
-    lines = ['#EXTM3U']  # iptv-org no longer publishes ready-made EPG guides
+    lines = [f'#EXTM3U url-tvg="{epg.GUIDE_URL}" x-tvg-url="{epg.GUIDE_URL}"']
     for e in entries:
         lines.append(
             f'#EXTINF:-1 tvg-id="{e["id"]}" tvg-logo="{e["logo"]}" tvg-country="{e["country"]}" '
@@ -235,6 +239,19 @@ def main():
                 for n, l in wanted)]
             write(f"custom/{txt.stem}.m3u", picked, lambda e, n=txt.stem: n, index)
 
+    # One playlist with everything, for a single NexoTV install: each list above becomes a
+    # group (NexoTV sorts groups by name, so the main ones are numbered to come first).
+    pinned = {"fra/movies.m3u": "1 Films FR", "fra/series.m3u": "2 Séries FR", "sports/fra.m3u": "3 Sports FR",
+              "sports/eng.m3u": "4 Sports EN", "sports/combat.m3u": "5 Sports de combat"}
+    combined = []
+    for rel, items, group_of in list(index):
+        if rel in ("fra/all.m3u", "fra/sports.m3u"):  # all = the sum of the others, sports = sports/fra
+            continue
+        group = pinned.get(rel) or (f"0 {Path(rel).stem}" if rel.startswith("custom/") else f"{group_of(items[0])} FR")
+        combined += [{**e, "group": group} for e in items]
+    combined.sort(key=lambda e: (e["group"], e["name"].lower()))
+    write("tout.m3u", combined, lambda e: e["group"], index)
+
     published = {e["key"]: e for _, items, _ in index for e in items}
     print(f"Rendering posters for {len(published)} channels…", file=sys.stderr)
     used = make_posters(list(published.values()))
@@ -242,13 +259,19 @@ def main():
         if old.name not in used:
             old.unlink()
 
+    logo = {k: e["logo"] for k, e in published.items()}
     for rel, items, group_of in index:
+        for e in items:
+            e["logo"] = logo[e["key"]]
         path = OUT / rel
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(m3u(items, group_of), encoding="utf-8")
+    print("Building the programme guide…", file=sys.stderr)
+    guided = epg.build(list(published.values()), OUT / "epg")
+    with_guide = lambda items: sum(e["id"] in guided for e in items)
     (OUT / "index.md").write_text(
-        "# Playlists\n\n| Playlist | Chaînes |\n|---|---|\n"
-        + "".join(f"| `{p}` | {len(i)} |\n" for p, i, _ in index), encoding="utf-8")
+        "# Playlists\n\n| Playlist | Chaînes | Avec programme TV |\n|---|---|---|\n"
+        + "".join(f"| `{p}` | {len(i)} | {with_guide(i)} |\n" for p, i, _ in index), encoding="utf-8")
     for p, i, _ in index:
         print(f"{len(i):5d}  {p}")
 

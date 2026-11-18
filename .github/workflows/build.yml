@@ -4,7 +4,7 @@ on:
     - cron: "17 4 * * *"   # every day at 04:17 UTC
   workflow_dispatch:        # "Run workflow" button
   push:
-    paths: ["build.py", "custom/**"]
+    paths: ["build.py", "epg.py", "custom/**"]
 permissions:
   contents: write
 jobs:
@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pillow
-      - run: rm -rf out/*.md out/fra out/sports out/custom && python build.py
+      - run: rm -rf out/*.md out/*.m3u out/fra out/sports out/custom && python build.py
       - name: Commit playlists
         run: |
           git config user.name "playlist-bot"
@@ -24,3 +24,15 @@ jobs:
           git add out
           git diff --cached --quiet || git commit -m "Update playlists $(date -u +%F)"
           git push
+      - name: Publish the guide on the epg branch (one commit, replaced every day)
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          test -s out/epg/guide.xml.gz || { echo "::warning::No guide built, keeping the previous one"; exit 0; }
+          tmp=$(mktemp -d)
+          cp out/epg/guide.xml.gz "$tmp/"
+          cd "$tmp"
+          git init -q -b epg
+          git add guide.xml.gz
+          git -c user.name="playlist-bot" -c user.email="actions@users.noreply.github.com" commit -q -m "Guide $(date -u +%F)"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" epg
