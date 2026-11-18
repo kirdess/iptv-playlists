@@ -5,13 +5,13 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2de3102dd03f97a9.png" tvg-country="CA" group-title="Sports de combat",Fight Network [1080p]
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox (HD)
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox (Poland) [576i]
 http://92.114.85.87:8003/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/625904f9aed1b006.png" tvg-country="NL" group-title="Sports de combat",FightBox [720p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c21309ff7e4dfb5a.png" tvg-country="US" group-title="Sports de combat",Glory Kickboxing (Poland) [720p]
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="MMATV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aac5f6c829ccec96.png" tvg-country="US" group-title="Sports de combat",MMA TV [576p]

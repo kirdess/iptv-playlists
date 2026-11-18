@@ -44,7 +44,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-id="NWMagazine.tg" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2dd8746df6d0aafb.png" tvg-country="TG" group-title="Divertissement",NW Magazine [576p]
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
-#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e966516c032cc17f.png" tvg-country="CM" group-title="Divertissement",PLEX TV
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e966516c032cc17f.png" tvg-country="CM" group-title="Divertissement",PLEX TV [720p]
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVANIMEGO.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/82f61f45a8555f6c.png" tvg-country="DE" group-title="Divertissement",Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
@@ -71,7 +71,7 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement",TeleMIX [720p]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1 [1080p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7053fa82494d1652.png" tvg-country="CM" group-title="Divertissement",TR24 Television [720p]
 https://stream.it-innov.com/tr24/index.m3u8
