@@ -1,0 +1,36 @@
+name: Build addon
+on:
+  schedule:
+    - cron: "7 * * * *"     # every hour, so the schedules shown in Stremio stay current
+  workflow_dispatch:
+  workflow_run:             # and right after the playlists are rebuilt
+    workflows: ["Build playlists"]
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: addon
+  cancel-in-progress: true
+jobs:
+  addon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the addon files
+        run: |
+          git fetch -q --depth 1 origin epg && git show FETCH_HEAD:guide.xml.gz > guide.xml.gz || echo "::warning::No guide, building without schedules"
+          python addon.py out/addon-data.json guide.xml.gz dist
+      - name: Publish on the addon branch (one commit, replaced every hour)
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -q -b addon
+          git add .
+          git -c user.name="playlist-bot" -c user.email="actions@users.noreply.github.com" commit -q -m "Addon $(date -u +%FT%H:%MZ)"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" addon

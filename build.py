@@ -8,6 +8,7 @@ Outputs (in ./out):
   sports/combat.m3u            boxing / MMA / UFC / wrestling / kickboxing, any language
   tout.m3u                     everything above in one file, one group per list
   custom/<name>.m3u            hand-picked lists from custom/*.txt (one channel name or id per line)
+  addon-data.json              the channels of tout.m3u, read by addon.py to build the Stremio addon
   epg/guide.xml.gz             programme guide of those channels (published on the "epg" branch)
   index.md                     list of every playlist with its channel count
 """
@@ -87,7 +88,7 @@ def build_entries():
             "id": ch["id"], "name": name, "plain": ch["name"],
             "alt": ch.get("alt_names") or [], "country": ch.get("country", ""),
             "categories": ch.get("categories") or ["undefined"], "languages": langs,
-            "logo": (logo or {}).get("url", ""), "url": s["url"],
+            "logo": (logo or {}).get("url", ""), "logo_src": (logo or {}).get("url", ""), "url": s["url"],
             "referrer": s.get("referrer"), "user_agent": s.get("user_agent"),
             "rank": QUALITY_RANK.get(s.get("quality") or "", 0) - (5 if labels else 0),
         }
@@ -266,6 +267,10 @@ def main():
         path = OUT / rel
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(m3u(items, group_of), encoding="utf-8")
+    # input of addon.py, which turns it into the Stremio addon every hour
+    fields = ("key", "id", "name", "plain", "group", "logo", "logo_src", "url", "referrer", "user_agent")
+    (OUT / "addon-data.json").write_text(
+        json.dumps([{f: e[f] for f in fields} for e in combined], ensure_ascii=False, indent=0), encoding="utf-8")
     print("Building the programme guide…", file=sys.stderr)
     guided = epg.build(list(published.values()), OUT / "epg")
     with_guide = lambda items: sum(e["id"] in guided for e in items)

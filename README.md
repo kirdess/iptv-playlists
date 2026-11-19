@@ -10,6 +10,17 @@ Playlists M3U générées chaque jour depuis [iptv-org](https://github.com/iptv-
 - `out/custom/<nom>.m3u` : listes perso, éditer `custom/<nom>.txt`
 
 Liste complète avec le nombre de chaînes : [`out/index.md`](out/index.md).
+## Addon Stremio (sans serveur)
+
+`addon.py` transforme `out/tout.m3u` et le guide en addon Stremio fait de simples fichiers JSON, publiés
+toutes les heures sur la branche `addon`. À installer dans Stremio (Addons → coller le lien) :
+
+`https://raw.githubusercontent.com/<compte>/iptv-playlists/addon/manifest.json`
+
+Dans Découvrir → Chaîne TV → « TV FR », chaque groupe est un genre, et le programme de la chaîne
+(heure de Paris) s'affiche dans le panneau de droite sans ouvrir la fiche. Pas de recherche dans le
+catalogue (fichiers statiques). Plus besoin de NexoTV.
+
 ## Programme TV (EPG)
 
 `epg.py` assemble chaque jour un guide XMLTV limité aux chaînes des playlists (48 h de programmes),
