@@ -3,7 +3,7 @@
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b44318591b9ba98e.png" tvg-country="FR" group-title="Infos",Africa 24 [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b74389f14ca231b3.png" tvg-country="FR" group-title="Infos",Africa 24 Sport [1080p]
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5456c84c354406bf.png" tvg-country="FR" group-title="Infos",Africa 24 Sport [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eaaea50206ed8fd0.png" tvg-country="FR" group-title="Infos",Africanews French [720p]
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8

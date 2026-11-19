@@ -30,7 +30,7 @@
 | `fra/travel.m3u` | 1 | 1 |
 | `fra/undefined.m3u` | 52 | 28 |
 | `sports/fra.m3u` | 12 | 9 |
-| `sports/eng.m3u` | 176 | 80 |
+| `sports/eng.m3u` | 178 | 82 |
 | `sports/combat.m3u` | 16 | 6 |
 | `custom/ma-selection.m3u` | 6 | 6 |
-| `tout.m3u` | 694 | 352 |
+| `tout.m3u` | 696 | 354 |

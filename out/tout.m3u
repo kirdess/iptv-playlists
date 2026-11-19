@@ -112,7 +112,7 @@ https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2860ef1c552ddc8e.png" tvg-country="US" group-title="2 Séries FR",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b74389f14ca231b3.png" tvg-country="FR" group-title="3 Sports FR",Africa 24 Sport [1080p]
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5456c84c354406bf.png" tvg-country="FR" group-title="3 Sports FR",Africa 24 Sport [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ddab5e921fe5272.png" tvg-country="FR" group-title="3 Sports FR",Canal+ Sport [1080p] {Geo-blocked}
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
@@ -246,6 +246,8 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4bbdd31af7896beb.png" tvg-country="US" group-title="4 Sports EN",FTF Sports [720p]
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/438e1130b64c1be4.png" tvg-country="US" group-title="4 Sports EN",Fubo Sports Network (HD) [1080p]
+http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/438e1130b64c1be4.png" tvg-country="US" group-title="4 Sports EN",Fubo Sports Network [1080p]
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b8d26c78f0932541.png" tvg-country="PT" group-title="4 Sports EN",FUEL TV (AU) [1080p]
@@ -319,6 +321,8 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8b66e951b40e7534.png" tvg-country="US" group-title="4 Sports EN",PGA Tour [1080p]
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PickleballNow.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40983a8ffbf56b37.png" tvg-country="IN" group-title="4 Sports EN",Pickleball Now [720p] {Geo-blocked}
+https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c33a94b5ca6d3081.png" tvg-country="US" group-title="4 Sports EN",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d5483148b9414fff.png" tvg-country="SE" group-title="4 Sports EN",Pluto TV Handboll Highlights
@@ -467,6 +471,8 @@ http://37.49.224.5/stream/3/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8ab1ed7a862184b0.png" tvg-country="UK" group-title="4 Sports EN",TNT Sports 4
 http://37.49.224.5/stream/4/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcce961ec840aa5c.png" tvg-country="FR" group-title="4 Sports EN",Trace Sport Stars (SD)
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dcce961ec840aa5c.png" tvg-country="FR" group-title="4 Sports EN",Trace Sport Stars [1080p]
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -1041,7 +1047,7 @@ https://live.zitata.tv/direct-hls/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b44318591b9ba98e.png" tvg-country="FR" group-title="Infos FR",Africa 24 [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b74389f14ca231b3.png" tvg-country="FR" group-title="Infos FR",Africa 24 Sport [1080p]
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5456c84c354406bf.png" tvg-country="FR" group-title="Infos FR",Africa 24 Sport [1080p]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eaaea50206ed8fd0.png" tvg-country="FR" group-title="Infos FR",Africanews French [720p]
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
