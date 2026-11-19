@@ -30,6 +30,7 @@ TZ = ZoneInfo("Europe/Paris")
 PREFIX = "iptvfr_"
 CATALOG = "chaines"
 PANEL_LINES, PAGE_LINES = 5, 12   # programmes listed in the side panel / on the channel page
+TITLE_MAX, LINE_MIN = 28, 32      # entry width, see schedule()
 DAYS = ["lun.", "mar.", "mer.", "jeu.", "ven.", "sam.", "dim."]
 
 
@@ -64,8 +65,11 @@ def schedule(progs, now, limit):
     for start, _, title, _ in progs[:limit]:
         local = start.astimezone(TZ)
         day = "" if local.date() == now.astimezone(TZ).date() else DAYS[local.weekday()] + " "
-        title = title if len(title) <= 60 else title[:59].rstrip() + "…"
-        lines.append(f"{'▶' if start <= now else '•'} {day}{local:%H:%M}  {title}")
+        title = title if len(title) <= TITLE_MAX else title[:TITLE_MAX - 1].rstrip() + "…"
+        line = f"{'▶' if start <= now else '•'} {day}{local:%H:%M}  {title}"
+        # Stremio's side panel ignores line breaks. Unbreakable spaces keep an entry in one
+        # piece, and padding makes it too wide for two entries to share a line.
+        lines.append(line.replace(" ", "\u00a0") + "\u2007" * max(0, LINE_MIN - len(line)))
     return "\n".join(lines)
 
 
