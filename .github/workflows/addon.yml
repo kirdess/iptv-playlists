@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "7 * * * *"     # every hour, so the schedules shown in Stremio stay current
   workflow_dispatch:
+  push:
+    paths: ["addon.py", ".github/workflows/addon.yml"]
   workflow_run:             # and right after the playlists are rebuilt
     workflows: ["Build playlists"]
     types: [completed]
