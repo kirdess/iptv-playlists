@@ -198,7 +198,7 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/460edb9b6b6485b0.png" tvg-country="IN" group-title="4 Sports EN",Eurosport (HD) [1080p]
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+http://116.90.120.149:8000/play/a118/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png" tvg-country="FR" group-title="4 Sports EN",Eurosport 1 (UK) [720p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9258b96c7f06b638.png" tvg-country="FR" group-title="4 Sports EN",Eurosport 2 (UK)
@@ -217,8 +217,8 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="4 Sports EN",FIFA+ (United States) [720p]
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="4 Sports EN",FIFA+ [720p]
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="4 Sports EN",FIFA+ [1080p]
+https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7b57d60c3a619ac3.png" tvg-country="UK" group-title="4 Sports EN",FIFA+ Women [720p]
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2de3102dd03f97a9.png" tvg-country="CA" group-title="4 Sports EN",Fight Network [1080p]
@@ -287,8 +287,8 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 http://31.148.48.15/M1_Global/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a5628e35a6513b84.png" tvg-country="RU" group-title="4 Sports EN",MMA-TV.com [1080p]
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 tvg-id="MonsterJam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png" tvg-country="US" group-title="4 Sports EN",Monster Jam [720p]
-https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png" tvg-country="US" group-title="4 Sports EN",Monster Jam [1080p]
+https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068176ea690847ef.png" tvg-country="US" group-title="4 Sports EN",MSG [720p]
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f02dd7ea4180c5d.png" tvg-country="UK" group-title="4 Sports EN",MUTV [720p]
@@ -323,6 +323,8 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PickleballNow.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40983a8ffbf56b37.png" tvg-country="IN" group-title="4 Sports EN",Pickleball Now [720p] {Geo-blocked}
 https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
+#EXTINF:-1 tvg-id="PickleballTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/835d0612bacfcb45.png" tvg-country="US" group-title="4 Sports EN",Pickleball TV [1080p] {Geo-blocked}
+https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c33a94b5ca6d3081.png" tvg-country="US" group-title="4 Sports EN",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d5483148b9414fff.png" tvg-country="SE" group-title="4 Sports EN",Pluto TV Handboll Highlights
@@ -436,8 +438,8 @@ http://stream.mcquack.net/212/index.m3u8
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d844344ef0e6d10a.png" tvg-country="US" group-title="4 Sports EN",SportsGrid [1080p]
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png" tvg-country="US" group-title="4 Sports EN",Stadium [720p]
-https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png" tvg-country="US" group-title="4 Sports EN",Stadium [1080p]
+https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/efe5a91241f8e131.png" tvg-country="US" group-title="4 Sports EN",Strongman (UK) [720p]
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d6bc646bbf626558.png" tvg-country="UK" group-title="4 Sports EN",Strongman Champions League [1080p]
@@ -448,7 +450,7 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bdbccee5afa85b77.png" tvg-country="LK" group-title="4 Sports EN",Talent TV [720p]
 http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/522dc810c19cd88b.png" tvg-country="UK" group-title="4 Sports EN",talkSPORT [1080p]
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/049c6de15d58ee81.png" tvg-country="UK" group-title="4 Sports EN",talkSPORT [1080p]
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPSports.ph" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8d5f58d6d4d484b3.png" tvg-country="PH" group-title="4 Sports EN",TAP Sports [1080p] {Geo-blocked}
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
@@ -675,8 +677,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playli
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediesCultes.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4da581e1d2f1068f.png" tvg-country="DE" group-title="Comédie FR",Pluto TV Comedies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
-#EXTINF:-1 tvg-id="Ridiculousness.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/236eff8d5e196fcc.png" tvg-country="DE" group-title="Comédie FR",Ridiculousness [720p]
-https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/139cb0cd81888cfa.png" tvg-country="DE" group-title="Cuisine FR",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7d9d747a8ec0633e.png" tvg-country="FR" group-title="Cuisine FR",TV5MONDE Chefs [1080p]
@@ -775,8 +775,6 @@ https://tv2-stream.rtnb.bi/hls/master.m3u8
 http://192.99.186.30/stream/250/index.m3u8
 #EXTINF:-1 tvg-id="TalTV.ne" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7827412178faec76.png" tvg-country="NE" group-title="Divertissement FR",Tal TV [1080p]
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
-#EXTINF:-1 tvg-id="TeenMom.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29fef6876492ed57.png" tvg-country="DE" group-title="Divertissement FR",Teen Mom (FR) [720p]
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/59ee6d52a45bfecd.png" tvg-country="US" group-title="Divertissement FR",Tele Boston [480p]
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement FR",TeleMIX [720p]
@@ -1206,8 +1204,6 @@ https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToons.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/f74b68e427fdd6f3.png" tvg-country="DE" group-title="Jeunesse FR",Pluto TV Toons (FR) [720p]
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
-#EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df25348d84d378f0.png" tvg-country="DE" group-title="Jeunesse FR",Tortues Ninja TV [720p]
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="FashionTV.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/027ed439ea5c4324.png" tvg-country="RU" group-title="Lifestyle FR",FashionTV [1080p]
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/027ed439ea5c4324.png" tvg-country="IN" group-title="Lifestyle FR",FashionTV [576p]
@@ -1289,38 +1285,70 @@ https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live
 #EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca7e1324a6bac860.png" tvg-country="GP" group-title="Musique FR",TMA [1080p]
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4081f8b4c7e24ff0.png" tvg-country="FR" group-title="Musique FR",Trace Africa [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df01822bea753fd1.png" tvg-country="FR" group-title="Musique FR",Trace Afrikora [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd03b47b38be48af.png" tvg-country="FR" group-title="Musique FR",Trace Ayiti [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a7e9626ccc264cb3.png" tvg-country="FR" group-title="Musique FR",Trace Caribbean [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Musique FR",Trace Gospel (Southern Africa) [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Musique FR",Trace Gospel [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/189ee74d3b920687.png" tvg-country="FR" group-title="Musique FR",Trace Ivoire [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/36805754f3eee5f9.png" tvg-country="FR" group-title="Musique FR",Trace Kitoko [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3b22a76e25481675.png" tvg-country="FR" group-title="Musique FR",Trace Latina [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMboa.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbded56ef3ed38a3.png" tvg-country="FR" group-title="Musique FR",Trace Mboa [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d8153951aced7553.png" tvg-country="FR" group-title="Musique FR",Trace Muzika [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique FR",Trace Urban (Africa Franco) [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique FR",Trace Urban (Caribbean And Indian Ocean) [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique FR",Trace Urban (HD) [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique FR",Trace Urban (Southern Africa) [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png" tvg-country="FR" group-title="Musique FR",Trace Urban [1080p]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/638baed01a4a9d62.png" tvg-country="FR" group-title="Musique FR",Trace Vanilla Islands [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c5f162754c68fd6b.png" tvg-country="FR" group-title="Nature & Plein air FR",Chasse & Peche [540p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
@@ -1411,8 +1439,12 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 #EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e8605a2ffd9eadcc.png" tvg-country="IT" group-title="Religion FR",Telepace 4 [1080p]
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Religion FR",Trace Gospel (Southern Africa) [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png" tvg-country="FR" group-title="Religion FR",Trace Gospel [1080p]
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1aafb8dd7b5fc23b.png" tvg-country="MQ" group-title="Religion FR",TV Famille [720p]
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8

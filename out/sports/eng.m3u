@@ -59,7 +59,7 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/460edb9b6b6485b0.png" tvg-country="IN" group-title="Sports English",Eurosport (HD) [1080p]
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+http://116.90.120.149:8000/play/a118/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png" tvg-country="FR" group-title="Sports English",Eurosport 1 (UK) [720p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9258b96c7f06b638.png" tvg-country="FR" group-title="Sports English",Eurosport 2 (UK)
@@ -78,8 +78,8 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="Sports English",FIFA+ (United States) [720p]
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="Sports English",FIFA+ [720p]
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png" tvg-country="UK" group-title="Sports English",FIFA+ [1080p]
+https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7b57d60c3a619ac3.png" tvg-country="UK" group-title="Sports English",FIFA+ Women [720p]
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2de3102dd03f97a9.png" tvg-country="CA" group-title="Sports English",Fight Network [1080p]
@@ -148,8 +148,8 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 http://31.148.48.15/M1_Global/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a5628e35a6513b84.png" tvg-country="RU" group-title="Sports English",MMA-TV.com [1080p]
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 tvg-id="MonsterJam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png" tvg-country="US" group-title="Sports English",Monster Jam [720p]
-https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png" tvg-country="US" group-title="Sports English",Monster Jam [1080p]
+https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068176ea690847ef.png" tvg-country="US" group-title="Sports English",MSG [720p]
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f02dd7ea4180c5d.png" tvg-country="UK" group-title="Sports English",MUTV [720p]
@@ -184,6 +184,8 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PickleballNow.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40983a8ffbf56b37.png" tvg-country="IN" group-title="Sports English",Pickleball Now [720p] {Geo-blocked}
 https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
+#EXTINF:-1 tvg-id="PickleballTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/835d0612bacfcb45.png" tvg-country="US" group-title="Sports English",Pickleball TV [1080p] {Geo-blocked}
+https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCompetition.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c33a94b5ca6d3081.png" tvg-country="US" group-title="Sports English",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d5483148b9414fff.png" tvg-country="SE" group-title="Sports English",Pluto TV Handboll Highlights
@@ -297,8 +299,8 @@ http://stream.mcquack.net/212/index.m3u8
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d844344ef0e6d10a.png" tvg-country="US" group-title="Sports English",SportsGrid [1080p]
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png" tvg-country="US" group-title="Sports English",Stadium [720p]
-https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png" tvg-country="US" group-title="Sports English",Stadium [1080p]
+https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/efe5a91241f8e131.png" tvg-country="US" group-title="Sports English",Strongman (UK) [720p]
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d6bc646bbf626558.png" tvg-country="UK" group-title="Sports English",Strongman Champions League [1080p]
@@ -309,7 +311,7 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bdbccee5afa85b77.png" tvg-country="LK" group-title="Sports English",Talent TV [720p]
 http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/522dc810c19cd88b.png" tvg-country="UK" group-title="Sports English",talkSPORT [1080p]
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/049c6de15d58ee81.png" tvg-country="UK" group-title="Sports English",talkSPORT [1080p]
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPSports.ph" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8d5f58d6d4d484b3.png" tvg-country="PH" group-title="Sports English",TAP Sports [1080p] {Geo-blocked}
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8

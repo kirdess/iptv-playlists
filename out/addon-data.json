@@ -1147,7 +1147,7 @@
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/460edb9b6b6485b0.png",
 "logo_src": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EUROSPORT_HD/images/LOGO_HD/image.png",
-"url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+"url": "http://116.90.120.149:8000/play/a118/index.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -1262,12 +1262,12 @@
 {
 "key": "FIFAPlus.uk@English",
 "id": "FIFAPlus.uk",
-"name": "FIFA+ [720p]",
+"name": "FIFA+ [1080p]",
 "plain": "FIFA+",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6ebca4580c052324.png",
 "logo_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
-"url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
+"url": "https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -1670,12 +1670,12 @@
 {
 "key": "MonsterJam.us@SD",
 "id": "MonsterJam.us",
-"name": "Monster Jam [720p]",
+"name": "Monster Jam [1080p]",
 "plain": "Monster Jam",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png",
 "logo_src": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
-"url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
+"url": "https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -1880,6 +1880,18 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/40983a8ffbf56b37.png",
 "logo_src": "https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png",
 "url": "https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "PickleballTV.us@HD",
+"id": "PickleballTV.us",
+"name": "Pickleball TV [1080p] {Geo-blocked}",
+"plain": "Pickleball TV",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/835d0612bacfcb45.png",
+"logo_src": "https://pickleballtv.com/wp-content/themes/bootscore-child-main/img/logo/full-logo.svg",
+"url": "https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -2498,12 +2510,12 @@
 {
 "key": "Stadium.us@SD",
 "id": "Stadium.us",
-"name": "Stadium [720p]",
+"name": "Stadium [1080p]",
 "plain": "Stadium",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png",
 "logo_src": "https://i.imgur.com/SnZOiER.png",
-"url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+"url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -2573,7 +2585,7 @@
 "name": "talkSPORT [1080p]",
 "plain": "talkSPORT",
 "group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/522dc810c19cd88b.png",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/049c6de15d58ee81.png",
 "logo_src": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png",
 "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
 "referrer": null,
@@ -3912,18 +3924,6 @@
 "user_agent": null
 },
 {
-"key": "Ridiculousness.de@FR",
-"id": "Ridiculousness.de",
-"name": "Ridiculousness [720p]",
-"plain": "Ridiculousness",
-"group": "Comédie FR",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/236eff8d5e196fcc.png",
-"logo_src": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
-"url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
 "key": "PlutoTVCuisine.de@FR",
 "id": "PlutoTVCuisine.de",
 "name": "Pluto TV Cuisine",
@@ -4484,18 +4484,6 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7827412178faec76.png",
 "logo_src": "https://i.imgur.com/KWMP0t1.png",
 "url": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "TeenMom.de@FR",
-"id": "TeenMom.de",
-"name": "Teen Mom (FR) [720p]",
-"plain": "Teen Mom",
-"group": "Divertissement FR",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/29fef6876492ed57.png",
-"logo_src": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-"url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -6960,18 +6948,6 @@
 "user_agent": null
 },
 {
-"key": "TortuesNinjaTV.de@FR",
-"id": "TortuesNinjaTV.de",
-"name": "Tortues Ninja TV [720p]",
-"plain": "Tortues Ninja TV",
-"group": "Jeunesse FR",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df25348d84d378f0.png",
-"logo_src": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-"url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
 "key": "FashionTV.ru@SD",
 "id": "FashionTV.ru",
 "name": "FashionTV [1080p]",
@@ -7460,8 +7436,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4081f8b4c7e24ff0.png",
 "logo_src": "https://i.imgur.com/kPUkoS7.png",
 "url": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceAfrikora.fr@SD",
@@ -7472,8 +7448,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/df01822bea753fd1.png",
 "logo_src": "https://i.imgur.com/CQDdnhp.png",
 "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceAyiti.fr@SD",
@@ -7484,8 +7460,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dd03b47b38be48af.png",
 "logo_src": "https://i.imgur.com/KkJ6fet.png",
 "url": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceCaribbean.fr@SD",
@@ -7496,8 +7472,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a7e9626ccc264cb3.png",
 "logo_src": "https://i.imgur.com/ZHD7Vxy.png",
 "url": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceGospel.fr@SouthernAfrica",
@@ -7508,8 +7484,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png",
 "logo_src": "https://i.imgur.com/X0UmU3K.png",
 "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceGospel.fr@SD",
@@ -7520,8 +7496,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png",
 "logo_src": "https://i.imgur.com/X0UmU3K.png",
 "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceIvoire.fr@SD",
@@ -7532,8 +7508,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/189ee74d3b920687.png",
 "logo_src": "https://i.imgur.com/W2l3rVx.png",
 "url": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceKitoko.fr@SD",
@@ -7544,8 +7520,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/36805754f3eee5f9.png",
 "logo_src": "https://i.imgur.com/q6vkMrU.png",
 "url": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceLatina.fr@SD",
@@ -7556,8 +7532,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3b22a76e25481675.png",
 "logo_src": "https://i.imgur.com/CUVAi4u.png",
 "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceMboa.fr@SD",
@@ -7568,8 +7544,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbded56ef3ed38a3.png",
 "logo_src": "https://i.imgur.com/cYwkCj2.png",
 "url": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceMuzika.fr@SD",
@@ -7580,8 +7556,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d8153951aced7553.png",
 "logo_src": "https://i.imgur.com/xsEGIXO.png",
 "url": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceUrban.fr@AfricaFranco",
@@ -7592,8 +7568,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png",
 "logo_src": "https://i.imgur.com/DLIbUMx.png",
 "url": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceUrban.fr@CaribbeanAndIndianOcean",
@@ -7604,8 +7580,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png",
 "logo_src": "https://i.imgur.com/DLIbUMx.png",
 "url": "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceUrban.fr@HD",
@@ -7616,8 +7592,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png",
 "logo_src": "https://i.imgur.com/DLIbUMx.png",
 "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceUrban.fr@SouthernAfrica",
@@ -7628,8 +7604,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a241ca58144a659.png",
 "logo_src": "https://i.imgur.com/DLIbUMx.png",
 "url": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceUrban.fr@SD",
@@ -7652,8 +7628,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/638baed01a4a9d62.png",
 "logo_src": "https://i.imgur.com/ngF58fe.png",
 "url": "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "ChassePeche.fr@SD",
@@ -8192,8 +8168,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png",
 "logo_src": "https://i.imgur.com/X0UmU3K.png",
 "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TraceGospel.fr@SD",
@@ -8204,8 +8180,8 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5ac09bf5eabf4453.png",
 "logo_src": "https://i.imgur.com/X0UmU3K.png",
 "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
-"referrer": null,
-"user_agent": null
+"referrer": "https://trace.plus",
+"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
 "key": "TVFamille.mq@SD",
