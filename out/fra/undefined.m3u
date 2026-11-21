@@ -43,7 +43,7 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9224de251b3bbffc.png" tvg-country="CM" group-title="Autres",My TV Channel [720p] {Not 24/7}
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5960cb3dfe22e170.png" tvg-country="FR" group-title="Autres",RMC Decouverte [1080p]
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a16f0c3c6e89f59.png" tvg-country="FR" group-title="Autres",RMC Decouverte [1080p]
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/438dc7f48dc86cbd.png" tvg-country="FR" group-title="Autres",RMC Story [1080p]
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8

@@ -40,9 +40,8 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/65024ad2530eeb96.png" tvg-country="DE" group-title="1 Films FR",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3624e5914a350461.png" tvg-country="FR" group-title="1 Films FR",Cine+ Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3624e5914a350461.png" tvg-country="FR" group-title="1 Films FR",Cine+ Classic [1080p]
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/716e8fb0274079a9.png" tvg-country="FR" group-title="1 Films FR",Cine+ Frisson [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/CineFrisson/index.m3u8
@@ -428,6 +427,14 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/77f79c653326d04f.png" tvg-country="US" group-title="4 Sports EN",Slopes TV [720p]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/78b17c7e2dff2557.png" tvg-country="IN" group-title="4 Sports EN",Sony Sports Ten 1 (HD) [1080p]
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/78b17c7e2dff2557.png" tvg-country="IN" group-title="4 Sports EN",Sony Sports Ten 1 [576p]
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23e9cb422ce52082.png" tvg-country="IN" group-title="4 Sports EN",Sony Sports Ten 2 (HD) [1080p]
+http://116.90.120.149:8000/play/a137/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b8c3743a00a341a5.png" tvg-country="IN" group-title="4 Sports EN",Sony Sports Ten 5 [576p]
+http://116.90.120.149:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9ccead1d419c8803.png" tvg-country="UA" group-title="4 Sports EN",Sport 1 Baltic [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
@@ -440,6 +447,10 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png" tvg-country="US" group-title="4 Sports EN",Stadium [1080p]
 https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/06edbd1e546deab4.png" tvg-country="IN" group-title="4 Sports EN",Star Sports 1 (HD) [1080p]
+http://116.90.120.149:8000/play/a11x/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1a86ba20e5f64c21.png" tvg-country="IN" group-title="4 Sports EN",Star Sports 2 (HD) [1080p]
+http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/efe5a91241f8e131.png" tvg-country="US" group-title="4 Sports EN",Strongman (UK) [720p]
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d6bc646bbf626558.png" tvg-country="UK" group-title="4 Sports EN",Strongman Champions League [1080p]
@@ -498,6 +509,8 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7462e75886d3d1e4.png" tvg-country="US" group-title="4 Sports EN",Unbeaten [1080p]
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7940b8fc39905f19.png" tvg-country="IN" group-title="4 Sports EN",Unite8 Sports 2 (HD) [1080p]
+http://116.90.120.149:8000/play/a129/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1949619fa3a22bb4.png" tvg-country="US" group-title="4 Sports EN",USA Network [720p]
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a12fab8721ed70a.png" tvg-country="RO" group-title="4 Sports EN",Voyo Events [576i] {Not 24/7}
@@ -609,7 +622,7 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9224de251b3bbffc.png" tvg-country="CM" group-title="Autres FR",My TV Channel [720p] {Not 24/7}
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5960cb3dfe22e170.png" tvg-country="FR" group-title="Autres FR",RMC Decouverte [1080p]
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a16f0c3c6e89f59.png" tvg-country="FR" group-title="Autres FR",RMC Decouverte [1080p]
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/438dc7f48dc86cbd.png" tvg-country="FR" group-title="Autres FR",RMC Story [1080p]
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
@@ -779,7 +792,7 @@ https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement FR",TeleMIX [720p]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement FR",TF1 [1080p]
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dac2fd38f08c56a9.png" tvg-country="FR" group-title="Divertissement FR",TF1 [1080p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7053fa82494d1652.png" tvg-country="CM" group-title="Divertissement FR",TR24 Television [720p]
 https://stream.it-innov.com/tr24/index.m3u8
@@ -1175,8 +1188,12 @@ https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/149930b6d8ee08a6.png" tvg-country="FR" group-title="Jeunesse FR",Boomerang (HD) [720p]
 http://41.205.93.154/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c44ef6d40bc86a10.png" tvg-country="FR" group-title="Jeunesse FR",Canal J [1080p]
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a23edd3ac58e05b.png" tvg-country="US" group-title="Jeunesse FR",Detective Conan (France) [720p]
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4f2141990f69df99.png" tvg-country="FR" group-title="Jeunesse FR",Disney Channel
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/03b538478223e3ed.png" tvg-country="FR" group-title="Jeunesse FR",France 4 [1080p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/33fa44071223d15a.png" tvg-country="FR" group-title="Jeunesse FR",Gulli [1080p]

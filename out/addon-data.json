@@ -242,14 +242,14 @@
 {
 "key": "CinePlusClassic.fr@SD",
 "id": "CinePlusClassic.fr",
-"name": "Cine+ Classic",
+"name": "Cine+ Classic [1080p]",
 "plain": "Cine+ Classic",
 "group": "1 Films FR",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3624e5914a350461.png",
 "logo_src": "https://i.imgur.com/y2zeLS3.jpeg",
-"url": "http://99.27.51.147/CineClassic/index.m3u8",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027",
 "referrer": null,
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+"user_agent": null
 },
 {
 "key": "CinePlusFrisson.fr@SD",
@@ -2460,6 +2460,54 @@
 "user_agent": null
 },
 {
+"key": "SonySportsTen1.in@HD",
+"id": "SonySportsTen1.in",
+"name": "Sony Sports Ten 1 (HD) [1080p]",
+"plain": "Sony Sports Ten 1",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/78b17c7e2dff2557.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+"url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "SonySportsTen1.in@SD",
+"id": "SonySportsTen1.in",
+"name": "Sony Sports Ten 1 [576p]",
+"plain": "Sony Sports Ten 1",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/78b17c7e2dff2557.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+"url": "http://116.90.120.149:8000/play/a126/index.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "SonySportsTen2.in@HD",
+"id": "SonySportsTen2.in",
+"name": "Sony Sports Ten 2 (HD) [1080p]",
+"plain": "Sony Sports Ten 2",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23e9cb422ce52082.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+"url": "http://116.90.120.149:8000/play/a137/index.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "SonySportsTen5.in@SD",
+"id": "SonySportsTen5.in",
+"name": "Sony Sports Ten 5 [576p]",
+"plain": "Sony Sports Ten 5",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b8c3743a00a341a5.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
+"url": "http://116.90.120.149:8000/play/a117/index.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
 "key": "Sport1Baltic.ua@SD",
 "id": "Sport1Baltic.ua",
 "name": "Sport 1 Baltic [1080p]",
@@ -2516,6 +2564,30 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png",
 "logo_src": "https://i.imgur.com/SnZOiER.png",
 "url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "StarSports1.in@HD",
+"id": "StarSports1.in",
+"name": "Star Sports 1 (HD) [1080p]",
+"plain": "Star Sports 1",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/06edbd1e546deab4.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540",
+"url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "StarSports2.in@HD",
+"id": "StarSports2.in",
+"name": "Star Sports 2 (HD) [1080p]",
+"plain": "Star Sports 2",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1a86ba20e5f64c21.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
+"url": "http://116.90.120.149:8000/play/a120/index.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -2852,6 +2924,18 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7462e75886d3d1e4.png",
 "logo_src": "https://i.imgur.com/LmkNt3v.png",
 "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "Unite8Sports2.in@HD",
+"id": "Unite8Sports2.in",
+"name": "Unite8 Sports 2 (HD) [1080p]",
+"plain": "Unite8 Sports 2",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7940b8fc39905f19.png",
+"logo_src": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+"url": "http://116.90.120.149:8000/play/a129/index.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -3521,8 +3605,8 @@
 "name": "RMC Decouverte [1080p]",
 "plain": "RMC Decouverte",
 "group": "Autres FR",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5960cb3dfe22e170.png",
-"logo_src": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8a16f0c3c6e89f59.png",
+"logo_src": "https://fr.themedialeader.com/wp-content/uploads/2026/01/RMCD-LOGO-BLANC-1LIGNE-COLOR-BG-2025-RVB.png",
 "url": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8",
 "referrer": null,
 "user_agent": null
@@ -4517,8 +4601,8 @@
 "name": "TF1 [1080p]",
 "plain": "TF1",
 "group": "Divertissement FR",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png",
-"logo_src": "https://i.imgur.com/QxHt9NC.png",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dac2fd38f08c56a9.png",
+"logo_src": "https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-a19dbf-0@1x.avif",
 "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8",
 "referrer": null,
 "user_agent": null
@@ -6780,6 +6864,18 @@
 "user_agent": null
 },
 {
+"key": "CanalJ.fr@SD",
+"id": "CanalJ.fr",
+"name": "Canal J [1080p]",
+"plain": "Canal J",
+"group": "Jeunesse FR",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c44ef6d40bc86a10.png",
+"logo_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
+"referrer": null,
+"user_agent": null
+},
+{
 "key": "DetectiveConan.us@France",
 "id": "DetectiveConan.us",
 "name": "Detective Conan (France) [720p]",
@@ -6788,6 +6884,18 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a23edd3ac58e05b.png",
 "logo_src": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
 "url": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "DisneyChannel.fr@SD",
+"id": "DisneyChannel.fr",
+"name": "Disney Channel",
+"plain": "Disney Channel",
+"group": "Jeunesse FR",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4f2141990f69df99.png",
+"logo_src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5",
 "referrer": null,
 "user_agent": null
 },

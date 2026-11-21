@@ -69,7 +69,7 @@ https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ecdc5b96479d213a.png" tvg-country="US" group-title="Divertissement",TeleMIX [720p]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/eed97d61ad0d98e0.png" tvg-country="FR" group-title="Divertissement",TF1 [1080p]
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/dac2fd38f08c56a9.png" tvg-country="FR" group-title="Divertissement",TF1 [1080p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7053fa82494d1652.png" tvg-country="CM" group-title="Divertissement",TR24 Television [720p]
 https://stream.it-innov.com/tr24/index.m3u8
