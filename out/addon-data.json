@@ -710,7 +710,7 @@
 {
 "key": "Eurosport1.fr@France",
 "id": "Eurosport1.fr",
-"name": "Eurosport 1",
+"name": "Eurosport 1 [1080p]",
 "plain": "Eurosport 1",
 "group": "3 Sports FR",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/4d386824c55a36aa.png",
@@ -1140,18 +1140,6 @@
 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 },
 {
-"key": "Eurosport.in@HD",
-"id": "Eurosport.in",
-"name": "Eurosport (HD) [1080p]",
-"plain": "Eurosport",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/460edb9b6b6485b0.png",
-"logo_src": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EUROSPORT_HD/images/LOGO_HD/image.png",
-"url": "http://116.90.120.149:8000/play/a118/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
 "key": "Eurosport1.fr@UK",
 "id": "Eurosport1.fr",
 "name": "Eurosport 1 (UK) [720p]",
@@ -1166,7 +1154,7 @@
 {
 "key": "Eurosport2.fr@UK",
 "id": "Eurosport2.fr",
-"name": "Eurosport 2 (UK)",
+"name": "Eurosport 2 (UK) [540p]",
 "plain": "Eurosport 2",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9258b96c7f06b638.png",
@@ -1663,7 +1651,7 @@
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a5628e35a6513b84.png",
 "logo_src": "https://i.imgur.com/QhdxNsB.png",
-"url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+"url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -2460,54 +2448,6 @@
 "user_agent": null
 },
 {
-"key": "SonySportsTen1.in@HD",
-"id": "SonySportsTen1.in",
-"name": "Sony Sports Ten 1 (HD) [1080p]",
-"plain": "Sony Sports Ten 1",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/78b17c7e2dff2557.png",
-"logo_src": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
-"url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "SonySportsTen1.in@SD",
-"id": "SonySportsTen1.in",
-"name": "Sony Sports Ten 1 [576p]",
-"plain": "Sony Sports Ten 1",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/78b17c7e2dff2557.png",
-"logo_src": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
-"url": "http://116.90.120.149:8000/play/a126/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "SonySportsTen2.in@HD",
-"id": "SonySportsTen2.in",
-"name": "Sony Sports Ten 2 (HD) [1080p]",
-"plain": "Sony Sports Ten 2",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23e9cb422ce52082.png",
-"logo_src": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
-"url": "http://116.90.120.149:8000/play/a137/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "SonySportsTen5.in@SD",
-"id": "SonySportsTen5.in",
-"name": "Sony Sports Ten 5 [576p]",
-"plain": "Sony Sports Ten 5",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b8c3743a00a341a5.png",
-"logo_src": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
-"url": "http://116.90.120.149:8000/play/a117/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
 "key": "Sport1Baltic.ua@SD",
 "id": "Sport1Baltic.ua",
 "name": "Sport 1 Baltic [1080p]",
@@ -2564,30 +2504,6 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png",
 "logo_src": "https://i.imgur.com/SnZOiER.png",
 "url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "StarSports1.in@HD",
-"id": "StarSports1.in",
-"name": "Star Sports 1 (HD) [1080p]",
-"plain": "Star Sports 1",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/06edbd1e546deab4.png",
-"logo_src": "https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540",
-"url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "StarSports2.in@HD",
-"id": "StarSports2.in",
-"name": "Star Sports 2 (HD) [1080p]",
-"plain": "Star Sports 2",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1a86ba20e5f64c21.png",
-"logo_src": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
-"url": "http://116.90.120.149:8000/play/a120/index.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -2928,18 +2844,6 @@
 "user_agent": null
 },
 {
-"key": "Unite8Sports2.in@HD",
-"id": "Unite8Sports2.in",
-"name": "Unite8 Sports 2 (HD) [1080p]",
-"plain": "Unite8 Sports 2",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7940b8fc39905f19.png",
-"logo_src": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
-"url": "http://116.90.120.149:8000/play/a129/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
 "key": "USANetwork.us@East",
 "id": "USANetwork.us",
 "name": "USA Network [720p]",
@@ -3139,7 +3043,7 @@
 "group": "5 Sports de combat",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a5628e35a6513b84.png",
 "logo_src": "https://i.imgur.com/QhdxNsB.png",
-"url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+"url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -3960,6 +3864,18 @@
 "user_agent": null
 },
 {
+"key": "ComediePlus.fr@SD",
+"id": "ComediePlus.fr",
+"name": "Comedie+ [1080p]",
+"plain": "Comedie+",
+"group": "Comédie FR",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6c79125f659b794d.png",
+"logo_src": "https://i.imgur.com/ArgX0Af.png",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b",
+"referrer": null,
+"user_agent": null
+},
+{
 "key": "ComedyCentral.fr@HD",
 "id": "ComedyCentral.fr",
 "name": "Comedy Central (HD) [720p]",
@@ -4260,6 +4176,18 @@
 "user_agent": null
 },
 {
+"key": "CanalPlus.fr@SD",
+"id": "CanalPlus.fr",
+"name": "Canal+",
+"plain": "Canal+",
+"group": "Divertissement FR",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d5a27bf85deecd08.png",
+"logo_src": "https://i.imgur.com/5HcyMnW.png",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de",
+"referrer": null,
+"user_agent": null
+},
+{
 "key": "Carac1.ch@SD",
 "id": "Carac1.ch",
 "name": "Carac 1 [1080p]",
@@ -4310,7 +4238,7 @@
 {
 "key": "Carac5.ch@SD",
 "id": "Carac5.ch",
-"name": "Carac 5",
+"name": "Carac 5 [1080p]",
 "plain": "Carac 5",
 "group": "Divertissement FR",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/82e4025bc9a76baa.png",
@@ -4790,7 +4718,7 @@
 {
 "key": "RLPROTV.cd@SD",
 "id": "RLPROTV.cd",
-"name": "RL PRO TV",
+"name": "RL PRO TV [480p]",
 "plain": "RL PRO TV",
 "group": "Documentaires FR",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b0a4e8cce1b4cda7.png",
@@ -6427,7 +6355,7 @@
 "group": "Infos FR",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/1617e0907ea3c8fd.png",
 "logo_src": "https://i.imgur.com/BwhledK.png",
-"url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
+"url": "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -7274,7 +7202,7 @@
 {
 "key": "FunVision.be@SD",
 "id": "FunVision.be",
-"name": "Fun Vision",
+"name": "Fun Vision [1080p]",
 "plain": "Fun Vision",
 "group": "Musique FR",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/3a3af452c41e8a4b.png",

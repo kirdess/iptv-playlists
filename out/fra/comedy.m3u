@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/kirdess/iptv-playlists/epg/guide.xml.gz" x-tvg-url="https://raw.githubusercontent.com/kirdess/iptv-playlists/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6c79125f659b794d.png" tvg-country="FR" group-title="Comédie",Comedie+ [1080p]
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b7cb2ea126d629a6.png" tvg-country="FR" group-title="Comédie",Comedy Central (HD) [720p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b7cb2ea126d629a6.png" tvg-country="FR" group-title="Comédie",Comedy Central [720p]
