@@ -1346,12 +1346,12 @@
 {
 "key": "Formula1AntenaPlay.ro@SD",
 "id": "Formula1AntenaPlay.ro",
-"name": "Formula 1 AntenaPlay [576i] {Not 24/7}",
+"name": "Formula 1 AntenaPlay [576p] {Not 24/7}",
 "plain": "Formula 1 AntenaPlay",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/41674d77437c0fb5.png",
 "logo_src": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
-"url": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8",
+"url": "https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -1363,7 +1363,7 @@
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068955ffeeb6ae9a.png",
 "logo_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-"url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+"url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -1620,18 +1620,6 @@
 "user_agent": null
 },
 {
-"key": "MLBStrikeZone.us@SD",
-"id": "MLBStrikeZone.us",
-"name": "MLB Strike Zone [720p]",
-"plain": "MLB Strike Zone",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ae290e290e36711c.png",
-"logo_src": "https://i.imgur.com/uMI1ySO.png",
-"url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
 "key": "MMATV.us@SD",
 "id": "MMATV.us",
 "name": "MMA TV [576p]",
@@ -1664,18 +1652,6 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png",
 "logo_src": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
 "url": "https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8",
-"referrer": null,
-"user_agent": null
-},
-{
-"key": "MSG.us@SD",
-"id": "MSG.us",
-"name": "MSG [720p]",
-"plain": "MSG",
-"group": "4 Sports EN",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068176ea690847ef.png",
-"logo_src": "https://i.imgur.com/SEQFh0P.png",
-"url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -1742,12 +1718,12 @@
 {
 "key": "NFLNetwork.us@SD",
 "id": "NFLNetwork.us",
-"name": "NFL Network [720p]",
+"name": "NFL Network [576p]",
 "plain": "NFL Network",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2818190a92879b31.png",
 "logo_src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-"url": "http://198.58.104.90:8989/nfl/index.m3u8",
+"url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
 "referrer": null,
 "user_agent": null
 },
@@ -4776,6 +4752,18 @@
 "user_agent": null
 },
 {
+"key": "2MMonde.ma@HD",
+"id": "2MMonde.ma",
+"name": "2M Monde (HD)",
+"plain": "2M Monde",
+"group": "Généraliste FR",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png",
+"logo_src": "https://i.imgur.com/MvpntzA.png",
+"url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
 "key": "2MMonde.ma@SD",
 "id": "2MMonde.ma",
 "name": "2M Monde [360p]",
@@ -6797,7 +6785,7 @@
 "name": "Canal J [1080p]",
 "plain": "Canal J",
 "group": "Jeunesse FR",
-"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c44ef6d40bc86a10.png",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/53d3ab9706507361.png",
 "logo_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
 "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
 "referrer": null,

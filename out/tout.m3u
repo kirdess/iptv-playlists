@@ -231,10 +231,10 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c6d02c4719b3aeb5.png" tvg-country="US" group-title="4 Sports EN",FloRacing [1080p]
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/41674d77437c0fb5.png" tvg-country="RO" group-title="4 Sports EN",Formula 1 AntenaPlay [576i] {Not 24/7}
-https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/41674d77437c0fb5.png" tvg-country="RO" group-title="4 Sports EN",Formula 1 AntenaPlay [576p] {Not 24/7}
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068955ffeeb6ae9a.png" tvg-country="US" group-title="4 Sports EN",Fox Deportes [720p]
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d728ffcc3e5b2c25.png" tvg-country="US" group-title="4 Sports EN",Fox Sports 1 [720p]
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/e3de0790d0b3a5cf.png" tvg-country="US" group-title="4 Sports EN",Fox Sports 2 [720p]
@@ -278,16 +278,12 @@ https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7dcf986bb2549ec0.png" tvg-country="US" group-title="4 Sports EN",MLB [720p]
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
-#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ae290e290e36711c.png" tvg-country="US" group-title="4 Sports EN",MLB Strike Zone [720p]
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MMATV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/aac5f6c829ccec96.png" tvg-country="US" group-title="4 Sports EN",MMA TV [576p]
 http://31.148.48.15/M1_Global/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a5628e35a6513b84.png" tvg-country="RU" group-title="4 Sports EN",MMA-TV.com [1080p]
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/466fb48adb24e647.png" tvg-country="US" group-title="4 Sports EN",Monster Jam [1080p]
 https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/068176ea690847ef.png" tvg-country="US" group-title="4 Sports EN",MSG [720p]
-http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/7f02dd7ea4180c5d.png" tvg-country="UK" group-title="4 Sports EN",MUTV [720p]
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5487fa879ca41478.png" tvg-country="IT" group-title="4 Sports EN",Nautical Channel [720p]
@@ -298,8 +294,8 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8322908020049314.png" tvg-country="US" group-title="4 Sports EN",NFL Channel [720p]
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2818190a92879b31.png" tvg-country="US" group-title="4 Sports EN",NFL Network [720p]
-http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/2818190a92879b31.png" tvg-country="US" group-title="4 Sports EN",NFL Network [576p]
+https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/187f3c546af53303.png" tvg-country="RO" group-title="4 Sports EN",NHL AntenaPlay [576i] {Not 24/7}
 https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/a8f38a8fb4c41fe6.png" tvg-country="US" group-title="4 Sports EN",NHL Network [1080p]
@@ -823,6 +819,8 @@ https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste FR",2M Monde (+1) [1080p]
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste FR",2M Monde (HD)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/b71060a0c4c520b1.png" tvg-country="MA" group-title="Généraliste FR",2M Monde [360p]
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -1176,7 +1174,7 @@ https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/149930b6d8ee08a6.png" tvg-country="FR" group-title="Jeunesse FR",Boomerang (HD) [720p]
 http://41.205.93.154/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/c44ef6d40bc86a10.png" tvg-country="FR" group-title="Jeunesse FR",Canal J [1080p]
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/53d3ab9706507361.png" tvg-country="FR" group-title="Jeunesse FR",Canal J [1080p]
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/5a23edd3ac58e05b.png" tvg-country="US" group-title="Jeunesse FR",Detective Conan (France) [720p]
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
