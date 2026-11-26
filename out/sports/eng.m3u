@@ -62,8 +62,6 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9258b96c7f06b638.png" tvg-country="FR" group-title="Sports English",Eurosport 2 (UK) [540p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/bbd6ab97d8cf5dec.png" tvg-country="FR" group-title="Sports English",Eurosport 4K (Romania) [2160p] {Geo-blocked}
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="EurovisionSport.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/8c8994dfc69ca6a2.png" tvg-country="UK" group-title="Sports English",Eurovision Sport [1080p]
 https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/129f327e580f9ae1.png" tvg-country="IE" group-title="Sports English",F1 Channel [1080p] {Geo-blocked}
