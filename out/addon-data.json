@@ -2412,6 +2412,18 @@
 "user_agent": null
 },
 {
+"key": "SonySportsTen2.in@SD",
+"id": "SonySportsTen2.in",
+"name": "Sony Sports Ten 2 [1080p]",
+"plain": "Sony Sports Ten 2",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23e9cb422ce52082.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+"url": "http://103.16.24.4:8083/6.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
 "key": "Sport1Baltic.ua@SD",
 "id": "Sport1Baltic.ua",
 "name": "Sport 1 Baltic [1080p]",
@@ -2468,6 +2480,18 @@
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png",
 "logo_src": "https://i.imgur.com/SnZOiER.png",
 "url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
+"referrer": null,
+"user_agent": null
+},
+{
+"key": "StarSportsKhel.in@SD",
+"id": "StarSportsKhel.in",
+"name": "Star Sports Khel [1080p]",
+"plain": "Star Sports Khel",
+"group": "4 Sports EN",
+"logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6f5d27be92375d3e.png",
+"logo_src": "https://dtil.tmsimg.com/assets/s143809_ld_h15_ab.png?lock=720x540",
+"url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
 "referrer": null,
 "user_agent": null
 },

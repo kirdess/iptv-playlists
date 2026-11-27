@@ -281,6 +281,8 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/77f79c653326d04f.png" tvg-country="US" group-title="Sports English",Slopes TV [720p]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/23e9cb422ce52082.png" tvg-country="IN" group-title="Sports English",Sony Sports Ten 2 [1080p]
+http://103.16.24.4:8083/6.m3u8
 #EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/9ccead1d419c8803.png" tvg-country="UA" group-title="Sports English",Sport 1 Baltic [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
@@ -293,6 +295,8 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/db907b01a5d01175.png" tvg-country="US" group-title="Sports English",Stadium [1080p]
 https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/6f5d27be92375d3e.png" tvg-country="IN" group-title="Sports English",Star Sports Khel [1080p]
+http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/efe5a91241f8e131.png" tvg-country="US" group-title="Sports English",Strongman (UK) [720p]
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-logo="https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/d6bc646bbf626558.png" tvg-country="UK" group-title="Sports English",Strongman Champions League [1080p]
