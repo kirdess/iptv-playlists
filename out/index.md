@@ -2,7 +2,7 @@
 
 | Playlist | Chaînes | Avec programme TV |
 |---|---|---|
-| `fra/all.m3u` | 479 | 248 |
+| `fra/all.m3u` | 479 | 247 |
 | `fra/animation.m3u` | 8 | 6 |
 | `fra/auto.m3u` | 1 | 1 |
 | `fra/business.m3u` | 5 | 2 |
@@ -20,7 +20,7 @@
 | `fra/lifestyle.m3u` | 11 | 7 |
 | `fra/movies.m3u` | 25 | 21 |
 | `fra/music.m3u` | 46 | 23 |
-| `fra/news.m3u` | 55 | 27 |
+| `fra/news.m3u` | 55 | 26 |
 | `fra/outdoor.m3u` | 1 | 0 |
 | `fra/relax.m3u` | 1 | 1 |
 | `fra/religious.m3u` | 43 | 5 |
@@ -30,7 +30,7 @@
 | `fra/travel.m3u` | 1 | 1 |
 | `fra/undefined.m3u` | 52 | 28 |
 | `sports/fra.m3u` | 12 | 9 |
-| `sports/eng.m3u` | 177 | 80 |
-| `sports/combat.m3u` | 16 | 5 |
+| `sports/eng.m3u` | 177 | 81 |
+| `sports/combat.m3u` | 16 | 6 |
 | `custom/ma-selection.m3u` | 6 | 6 |
-| `tout.m3u` | 697 | 352 |
+| `tout.m3u` | 697 | 353 |

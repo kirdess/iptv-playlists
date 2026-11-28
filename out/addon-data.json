@@ -1514,14 +1514,14 @@
 {
 "key": "HardKnocks.ca@SD",
 "id": "HardKnocks.ca",
-"name": "Hard Knocks [1080p]",
+"name": "Hard Knocks [1080p] {Not 24/7}",
 "plain": "Hard Knocks",
 "group": "4 Sports EN",
 "logo": "https://raw.githubusercontent.com/kirdess/iptv-playlists/main/out/posters/ca8d9615de8df9d8.png",
 "logo_src": "https://i.imgur.com/nt9B6jx.png",
-"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
+"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
 "referrer": null,
-"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+"user_agent": null
 },
 {
 "key": "HBCUGOSports.us@SD",
